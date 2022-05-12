@@ -415,7 +415,7 @@ characters:
       zh-CN: ''
       zh-TW: ''
 
-  black-suit:
+  - id: black-suit
     avatars:
       - Black_Suit.webp
     name:
@@ -537,7 +537,7 @@ characters:
       zh-CN: 千世
       zh-TW: 知世
 
-  disciplinary-committee-member:
+  - id: disciplinary-committee-member
     avatars:
       - Fuuki_Normal_1.webp
     name:
@@ -740,7 +740,7 @@ characters:
       zh-CN: 莲见
       zh-TW: 蓮實
 
-  helmet-dan:
+  - id: helmet-dan
     avatars:
       - Helmet_Dan_Black.webp
       - Helmet_Dan_Red.webp
@@ -985,7 +985,7 @@ characters:
       zh-CN: 朱莉
       zh-TW: 茱莉
 
-  justice-task-force-member:
+  - id: justice-task-force-member
     avatars:
       - Justice_Normal_1.webp
     name:
@@ -1002,7 +1002,7 @@ characters:
       zh-CN: ''
       zh-TW: ''
 
-  kaiten-fx-mk-0:
+  - id: kaiten-fx-mk-0
     avatars:
       - KaitenFxMk0.webp
     name:
@@ -1035,7 +1035,7 @@ characters:
       zh-CN: 枫
       zh-TW: ''
 
-  kaiser-pmc-director:
+  - id: kaiser-pmc-director
     avatars:
       - Kaiser_PMC_Director.webp
     name:
@@ -1604,7 +1604,7 @@ characters:
       zh-CN: ''
       zh-TW: ''
 
-  peroro-sama:
+  - id: peroro-sama
     avatars:
       - Peroro_Sama.webp
     name:
@@ -1777,7 +1777,7 @@ characters:
       zh-CN: 芹娜
       zh-TW: 芹奈
 
-  shibaseki-master:
+  - id: shibaseki-master
     avatars:
       - Shibaseki_Master.webp
     name:
@@ -1932,7 +1932,7 @@ characters:
       zh-CN: ''
       zh-TW: ''
 
-  sudama-ichiza:
+  - id: sudama-ichiza
     avatars:
       - StreetGhoste_RL_Yukata.webp
       - Yukata_StreetGhostes.webp
@@ -1983,7 +1983,7 @@ characters:
       zh-CN: 铃美
       zh-TW: 鈴美
 
-  tea-party:
+  - id: tea-party
     avatars:
       - Teaparty_Escort.webp
       - Teaparty_Administrator.webp
