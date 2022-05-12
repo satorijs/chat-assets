@@ -1,1998 +1,2068 @@
-id: blue-archive
-
-names:
+name:
   en: Blue Archive
   ja: ブルーアーカイブ
   zh-CN: 碧蓝档案
   zh-TW: 藍色檔案
 
+tags:
+  abydos:
+    en: Abydos
+  after-school-sweets-club:
+    en: After School Sweets Club
+  athletics-training-club:
+    en: Athletics Training Club
+  citizen:
+    en: Citizen
+  city-chimpira:
+    en: City Chimpira
+  cleaning-and-clearing:
+    en: C&C
+  communio-sanctorum:
+    en: Communio Sanctorum
+  community-safety-bureau:
+    en: Community Safety Bureau
+  construction-department:
+    en: Construction Department
+  countermeasures-council:
+    en: Countermeasures Council
+  decagrammaton:
+    en: Decagrammaton
+  disciplinary-committee:
+    en: Disciplinary Committee
+  eastern-alchemy-society:
+    en: Eastern Alchemy Society
+  emergency-medicine-club:
+    en: Emergency Medicine Club
+  engineering-club:
+    en: Engineering Club
+  festival-operations-department:
+    en: Festival Operations Department
+  game-development-department:
+    en: Game Development Department
+  gehenna:
+    en: Gehenna
+  gourmet-research-society:
+    en: Gourmet Research Society
+  hyakkiyako:
+    en: Hyakkiyako
+  hyakkiyako-commercial-district:
+    en: Hyakkiyako Commercial District
+  inner-discipline-club:
+    en: Inner Discipline Club
+  justice-task-force:
+    en: Justice Task Force
+  makeup-work-club:
+    en: Makeup Work Club
+  masked-swimsuit-group:
+    en: Masked Swimsuit Group
+  millennium:
+    en: Millennium
+  ninjutsu-research-department:
+    en: Ninjutsu Research Department
+  plum-blossom-garden:
+    en: Plum Blossom Garden
+  prime-student-council:
+    en: Prime Student Council
+  problem-solver-68:
+    en: Problem Solver 68
+  rabbit-platoon:
+    en: Rabbit Platoon
+  red-winter:
+    en: Red Winter
+  red-winter-secretariat:
+    en: Red Winter Secretariat
+  remedial-knights:
+    en: Remedial Knights
+  school-lunch-club:
+    en: School Lunch Club
+  seminar:
+    en: Seminar
+  sisterhood:
+    en: Sisterhood
+  shanhaijing:
+    en: Shanhaijing
+  shitims_box:
+    en: Shitim's Box
+  special-class-no-227:
+    en: Special Class No.227
+  srt:
+    en: SRT
+  super-phenomenon-task-force:
+    en: Super Phenomenon Task Force
+  tea-party:
+    en: Tea Party
+  the-library-of-lore:
+    en: The Library of Lore
+  trinity:
+    en: Trinity
+  valkyrie:
+    en: Valkyrie
+  veritas:
+    en: Veritas
+  vigilante-crew:
+    en: Vigilante Crew
+  yin-yang-club:
+    en: Yin-Yang Club
+
 characters:
   airi:
-    images:
+    avatars:
       - Airi
-    names:
+    name:
       en: Kurimura Airi
       ja: 栗村 アイリ
       zh-CN: 栗村 爱莉
       zh-TW: 栗村 愛莉
-    searches:
+    tags:
       - trinity
-      - after_school_sweets_club
-    short_names:
+      - after-school-sweets-club
+    nickname:
       en: Airi
       ja: アイリ
       zh-CN: 爱莉
       zh-TW: 愛莉
 
   akane:
-    images:
+    avatars:
       - Akane
       - Akane_BunnyGirl
-    names:
+    name:
       en: Murokasa Akane
       ja: 室笠 アカネ
       zh-CN: 室笠 茜
       zh-TW: 室笠 朱音
-    searches:
+    tags:
       - millennium
-      - cleaning_and_clearing
-    short_names:
+      - cleaning-and-clearing
+    nickname:
       en: Akane
       ja: アカネ
       zh-CN: 茜
       zh-TW: 朱音
 
   akari:
-    images:
+    avatars:
       - Akari
-    names:
+    name:
       en: Wanibuchi Akari
       ja: 鰐渕 アカリ
       zh-CN: 鳄渊 茜里
       zh-TW: 鰐渕 亞伽里
-    searches:
+    tags:
       - gehenna
-      - gourmet_research_society
-    short_names:
+      - gourmet-research-society
+    nickname:
       en: Akari
       ja: アカリ
       zh-CN: 茜里
       zh-TW: 亞伽里
 
   ako:
-    images:
+    avatars:
       - Ako
-    names:
+    name:
       en: Amau Ako
       ja: 天雨 アコ
       zh-CN: 天雨 亚子
       zh-TW: ''
-    searches:
+    tags:
       - gehenna
-      - disciplinary_committee
-    short_names:
+      - disciplinary-committee
+    nickname:
       en: Ako
       ja: アコ
       zh-CN: 亚子
       zh-TW: ''
 
   alice:
-    images:
+    avatars:
       - Alice
-    names:
+    name:
       en: Tendou Alice
       ja: 天童 アリス
       zh-CN: 天童 爱丽丝
       zh-TW: 天童 愛麗絲
-    searches:
+    tags:
       - millennium
-      - game_development_department
-    short_names:
+      - game-development-department
+    nickname:
       en: Alice
       ja: アリス
       zh-CN: 爱丽丝
       zh-TW: 愛麗絲
 
   android:
-    images:
+    avatars:
       - Citizen_Borot_1
       - Citizen_Borot_2
-    names:
+    name:
       en: Android
       ja: アンドロイド
       zh-CN: ''
       zh-TW: ''
-    searches:
-      - '???'
+    tags:
       - citizen
-    short_names:
+    nickname:
       en: Android
       ja: アンドロイド
       zh-CN: ''
       zh-TW: ''
 
   arona:
-    images:
+    avatars:
       - Arona
-    names:
+    name:
       en: Arona
       ja: アロナ
       zh-CN: ''
       zh-TW: ''
-    searches:
-      - '???'
-      - shitim's_box
-    short_names:
+    tags:
+      - shitims_box
+    nickname:
       en: Arona
       ja: アロナ
       zh-CN: ''
       zh-TW: ''
 
   aru:
-    images:
+    avatars:
       - Aru
       - Aru_Newyear
-    names:
+    name:
       en: Rikuhachima Aru
       ja: 陸八魔 アル
       zh-CN: 陆八魔 阿露
       zh-TW: 陸八魔 亞瑠
-    searches:
+    tags:
       - gehenna
-      - problem_solver_68
-    short_names:
+      - problem-solver-68
+    nickname:
       en: Aru
       ja: アル
       zh-CN: 阿露
       zh-TW: 亞瑠
 
   asuna:
-    images:
+    avatars:
       - Asuna
       - Asuna_BunnyGirl
-    names:
+    name:
       en: Ichinose Asuna
       ja: 一之瀬 アスナ
       zh-CN: 一之濑 明日奈
       zh-TW: 一之瀬 明日奈
-    searches:
+    tags:
       - millennium
-      - cleaning_and_clearing
-    short_names:
+      - cleaning-and-clearing
+    nickname:
       en: Asuna
       ja: アスナ
       zh-CN: 明日奈
       zh-TW: 明日奈
 
   ayane:
-    images:
+    avatars:
       - Ayane
       - Ayane_Robber
-    names:
+    name:
       en: Okusora Ayane
       ja: 奥空 アヤネ
       zh-CN: 奥空 绫音
       zh-TW: 奥空 綾音
-    searches:
+    tags:
       - abydos
-      - countermeasures_council
-      - masked_swimsuit_group
-    short_names:
+      - countermeasures-council
+      - masked-swimsuit-group
+    nickname:
       en: Ayane
       ja: アヤネ
       zh-CN: 绫音
       zh-TW: 綾音
 
   ayumu:
-    images:
+    avatars:
       - Ayumu
-    names:
+    name:
       en: Iwabitsu Ayumu
       ja: 岩櫃 アユム
       zh-CN: ''
       zh-TW: ''
-    searches:
-      - '???'
-      - prime_student_council
-    short_names:
+    tags:
+      - prime-student-council
+    nickname:
       en: Ayumu
       ja: アユム
       zh-CN: ''
       zh-TW: ''
 
   azusa:
-    images:
+    avatars:
       - Azusa
       - Azusa_Swimsuit
-    names:
+    name:
       en: Shirasu Azusa
       ja: 白洲 アズサ
       zh-CN: 白洲 梓
       zh-TW: 白洲 梓
-    searches:
+    tags:
       - trinity
-      - makeup_work_club
-    short_names:
+      - makeup-work-club
+    nickname:
       en: Azusa
       ja: アズサ
       zh-CN: 梓
       zh-TW: 梓
 
   binah:
-    images:
+    avatars:
       - Binah
-    names:
+    name:
       en: Binah
       ja: ビナー
       zh-CN: ''
       zh-TW: ''
-    searches:
-      - '???'
+    tags:
       - decagrammaton
-    short_names:
+    nickname:
       en: Binah
       ja: ビナー
       zh-CN: ''
       zh-TW: ''
 
   black-suit:
-    images:
+    avatars:
       - Black_Suit
-    names:
+    name:
       en: Black Suit
       ja: 黒服
       zh-CN: ''
       zh-TW: ''
-    searches:
-      - '???'
+    tags:
       - gematria
-    short_names:
+    nickname:
       en: Black Suit
       ja: 黒服
       zh-CN: ''
       zh-TW: ''
 
   cherino:
-    images:
+    avatars:
       - Cherino
       - Cherino_Hotspring
-    names:
+    name:
       en: Renkawa Cherino
       ja: 連河 チェリノ
       zh-CN: 连河 切里诺
       zh-TW: 連河 潔莉諾
-    searches:
-      - red_winter
-      - red_winter_secretariat
-    short_names:
+    tags:
+      - red-winter
+      - red-winter-secretariat
+    nickname:
       en: Cherino
       ja: チェリノ
       zh-CN: 切里诺
       zh-TW: 潔莉諾
 
   chesed:
-    images:
+    avatars:
       - Chesed
-    names:
+    name:
       en: Chesed
       ja: ケセド
       zh-CN: ''
       zh-TW: ''
-    searches:
-      - '???'
+    tags:
       - decagrammaton
-    short_names:
+    nickname:
       en: Chesed
       ja: ケセド
       zh-CN: ''
       zh-TW: ''
 
   chihiro:
-    images:
+    avatars:
       - Chihiro
-    names:
+    name:
       en: Kagami Chihiro
       ja: 各務 チヒロ
       zh-CN: 各务 千寻
       zh-TW: ''
-    searches:
+    tags:
       - millennium
       - veritas
-    short_names:
+    nickname:
       en: Chihiro
       ja: チヒロ
       zh-CN: 千寻
       zh-TW: ''
 
   sukeban:
-    images:
+    avatars:
       - Sukeban_HMG
       - Sukeban_SMG
       - Sukeban_SR
       - Sukeban_SMG_Swimsuit
       - Sukeban_MG_Swimsuit
-    names:
+    name:
       en: Chimpira
       ja: チンピラ
       zh-CN: ''
       zh-TW: ''
-    searches:
-      - '???'
-      - city_chimpira
-    short_names:
+    tags:
+      - city-chimpira
+    nickname:
       en: Chimpira
       ja: チンピラ
       zh-CN: ''
       zh-TW: ''
 
   chinatsu:
-    images:
+    avatars:
       - Chinatsu
       - Chinatsu_Hotspring
-    names:
+    name:
       en: Hinomiya Chinatsu
       ja: 火宮 チナツ
       zh-CN: 火宫 千夏
       zh-TW: 日野宮 千夏
-    searches:
+    tags:
       - gehenna
-      - disciplinary_committee
-    short_names:
+      - disciplinary-committee
+    nickname:
       en: Chinatsu
       ja: チナツ
       zh-CN: 千夏
       zh-TW: 千夏
 
   chise:
-    images:
+    avatars:
       - Chise
-    names:
+    name:
       en: Waraku Chise
       ja: 和楽 チセ
       zh-CN: 和乐 千世
       zh-TW: 和樂 知世
-    searches:
+    tags:
       - hyakkiyako
-      - yin_yang_club
-    short_names:
+      - yin-yang-club
+    nickname:
       en: Chise
       ja: チセ
       zh-CN: 千世
       zh-TW: 知世
 
   disciplinary-committee-member:
-    images:
+    avatars:
       - Fuuki_Normal_1
-    names:
+    name:
       en: Disciplinary Committee Member
       ja: 風紀委員
       zh-CN: ''
       zh-TW: ''
-    searches:
+    tags:
       - gehenna
-      - disciplinary_committee
-    short_names:
+      - disciplinary-committee
+    nickname:
       en: Disciplinary Committee Member
       ja: 風紀委員
       zh-CN: ''
       zh-TW: ''
 
   decalcomanie:
-    images:
+    avatars:
       - Décalcomanie
-    names:
+    name:
       en: Décalcomanie
       ja: デカルコマニー
       zh-CN: ''
       zh-TW: ''
-    searches:
-      - '???'
+    tags:
       - gematria
-    short_names:
+    nickname:
       en: Décalcomanie
       ja: デカルコマニー
       zh-CN: ''
       zh-TW: ''
 
   eimi:
-    images:
+    avatars:
       - Eimi
-    names:
+    name:
       en: Izumimoto Eimi
       ja: 和泉元 エイミ
       zh-CN: 和泉元 艾米
       zh-TW: 和泉元 英美
-    searches:
+    tags:
       - millennium
-      - super_phenomenon_task_force
-    short_names:
+      - super-phenomenon-task-force
+    nickname:
       en: Eimi
       ja: エイミ
       zh-CN: 艾米
       zh-TW: 英美
 
   fubuki:
-    images:
+    avatars:
       - Fubuki
-    names:
+    name:
       en: Nemugaki Fubuki
       ja: 合歓垣 フブキ
       zh-CN: 合欢垣 吹雪
       zh-TW: ''
-    searches:
+    tags:
       - valkyrie
-      - community_safety_bureau
-    short_names:
+      - community-safety-bureau
+    nickname:
       en: Fubuki
       ja: フブキ
       zh-CN: 吹雪
       zh-TW: ''
 
   fuuka:
-    images:
+    avatars:
       - Fuuka
-    names:
+    name:
       en: Aikiyo Fuuka
       ja: 愛清 フウカ
       zh-CN: 爱清 风香
       zh-TW: 愛清 風華
-    searches:
+    tags:
       - gehenna
-      - school_lunch_club
-    short_names:
+      - school-lunch-club
+    nickname:
       en: Fuuka
       ja: フウカ
       zh-CN: 风香
       zh-TW: 風華
 
   golconde:
-    images:
+    avatars:
       - Golconde
-    names:
+    name:
       en: Golconde
       ja: ゴルコンダ
       zh-CN: ''
       zh-TW: ''
-    searches:
-      - '???'
+    tags:
       - gematria
-    short_names:
+    nickname:
       en: Golconde
       ja: ゴルコンダ
       zh-CN: ''
       zh-TW: ''
 
   hanae:
-    images:
+    avatars:
       - Hanae
-    names:
+    name:
       en: Asagao Hanae
       ja: 朝顔 ハナエ
       zh-CN: 朝颜 花江
       zh-TW: 朝顔 花繪
-    searches:
+    tags:
       - trinity
-      - remedial_knights
-    short_names:
+      - remedial-knights
+    nickname:
       en: Hanae
       ja: ハナエ
       zh-CN: 花江
       zh-TW: 花繪
 
   hanako:
-    images:
+    avatars:
       - Hanako
-    names:
+    name:
       en: Urawa Hanako
       ja: 浦和 ハナコ
       zh-CN: 浦和 花子
       zh-TW: 浦和 花子
-    searches:
+    tags:
       - trinity
-      - makeup_work_club
-    short_names:
+      - makeup-work-club
+    nickname:
       en: Hanako
       ja: ハナコ
       zh-CN: 花子
       zh-TW: 花子
 
   hare:
-    images:
+    avatars:
       - Hare
-    names:
+    name:
       en: Omagari Hare
       ja: 小鈎 ハレ
       zh-CN: 小钩 晴
       zh-TW: 小鉤 晴
-    searches:
+    tags:
       - millennium
       - veritas
-    short_names:
+    nickname:
       en: Hare
       ja: ハレ
       zh-CN: 晴
       zh-TW: 晴
 
   haruka:
-    images:
+    avatars:
       - Haruka
       - Haruka_Newyear
-    names:
+    name:
       en: Igusa Haruka
       ja: 伊草 ハルカ
       zh-CN: 伊草 春香
       zh-TW: 伊草 遙香
-    searches:
+    tags:
       - gehenna
-      - problem_solver_68
-    short_names:
+      - problem-solver-68
+    nickname:
       en: Haruka
       ja: ハルカ
       zh-CN: 春香
       zh-TW: 遙香
 
   haruna:
-    images:
+    avatars:
       - Haruna
-    names:
+    name:
       en: Kurodate Haruna
       ja: 黒館 ハルナ
       zh-CN: 黑馆 晴奈
       zh-TW: 黑館 羽留奈
-    searches:
+    tags:
       - gehenna
-      - gourmet_research_society
-    short_names:
+      - gourmet-research-society
+    nickname:
       en: Haruna
       ja: ハルナ
       zh-CN: 晴奈
       zh-TW: 羽留奈
 
   hasumi:
-    images:
+    avatars:
       - Hasumi
-    names:
+    name:
       en: Hanekawa Hasumi
       ja: 羽川 ハスミ
       zh-CN: 羽川 莲见
       zh-TW: 羽川 蓮實
-    searches:
+    tags:
       - trinity
-      - justice_task_force
-    short_names:
+      - justice-task-force
+    nickname:
       en: Hasumi
       ja: ハスミ
       zh-CN: 莲见
       zh-TW: 蓮實
 
   helmet-dan:
-    images:
+    avatars:
       - Helmet_Dan_Black
       - Helmet_Dan_Red
-    names:
+    name:
       en: Helmet Dan
       ja: ヘルメット団
       zh-CN: ''
       zh-TW: ''
-    searches:
-      - '???'
+    tags:
       - helmet_dan
-    short_names:
+    nickname:
       en: Helmet Dan
       ja: ヘルメット団
       zh-CN: ''
       zh-TW: ''
 
   hibiki:
-    images:
+    avatars:
       - Hibiki
-    names:
+    name:
       en: Nekozuka Hibiki
       ja: 猫塚 ヒビキ
       zh-CN: 猫冢 响
       zh-TW: 猫塚 響
-    searches:
+    tags:
       - millennium
-      - engineering_club
-    short_names:
+      - engineering-club
+    nickname:
       en: Hibiki
       ja: ヒビキ
       zh-CN: 响
       zh-TW: 響
 
   hieronymus:
-    images:
+    avatars:
       - Hieronymus
-    names:
+    name:
       en: Hieronymus
       ja: ヒエロニムス
       zh-CN: ''
       zh-TW: ''
-    searches:
-      - '???'
-      - communio_sanctorum
-    short_names:
+    tags:
+      - communio-sanctorum
+    nickname:
       en: Hieronymus
       ja: ヒエロニムス
       zh-CN: ''
       zh-TW: ''
 
   hifumi:
-    images:
+    avatars:
       - Hifumi
       - Hifumi_Robber
       - Hifumi_Swimsuit
-    names:
+    name:
       en: Ajitani Hifumi
       ja: 阿慈谷 ヒフミ
       zh-CN: 阿慈谷 日富美
       zh-TW: 阿慈谷 日步美
-    searches:
+    tags:
       - trinity
-      - makeup_work_club
-      - masked_swimsuit_group
-    short_names:
+      - makeup-work-club
+      - masked-swimsuit-group
+    nickname:
       en: Hifumi
       ja: ヒフミ
       zh-CN: 日富美
       zh-TW: 日步美
 
   hina:
-    images:
+    avatars:
       - Hina
       - Hina_Swimsuit
       - Hina_Nightware
-    names:
+    name:
       en: Sorasaki Hina
       ja: 空崎 ヒナ
       zh-CN: 空崎 日奈
       zh-TW: 空崎 陽奈
-    searches:
+    tags:
       - gehenna
-      - disciplinary_committee
-    short_names:
+      - disciplinary-committee
+    nickname:
       en: Hina
       ja: ヒナ
       zh-CN: 日奈
       zh-TW: 陽奈
 
   hinata:
-    images:
+    avatars:
       - Hinata
-    names:
+    name:
       en: Wakaba Hinata
       ja: 若葉 ヒナタ
       zh-CN: 若叶 日向
       zh-TW: ''
-    searches:
+    tags:
       - trinity
       - sisterhood
-    short_names:
+    nickname:
       en: Hinata
       ja: ヒナタ
       zh-CN: 日向
       zh-TW: ''
 
   hod:
-    images:
+    avatars:
       - Hod
-    names:
+    name:
       en: Hod
       ja: ホド
       zh-CN: ''
       zh-TW: ''
-    searches:
-      - '???'
+    tags:
       - decagrammaton
-    short_names:
+    nickname:
       en: Hod
       ja: ホド
       zh-CN: ''
       zh-TW: ''
 
   hoshino:
-    images:
+    avatars:
       - Hoshino
       - Hoshino_Robber
-    names:
+    name:
       en: Takanashi Hoshino
       ja: 小鳥遊 ホシノ
       zh-CN: 小鸟游 星野
       zh-TW: 小鳥游 星野
-    searches:
+    tags:
       - abydos
-      - countermeasures_council
-      - masked_swimsuit_group
-    short_names:
+      - countermeasures-council
+      - masked-swimsuit-group
+    nickname:
       en: Hoshino
       ja: ホシノ
       zh-CN: 星野
       zh-TW: 星野
 
   iori:
-    images:
+    avatars:
       - Iori
       - Iori_Swimsuit
-    names:
+    name:
       en: Shiromi Iori
       ja: 銀鏡 イオリ
       zh-CN: 银镜 伊织
       zh-TW: 銀鏡 伊織
-    searches:
+    tags:
       - gehenna
-      - disciplinary_committee
-    short_names:
+      - disciplinary-committee
+    nickname:
       en: Iori
       ja: イオリ
       zh-CN: 伊织
       zh-TW: 伊織
 
   iroha:
-    images:
+    avatars:
       - Iroha
-    names:
+    name:
       en: Natsume Iroha
       ja: 棗 イロハ
       zh-CN: 枣 伊吕波
       zh-TW: ''
-    searches:
+    tags:
       - gehenna
       - pandemonium_society
-    short_names:
+    nickname:
       en: Iroha
       ja: イロハ
       zh-CN: 伊吕波
       zh-TW: ''
 
   izumi:
-    images:
+    avatars:
       - Izumi
       - Izumi_Swimsuit
-    names:
+    name:
       en: Shishidou Izumi
       ja: 獅子堂 イズミ
       zh-CN: 狮子堂 泉
       zh-TW: 獅子堂 泉
-    searches:
+    tags:
       - gehenna
-      - gourmet_research_society
-    short_names:
+      - gourmet-research-society
+    nickname:
       en: Izumi
       ja: イズミ
       zh-CN: 泉
       zh-TW: 泉
 
   izuna:
-    images:
+    avatars:
       - Izuna
-    names:
+    name:
       en: Kuda Izuna
       ja: 久田 イズナ
       zh-CN: 久田 泉奈
       zh-TW: 久田 伊樹菜
-    searches:
+    tags:
       - hyakkiyako
-      - ninjutsu_research_department
-    short_names:
+      - ninjutsu-research-department
+    nickname:
       en: Izuna
       ja: イズナ
       zh-CN: 泉奈
       zh-TW: 伊樹菜
 
   junko:
-    images:
+    avatars:
       - Junko
-    names:
+    name:
       en: Akashi Junko
       ja: 赤司 ジュンコ
       zh-CN: 赤司 纯子
       zh-TW: 赤司 淳子
-    searches:
+    tags:
       - gehenna
-      - gourmet_research_society
-    short_names:
+      - gourmet-research-society
+    nickname:
       en: Junko
       ja: ジュンコ
       zh-CN: 纯子
       zh-TW: 淳子
 
   juri:
-    images:
+    avatars:
       - Juri
-    names:
+    name:
       en: Ushimaki Juri
       ja: 牛牧 ジュリ
       zh-CN: 牛牧 朱莉
       zh-TW: 牛牧 茱莉
-    searches:
+    tags:
       - gehenna
-      - school_lunch_club
-    short_names:
+      - school-lunch-club
+    nickname:
       en: Juri
       ja: ジュリ
       zh-CN: 朱莉
       zh-TW: 茱莉
 
   justice-task-force-member:
-    images:
+    avatars:
       - Justice_Normal_1
-    names:
+    name:
       en: Justice Task Force Member
       ja: 正義実現委員会部員
       zh-CN: ''
       zh-TW: ''
-    searches:
+    tags:
       - trinity
-      - justice_task_force
-    short_names:
+      - justice-task-force
+    nickname:
       en: Justice Task Force Member
       ja: 正義実現委員会部員
       zh-CN: ''
       zh-TW: ''
 
   kaiten-fx-mk-0:
-    images:
+    avatars:
       - KaitenFxMk0
-    names:
+    name:
       en: KAITEN FX Mk.0
       ja: KAITEN FX Mk.0
       zh-CN: ''
       zh-TW: ''
-    searches:
-      - '???'
+    tags:
       - kaitenger
-    short_names:
+    nickname:
       en: KAITEN FX Mk.0
       ja: KAITEN FX Mk.0
       zh-CN: ''
       zh-TW: ''
 
   kaede:
-    images:
+    avatars:
       - Kaede
-    names:
+    name:
       en: Isami Kaede
       ja: 勇美 カエデ
       zh-CN: 勇美 枫
       zh-TW: ''
-    searches:
+    tags:
       - hyakkiyako
-      - inner_discipline_club
-    short_names:
+      - inner-discipline-club
+    nickname:
       en: Kaede
       ja: カエデ
       zh-CN: 枫
       zh-TW: ''
 
   kaiser-pmc-director:
-    images:
+    avatars:
       - Kaiser_PMC_Director
-    names:
+    name:
       en: Kaiser PMC Director
       ja: カイザーPMC理事
       zh-CN: ''
       zh-TW: ''
-    searches:
-      - '???'
+    tags:
       - kaiser_pmc
-    short_names:
+    nickname:
       en: Kaiser PMC Director
       ja: カイザーPMC理事
       zh-CN: ''
       zh-TW: ''
 
   kaitenger:
-    images:
+    avatars:
       - Kaitenger_Red
       - Kaitenger_Black
       - Kaitenger_Green
       - Kaitenger_Yellow
       - Kaitenger_Pink
-    names:
+    name:
       en: Kaitenger
       ja: カイテンジャー
       zh-CN: ''
       zh-TW: ''
-    searches:
-      - '???'
+    tags:
       - kaitenger
-    short_names:
+    nickname:
       en: Kaitenger
       ja: カイテンジャー
       zh-CN: ''
       zh-TW: ''
 
   karin:
-    images:
+    avatars:
       - Karin
       - Karin_BunnyGirl
-    names:
+    name:
       en: Kakudate Karin
       ja: 角楯 カリン
       zh-CN: 角楯 花凛
       zh-TW: 角楯 花凛
-    searches:
+    tags:
       - millennium
-      - cleaning_and_clearing
-    short_names:
+      - cleaning-and-clearing
+    nickname:
       en: Karin
       ja: カリン
       zh-CN: 花凛
       zh-TW: 花凛
 
   kayoko:
-    images:
+    avatars:
       - Kayoko
       - Kayoko_Newyear
-    names:
+    name:
       en: Onikata Kayoko
       ja: 鬼方 カヨコ
       zh-CN: 鬼方 佳代子
       zh-TW: 鬼方 佳世子
-    searches:
+    tags:
       - gehenna
-      - problem_solver_68
-    short_names:
+      - problem-solver-68
+    nickname:
       en: Kayoko
       ja: カヨコ
       zh-CN: 佳代子
       zh-TW: 佳世子
 
   kirino:
-    images:
+    avatars:
       - Kirino
-    names:
+    name:
       en: Nakatsukasa Kirino
       ja: 中務 キリノ
       zh-CN: 中务 桐乃
       zh-TW: 中務 桐乃
-    searches:
+    tags:
       - valkyrie
-      - community_safety_bureau
-    short_names:
+      - community-safety-bureau
+    nickname:
       en: Kirino
       ja: キリノ
       zh-CN: 桐乃
       zh-TW: 桐乃
 
   citizen:
-    images:
+    avatars:
       - Citizen_Animal_1
       - Citizen_Animal_6
       - Market_Animal_2
       - Citizen_animal7
-    names:
+    name:
       en: Kivotos Citizen
       ja: キヴォトス市民
       zh-CN: ''
       zh-TW: ''
-    searches:
-      - '???'
+    tags:
       - citizen
-    short_names:
+    nickname:
       en: Kivotos Citizen
       ja: キヴォトス市民
       zh-CN: ''
       zh-TW: ''
 
   koharu:
-    images:
+    avatars:
       - Koharu
-    names:
+    name:
       en: Shimoe Koharu
       ja: 下江 コハル
       zh-CN: 下江 小春
       zh-TW: 下江 小春
-    searches:
+    tags:
       - trinity
-      - makeup_work_club
-    short_names:
+      - makeup-work-club
+    nickname:
       en: Koharu
       ja: コハル
       zh-CN: 小春
       zh-TW: 小春
 
   kotama:
-    images:
+    avatars:
       - Kotama
-    names:
+    name:
       en: Otose Kotama
       ja: 音瀬 コタマ
       zh-CN: 音濑 小玉
       zh-TW: 音瀬 小玉
-    searches:
+    tags:
       - millennium
       - veritas
-    short_names:
+    nickname:
       en: Kotama
       ja: コタマ
       zh-CN: 小玉
       zh-TW: 小玉
 
   kotori:
-    images:
+    avatars:
       - Kotori
-    names:
+    name:
       en: Toyomi Kotori
       ja: 豊見 コトリ
       zh-CN: 豊见 琴里
       zh-TW: 豐見 亞都梨
-    searches:
+    tags:
       - millennium
-      - engineering_club
-    short_names:
+      - engineering-club
+    nickname:
       en: Kotori
       ja: コトリ
       zh-CN: 琴里
       zh-TW: 亞都梨
 
   kuro:
-    images:
+    avatars:
       - Kuro
-    names:
+    name:
       en: Kuro
       ja: クロ
       zh-CN: ''
       zh-TW: ''
-    searches:
-      - '???'
+    tags:
       - mimesis
-    short_names:
+    nickname:
       en: Kuro
       ja: クロ
       zh-CN: ''
       zh-TW: ''
 
   maestro:
-    images:
+    avatars:
       - Maestro
-    names:
+    name:
       en: Maestro
       ja: マエストロ
       zh-CN: ''
       zh-TW: ''
-    searches:
-      - '???'
+    tags:
       - gematria
-    short_names:
+    nickname:
       en: Maestro
       ja: マエストロ
       zh-CN: ''
       zh-TW: ''
 
   maki:
-    images:
+    avatars:
       - Maki
-    names:
+    name:
       en: Konuri Maki
       ja: 小塗 マキ
       zh-CN: 小涂 真纪
       zh-TW: 小塗 真紀
-    searches:
+    tags:
       - millennium
       - veritas
-    short_names:
+    nickname:
       en: Maki
       ja: マキ
       zh-CN: 真纪
       zh-TW: 真紀
 
   mari:
-    images:
+    avatars:
       - Mari
-    names:
+    name:
       en: Iochi Mari
       ja: 伊落 マリー
       zh-CN: ''
       zh-TW: ''
-    searches:
+    tags:
       - trinity
       - sisterhood
-    short_names:
+    nickname:
       en: Mari
       ja: マリー
       zh-CN: ''
       zh-TW: ''
 
   marina:
-    images:
+    avatars:
       - Marina
-    names:
+    name:
       en: Ikekura Marina
       ja: 池倉 マリナ
       zh-CN: 池仓 玛丽娜
       zh-TW: ''
-    searches:
-      - red_winter
-      - red_winter_secretariat
-    short_names:
+    tags:
+      - red-winter
+      - red-winter-secretariat
+    nickname:
       en: Marina
       ja: マリナ
       zh-CN: 玛丽娜
       zh-TW: ''
 
   mashiro:
-    images:
+    avatars:
       - Mashiro
       - Mashiro_Swimsuit
-    names:
+    name:
       en: Shizuyama Mashiro
       ja: 静山 マシロ
       zh-CN: 静山 真白
       zh-TW: 靜山 麻白
-    searches:
+    tags:
       - trinity
-      - justice_task_force
-    short_names:
+      - justice-task-force
+    nickname:
       en: Mashiro
       ja: マシロ
       zh-CN: 真白
       zh-TW: 麻白
 
   megu:
-    images:
+    avatars:
       - Megu
-    names:
+    name:
       en: Shimokura Megu
       ja: 下倉 メグ
       zh-CN: ''
       zh-TW: ''
-    searches:
+    tags:
       - gehenna
       - onsen_development_club
-    short_names:
+    nickname:
       en: Megu
       ja: メグ
       zh-CN: ''
       zh-TW: ''
 
   michiru:
-    images:
+    avatars:
       - Michiru
-    names:
+    name:
       en: Chidori Michiru
       ja: 千鳥 ミチル
       zh-CN: 千鸟 满
       zh-TW: ''
-    searches:
+    tags:
       - hyakkiyako
-      - ninjutsu_research_department
-    short_names:
+      - ninjutsu-research-department
+    nickname:
       en: Michiru
       ja: ミチル
       zh-CN: 满
       zh-TW: ''
 
   midori:
-    images:
+    avatars:
       - Midori
-    names:
+    name:
       en: Saiba Midori
       ja: 才羽 ミドリ
       zh-CN: 才羽 绿
       zh-TW: 才羽 綠
-    searches:
+    tags:
       - millennium
-      - game_development_department
-    short_names:
+      - game-development-department
+    nickname:
       en: Midori
       ja: ミドリ
       zh-CN: 绿
       zh-TW: 綠
 
   mika:
-    images:
+    avatars:
       - Mika
-    names:
+    name:
       en: Misono Mika
       ja: 聖園 ミカ
       zh-CN: ''
       zh-TW: ''
-    searches:
+    tags:
       - trinity
-      - tea_party
-    short_names:
+      - tea-party
+    nickname:
       en: Mika
       ja: ミカ
       zh-CN: ''
       zh-TW: ''
 
   mimori:
-    images:
+    avatars:
       - Mimori
-    names:
+    name:
       en: Mizuha Mimori
       ja: 水羽 ミモリ
       zh-CN: 水羽 三森
       zh-TW: ''
-    searches:
+    tags:
       - hyakkiyako
-      - inner_discipline_club
-    short_names:
+      - inner-discipline-club
+    nickname:
       en: Mimori
       ja: ミモリ
       zh-CN: 三森
       zh-TW: ''
 
   minori:
-    images:
+    avatars:
       - Minori
-    names:
+    name:
       en: Yasumori Minori
       ja: 安守 ミノリ
       zh-CN: ''
       zh-TW: ''
-    searches:
-      - red_winter
-      - construction_department
-    short_names:
+    tags:
+      - red-winter
+      - construction-department
+    nickname:
       en: Minori
       ja: ミノリ
       zh-CN: ''
       zh-TW: ''
 
   miyako:
-    images:
+    avatars:
       - Miyako
-    names:
+    name:
       en: Tsukiyuki Miyako
       ja: 月雪 ミヤコ
       zh-CN: 月雪 宫子
       zh-TW: ''
-    searches:
+    tags:
       - srt
-      - rabbit_platoon
-    short_names:
+      - rabbit-platoon
+    nickname:
       en: Miyako
       ja: ミヤコ
       zh-CN: 宫子
       zh-TW: ''
 
   miyu:
-    images:
+    avatars:
       - Miyu
-    names:
+    name:
       en: Kasumizawa Miyu
       ja: 霞沢 ミユ
       zh-CN: 霞沢 美游
       zh-TW: ''
-    searches:
+    tags:
       - srt
-      - rabbit_platoon
-    short_names:
+      - rabbit-platoon
+    nickname:
       en: Miyu
       ja: ミユ
       zh-CN: 美游
       zh-TW: ''
 
   moe:
-    images:
+    avatars:
       - Moe
-    names:
+    name:
       en: Kazekura Moe
       ja: 風倉 モエ
       zh-CN: ''
       zh-TW: ''
-    searches:
+    tags:
       - srt
-      - rabbit_platoon
-    short_names:
+      - rabbit-platoon
+    nickname:
       en: Moe
       ja: モエ
       zh-CN: ''
       zh-TW: ''
 
   momoi:
-    images:
+    avatars:
       - Momoi
-    names:
+    name:
       en: Saiba Momoi
       ja: 才羽 モモイ
       zh-CN: 才羽 桃衣
       zh-TW: 才羽 桃井
-    searches:
+    tags:
       - millennium
-      - game_development_department
-    short_names:
+      - game-development-department
+    nickname:
       en: Momoi
       ja: モモイ
       zh-CN: 桃衣
       zh-TW: 桃井
 
   momoka:
-    images:
+    avatars:
       - Momoka
-    names:
+    name:
       en: Yuragi Momoka
       ja: 由良木 モモカ
       zh-CN: ''
       zh-TW: ''
-    searches:
-      - '???'
-      - prime_student_council
-    short_names:
+    tags:
+      - prime-student-council
+    nickname:
       en: Momoka
       ja: モモカ
       zh-CN: ''
       zh-TW: ''
 
   mutsuki:
-    images:
+    avatars:
       - Mutsuki
       - Mutsuki_Newyear
-    names:
+    name:
       en: Asagi Mutsuki
       ja: 浅黄 ムツキ
       zh-CN: 浅黄 睦月
       zh-TW: 浅黃 無月
-    searches:
+    tags:
       - gehenna
-      - problem_solver_68
-    short_names:
+      - problem-solver-68
+    nickname:
       en: Mutsuki
       ja: ムツキ
       zh-CN: 睦月
       zh-TW: 無月
 
   nagisa:
-    images:
+    avatars:
       - Nagisa
-    names:
+    name:
       en: Kirifuji Nagisa
       ja: 桐藤 ナギサ
       zh-CN: ''
       zh-TW: ''
-    searches:
+    tags:
       - trinity
-      - tea_party
-    short_names:
+      - tea-party
+    nickname:
       en: Nagisa
       ja: ナギサ
       zh-CN: ''
       zh-TW: ''
 
   natsu:
-    images:
+    avatars:
       - Natsu
-    names:
+    name:
       en: Yutori Natsu
       ja: 柚鳥 ナツ
       zh-CN: 柚鸟 夏
       zh-TW: ''
-    searches:
+    tags:
       - trinity
-      - after_school_sweets_club
-    short_names:
+      - after-school-sweets-club
+    nickname:
       en: Natsu
       ja: ナツ
       zh-CN: 夏
       zh-TW: ''
 
   neru:
-    images:
+    avatars:
       - Neru
       - Neru_BunnyGirl
-    names:
+    name:
       en: Mikamo Neru
       ja: 美甘 ネル
       zh-CN: 美甘 尼禄
       zh-TW: 美甘 寧瑠
-    searches:
+    tags:
       - millennium
-      - cleaning_and_clearing
-    short_names:
+      - cleaning-and-clearing
+    nickname:
       en: Neru
       ja: ネル
       zh-CN: 尼禄
       zh-TW: 寧瑠
 
   nodoka:
-    images:
+    avatars:
       - Nodoka
       - Nodoka_Hotspring
-    names:
+    name:
       en: Amami Nodoka
       ja: 天見 ノドカ
       zh-CN: 天见 和香
       zh-TW: 天見 和香
-    searches:
-      - red_winter
-      - special_class_no.227
-    short_names:
+    tags:
+      - red-winter
+      - special-class-no-227
+    nickname:
       en: Nodoka
       ja: ノドカ
       zh-CN: 和香
       zh-TW: 和香
 
   nonomi:
-    images:
+    avatars:
       - Nonomi
       - Nonomi_Robber
-    names:
+    name:
       en: Izayoi Nonomi
       ja: 十六夜 ノノミ
       zh-CN: 十六夜 野宫
       zh-TW: 十六夜 野乃美
-    searches:
+    tags:
       - abydos
-      - countermeasures_council
-      - masked_swimsuit_group
-    short_names:
+      - countermeasures-council
+      - masked-swimsuit-group
+    nickname:
       en: Nonomi
       ja: ノノミ
       zh-CN: 野宫
       zh-TW: 野乃美
 
   nyantenmaru:
-    images:
+    avatars:
       - Nyantenmaru
-    names:
+    name:
       en: Nyantenmaru
       ja: ニャン天丸
       zh-CN: ''
       zh-TW: ''
-    searches:
-      - '???'
-      - hyakkiyako_commercial_district
-    short_names:
+    tags:
+      - hyakkiyako-commercial-district
+    nickname:
       en: Nyantenmaru
       ja: ニャン天丸
       zh-CN: ''
       zh-TW: ''
 
   peroro-sama:
-    images:
+    avatars:
       - Peroro_Sama
-    names:
+    name:
       en: Peroro Sama
       ja: ペロロ様
       zh-CN: ''
       zh-TW: ''
-    searches:
-      - '???'
+    tags:
       - momo_friends
-    short_names:
+    nickname:
       en: Peroro Sama
       ja: ペロロ様
       zh-CN: ''
       zh-TW: ''
 
   perorozilla:
-    images:
+    avatars:
       - Perorozilla
-    names:
+    name:
       en: Perorozilla
       ja: ペロロジラ
       zh-CN: ''
       zh-TW: ''
-    searches:
-      - '???'
-      - the_library_of_lore
-    short_names:
+    tags:
+      - the-library-of-lore
+    nickname:
       en: Perorozilla
       ja: ペロロジラ
       zh-CN: ''
       zh-TW: ''
 
   pina:
-    images:
+    avatars:
       - Pina
-    names:
+    name:
       en: Asahina Pina
       ja: 朝比奈 フィーナ
       zh-CN: 朝比奈 菲娜
       zh-TW: 朝比奈 菲娜
-    searches:
+    tags:
       - hyakkiyako
-      - festival_operations_department
-    short_names:
+      - festival-operations-department
+    nickname:
       en: Pina
       ja: フィーナ
       zh-CN: 菲娜
       zh-TW: 菲娜
 
   rin:
-    images:
+    avatars:
       - Rin
-    names:
+    name:
       en: Nanagami Rin
       ja: 七神 リン
       zh-CN: ''
       zh-TW: ''
-    searches:
-      - '???'
-      - prime_student_council
-    short_names:
+    tags:
+      - prime-student-council
+    nickname:
       en: Rin
       ja: リン
       zh-CN: ''
       zh-TW: ''
 
   saki:
-    images:
+    avatars:
       - Saki
-    names:
+    name:
       en: Sorai Saki
       ja: 空井 サキ
       zh-CN: 空井 咲
       zh-TW: ''
-    searches:
+    tags:
       - srt
-      - rabbit_platoon
-    short_names:
+      - rabbit-platoon
+    nickname:
       en: Saki
       ja: サキ
       zh-CN: 咲
       zh-TW: ''
 
   saya:
-    images:
+    avatars:
       - Saya
       - Saya_Casual
-    names:
+    name:
       en: Yakushi Saya
       ja: 薬子 サヤ
       zh-CN: 药子 沙绫
       zh-TW: 藥子 沙耶
-    searches:
+    tags:
       - shanhaijing
-      - eastern_alchemy_society
-    short_names:
+      - eastern-alchemy-society
+    nickname:
       en: Saya
       ja: サヤ
       zh-CN: 沙绫
       zh-TW: 沙耶
 
   seia:
-    images:
+    avatars:
       - Seia
-    names:
+    name:
       en: Yurizono Seia
       ja: 百合園 セイア
       zh-CN: ''
       zh-TW: ''
-    searches:
+    tags:
       - trinity
-      - tea_party
-    short_names:
+      - tea-party
+    nickname:
       en: Seia
       ja: セイア
       zh-CN: ''
       zh-TW: ''
 
   sena:
-    images:
+    avatars:
       - Sena
-    names:
+    name:
       en: Himuro Sena
       ja: 氷室 セナ
       zh-CN: 氷室 濑名
       zh-TW: ''
-    searches:
+    tags:
       - gehenna
-      - emergency_medicine_club
-    short_names:
+      - emergency-medicine-club
+    nickname:
       en: Sena
       ja: セナ
       zh-CN: 濑名
       zh-TW: ''
 
   serika:
-    images:
+    avatars:
       - Serika
       - Serika_Robber
       - Serika_Shibaseki
       - Serika_Newyear
-    names:
+    name:
       en: Kuromi Serika
       ja: 黒見 セリカ
       zh-CN: 黑见 芹香
       zh-TW: 黑見 茜香
-    searches:
+    tags:
       - abydos
-      - countermeasures_council
-      - masked_swimsuit_group
+      - countermeasures-council
+      - masked-swimsuit-group
       - sibaseki_ramen
-    short_names:
+    nickname:
       en: Serika
       ja: セリカ
       zh-CN: 芹香
       zh-TW: 茜香
 
   serina:
-    images:
+    avatars:
       - Serina
-    names:
+    name:
       en: Sumi Serina
       ja: 鷲見 セリナ
       zh-CN: 鹫见 芹娜
       zh-TW: 鷲見 芹奈
-    searches:
+    tags:
       - trinity
-      - remedial_knights
-    short_names:
+      - remedial-knights
+    nickname:
       en: Serina
       ja: セリナ
       zh-CN: 芹娜
       zh-TW: 芹奈
 
   shibaseki-master:
-    images:
+    avatars:
       - Shibaseki_Master
-    names:
+    name:
       en: Shibaseki Master
       ja: 柴大将
       zh-CN: ''
       zh-TW: ''
-    searches:
-      - '???'
+    tags:
       - sibaseki_ramen
-    short_names:
+    nickname:
       en: Shibaseki Master
       ja: 柴大将
       zh-CN: ''
       zh-TW: ''
 
   shigure:
-    images:
+    avatars:
       - Shigure
       - Shigure_Hotspring
-    names:
+    name:
       en: Mayoi Shigure
       ja: 間宵 シグレ
       zh-CN: ''
       zh-TW: ''
-    searches:
-      - red_winter
-      - special_class_no.227
-    short_names:
+    tags:
+      - red-winter
+      - special-class-no-227
+    nickname:
       en: Shigure
       ja: シグレ
       zh-CN: ''
       zh-TW: ''
 
   shimiko:
-    images:
+    avatars:
       - Shimiko
-    names:
+    name:
       en: Endou Shimiko
       ja: 円堂 シミコ
       zh-CN: 圆堂 志美子
       zh-TW: 円堂 志美子
-    searches:
+    tags:
       - trinity
       - library_committee
-    short_names:
+    nickname:
       en: Shimiko
       ja: シミコ
       zh-CN: 志美子
       zh-TW: 志美子
 
   shiro:
-    images:
+    avatars:
       - Shiro
-    names:
+    name:
       en: Shiro
       ja: シロ
       zh-CN: ''
       zh-TW: ''
-    searches:
-      - '???'
+    tags:
       - mimesis
-    short_names:
+    nickname:
       en: Shiro
       ja: シロ
       zh-CN: ''
       zh-TW: ''
 
   shiroko:
-    images:
+    avatars:
       - Shiroko
       - Shiroko_Robber
       - Shiroko_Ridingsuit
-    names:
+    name:
       en: Sunaookami Shiroko
       ja: 砂狼 シロコ
       zh-CN: 砂狼 白子
       zh-TW: 砂狼 白子
-    searches:
+    tags:
       - abydos
-      - countermeasures_council
-      - masked_swimsuit_group
-    short_names:
+      - countermeasures-council
+      - masked-swimsuit-group
+    nickname:
       en: Shiroko
       ja: シロコ
       zh-CN: 白子
       zh-TW: 白子
 
   shizuko:
-    images:
+    avatars:
       - Shizuko
-    names:
+    name:
       en: Kawawa Shizuko
       ja: 河和 シズコ
       zh-CN: 河和 静子
       zh-TW: 河和 靜子
-    searches:
+    tags:
       - hyakkiyako
-      - festival_operations_department
-    short_names:
+      - festival-operations-department
+    nickname:
       en: Shizuko
       ja: シズコ
       zh-CN: 静子
       zh-TW: 靜子
 
   shun:
-    images:
+    avatars:
       - Shun
       - Shun_Little_Girl
-    names:
+    name:
       en: Sunohara Shun
       ja: 春原 シュン
       zh-CN: 春原 瞬
       zh-TW: 春原 旬
-    searches:
+    tags:
       - shanhaijing
-      - plum_blossom_garden
-    short_names:
+      - plum-blossom-garden
+    nickname:
       en: Shun
       ja: シュン
       zh-CN: 瞬
       zh-TW: 旬
 
   sisterhood:
-    images:
+    avatars:
       - Sisterhood_Executive
-    names:
+    name:
       en: Sisterhood
       ja: シスターフッド
       zh-CN: ''
       zh-TW: ''
-    searches:
+    tags:
       - trinity
       - sisterhood
-    short_names:
+    nickname:
       en: Sisterhood
       ja: シスターフッド
       zh-CN: ''
       zh-TW: ''
 
   sora:
-    images:
+    avatars:
       - Sora
-    names:
+    name:
       en: Sora
       ja: ソラ
       zh-CN: ''
       zh-TW: ''
-    searches:
-      - '???'
+    tags:
       - angel_24
-    short_names:
+    nickname:
       en: Sora
       ja: ソラ
       zh-CN: ''
       zh-TW: ''
 
   sudama_ichiza:
-    images:
+    avatars:
       - StreetGhoste_RL_Yukata
       - Yukata_StreetGhostes
-    names:
+    name:
       en: Sudama Ichiza
       ja: 魑魅一座
       zh-CN: ''
       zh-TW: ''
-    searches:
-      - '???'
+    tags:
       - sudama_ichiza
-    short_names:
+    nickname:
       en: Sudama Ichiza
       ja: 魑魅一座
       zh-CN: ''
       zh-TW: ''
 
   sumire:
-    images:
+    avatars:
       - Sumire
-    names:
+    name:
       en: Otohana Sumire
       ja: 乙花 スミレ
       zh-CN: 乙花 菫
       zh-TW: 乙花 堇
-    searches:
+    tags:
       - millennium
-      - athletics_training_club
-    short_names:
+      - athletics-training-club
+    nickname:
       en: Sumire
       ja: スミレ
       zh-CN: 菫
       zh-TW: 堇
 
   suzumi:
-    images:
+    avatars:
       - Suzumi
-    names:
+    name:
       en: Morizuki Suzumi
       ja: 守月 スズミ
       zh-CN: 守月 铃美
       zh-TW: 守月 鈴美
-    searches:
+    tags:
       - trinity
-      - vigilante_crew
-    short_names:
+      - vigilante-crew
+    nickname:
       en: Suzumi
       ja: スズミ
       zh-CN: 铃美
       zh-TW: 鈴美
 
   tea-party:
-    images:
+    avatars:
       - Teaparty_Escort
       - Teaparty_Administrator
-    names:
+    name:
       en: Tea Party
       ja: ティーパーティー
       zh-CN: ''
       zh-TW: ''
-    searches:
+    tags:
       - trinity
-      - tea_party
-    short_names:
+      - tea-party
+    nickname:
       en: Tea Party
       ja: ティーパーティー
       zh-CN: ''
       zh-TW: ''
 
   tomoe:
-    images:
+    avatars:
       - Tomoe
-    names:
+    name:
       en: Sashiro Tomoe
       ja: 佐城 トモエ
       zh-CN: 佐城 巴
       zh-TW: ''
-    searches:
-      - red_winter
-      - red_winter_secretariat
-    short_names:
+    tags:
+      - red-winter
+      - red-winter-secretariat
+    nickname:
       en: Tomoe
       ja: トモエ
       zh-CN: 巴
       zh-TW: ''
 
   tsubaki:
-    images:
+    avatars:
       - Tsubaki
-    names:
+    name:
       en: Kasuga Tsubaki
       ja: 春日 ツバキ
       zh-CN: 春日 椿
       zh-TW: 春日 椿
-    searches:
+    tags:
       - hyakkiyako
-      - inner_discipline_club
-    short_names:
+      - inner-discipline-club
+    nickname:
       en: Tsubaki
       ja: ツバキ
       zh-CN: 椿
       zh-TW: 椿
 
   tsurugi:
-    images:
+    avatars:
       - Tsurugi
       - Tsurugi_Swimsuit
-    names:
+    name:
       en: Kenzaki Tsurugi
       ja: 剣先 ツルギ
       zh-CN: 剑先 鹤城
       zh-TW: 剣先 弦生
-    searches:
+    tags:
       - trinity
-      - justice_task_force
-    short_names:
+      - justice-task-force
+    nickname:
       en: Tsurugi
       ja: ツルギ
       zh-CN: 鹤城
       zh-TW: 弦生
 
   ui:
-    images:
+    avatars:
       - Ui
-    names:
+    name:
       en: Kozeki Ui
       ja: 古関 ウイ
       zh-CN: 古关 忧
       zh-TW: ''
-    searches:
+    tags:
       - trinity
       - library_committee
-    short_names:
+    nickname:
       en: Ui
       ja: ウイ
       zh-CN: 忧
       zh-TW: ''
 
   utaha:
-    images:
+    avatars:
       - Utaha
-    names:
+    name:
       en: Shiraishi Utaha
       ja: 白石 ウタハ
       zh-CN: 白石 歌原
       zh-TW: 白石 詠葉
-    searches:
+    tags:
       - millennium
-      - engineering_club
-    short_names:
+      - engineering-club
+    nickname:
       en: Utaha
       ja: ウタハ
       zh-CN: 歌原
       zh-TW: 詠葉
 
   wakamo:
-    images:
+    avatars:
       - Wakamo
-    names:
+    name:
       en: Kosaka Wakamo
       ja: 狐坂 ワカモ
       zh-CN: 狐坂 若藻
       zh-TW: ''
-    searches:
+    tags:
       - hyakkiyako
-      - ''
-    short_names:
+    nickname:
       en: Wakamo
       ja: ワカモ
       zh-CN: 若藻
       zh-TW: ''
 
   yoshimi:
-    images:
+    avatars:
       - Yoshimi
-    names:
+    name:
       en: Ibaragi Yoshimi
       ja: 伊原木 ヨシミ
       zh-CN: 伊原木 好美
       zh-TW: 伊原木 喜美
-    searches:
+    tags:
       - trinity
-      - after_school_sweets_club
-    short_names:
+      - after-school-sweets-club
+    nickname:
       en: Yoshimi
       ja: ヨシミ
       zh-CN: 好美
       zh-TW: 喜美
 
   yuuka:
-    images:
+    avatars:
       - Yuuka
-    names:
+    name:
       en: Hayase Yuuka
       ja: 早瀬 ユウカ
       zh-CN: 早濑 优香
       zh-TW: 早瀬 優香
-    searches:
+    tags:
       - millennium
       - seminar
-    short_names:
+    nickname:
       en: Yuuka
       ja: ユウカ
       zh-CN: 优香
       zh-TW: 優香
 
   yuzu:
-    images:
+    avatars:
       - Yuzu
-    names:
+    name:
       en: Hanaoka Yuzu
       ja: 花岡 ユズ
       zh-CN: 花冈 柚子
       zh-TW: 花岡 柚子
-    searches:
+    tags:
       - millennium
-      - game_development_department
-    short_names:
+      - game-development-department
+    nickname:
       en: Yuzu
       ja: ユズ
       zh-CN: 柚子
