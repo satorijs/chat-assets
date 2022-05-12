@@ -7,102 +7,187 @@ name:
 tags:
   abydos:
     en: Abydos
+    ja: アビドス高等学校
   after-school-sweets-club:
-    en: After School Sweets Club
+    en: After-School Sweets Club
+    ja: 放課後スイーツ部
+  angel-24:
+    en: Angel 24
+    ja: エンジェル 24
   athletics-training-club:
     en: Athletics Training Club
+    ja: トレーニング部
   citizen:
     en: Citizen
+    ja: 市民
   city-chimpira:
     en: City Chimpira
+    ja: 街のチンピラ
   cleaning-and-clearing:
-    en: C&C
+    en: Cleaning & Clearing
   communio-sanctorum:
     en: Communio Sanctorum
+    ja: コムニオ・サンクトラム
   community-safety-bureau:
     en: Community Safety Bureau
+    ja: 生活安全局
   construction-department:
     en: Construction Department
+    ja: 工務部
   countermeasures-council:
     en: Countermeasures Council
+    ja: 対策委員会
   decagrammaton:
     en: Decagrammaton
+    ja: デカグラマトン
   disciplinary-committee:
     en: Disciplinary Committee
+    ja: 風紀委員会
   eastern-alchemy-society:
     en: Eastern Alchemy Society
+    ja: 錬丹術研究会
   emergency-medicine-club:
     en: Emergency Medicine Club
+    ja: 救急医学部
   engineering-club:
     en: Engineering Club
+    ja: エンジニア部
   festival-operations-department:
     en: Festival Operations Department
+    ja: お祭り運営委員会
   game-development-department:
     en: Game Development Department
+    ja: ゲーム開発部
   gehenna:
-    en: Gehenna
+    en: Gehenna Academy
+    ja: ゲヘナ学園
+  gematria:
+    en: Gematria
+    ja: ゲマトリア
   gourmet-research-society:
     en: Gourmet Research Society
+    ja: 美食研究会
+  helmet-dan:
+    en: Katakata Helmet Dan
+    ja: カタカタヘルメット団
   hyakkiyako:
-    en: Hyakkiyako
+    en: Allied Hyakkiyako Academy
+    ja: 百鬼夜行連合学院
   hyakkiyako-commercial-district:
     en: Hyakkiyako Commercial District
+    ja: 百鬼夜行商店街
   inner-discipline-club:
     en: Inner Discipline Club
+    ja: 修行部
   justice-task-force:
     en: Justice Task Force
+    ja: 正義実現委員会
+  kaiser-pmc:
+    en: Kaiser PMC
+    ja: カイザー PMC
+  kaitenger:
+    en: Kaitenger
+    ja: カイテンジャー
+  library-committee:
+    en: Library Committee
+    ja: 図書委員会
   makeup-work-club:
     en: Makeup Work Club
+    ja: 補習授業部
   masked-swimsuit-group:
     en: Masked Swimsuit Group
+    ja: 覆面水着団
   millennium:
-    en: Millennium
+    en: Millennium Science Academy
+    ja: ミレニアムサイエンススクール
+  mimesis:
+    en: Mimesis
+    ja: ミメシス
+  momo-friends:
+    en: Momo Friends
+    ja: モモフレンズ
   ninjutsu-research-department:
     en: Ninjutsu Research Department
+    ja: 忍術研究部
+  onsen-development-club:
+    en: Onsen Development Club
+    ja: 温泉開発部
+  pandemonium-society:
+    en: Pandemonium Society
+    ja: パンデモニウム・ソサエティー
   plum-blossom-garden:
     en: Plum Blossom Garden
+    ja: 訓育支援部「梅花園」
   prime-student-council:
     en: Prime Student Council
+    ja: 連邦生徒会
   problem-solver-68:
     en: Problem Solver 68
+    ja: 便利屋 68
   rabbit-platoon:
     en: Rabbit Platoon
+    ja: RABBIT小隊
   red-winter:
-    en: Red Winter
+    en: Red Winter Federal Academy
+    ja: レッドウィンター連邦学園
   red-winter-secretariat:
     en: Red Winter Secretariat
+    ja: レッドウィンター事務局
   remedial-knights:
     en: Remedial Knights
+    ja: 救護騎士団
   school-lunch-club:
     en: School Lunch Club
+    ja: 給食部
   seminar:
     en: Seminar
+    ja: セミナー
+    zh-CN: 研讨会
+  sibaseki-ramen:
+    en: Sibaseki Ramen
+    ja: 柴関ラーメン
   sisterhood:
     en: Sisterhood
+    ja: シスターフッド
   shanhaijing:
-    en: Shanhaijing
-  shitims_box:
-    en: Shitim's Box
+    en: Shanhaijing Senior Secondary School
+    ja: 山海経高級中学校
+  shitims-box:
+    en: Shittim Chests
+    ja: シッテムの箱
   special-class-no-227:
     en: Special Class No.227
+    ja: 227号特別クラス
   srt:
-    en: SRT
+    en: SRT Special Academy
+    ja: SRT特殊学園
+  sudama-ichiza:
+    en: Sudama Ichiza
+    ja: 魑魅一座
   super-phenomenon-task-force:
     en: Super Phenomenon Task Force
+    ja: 特異現象特務部
   tea-party:
     en: Tea Party
+    ja: ティーパーティー
   the-library-of-lore:
     en: The Library of Lore
   trinity:
-    en: Trinity
+    en: Trinity General School
+    ja: トリニティ総合学園
   valkyrie:
-    en: Valkyrie
+    en: Valkyrie Police Academy
+    ja: ヴァルキューレ警察学校
   veritas:
     en: Veritas
+    ja: ヴェリタス
+    zh-CN: 真理部
   vigilante-crew:
     en: Vigilante Crew
+    ja: トリニティ自警団
   yin-yang-club:
     en: Yin-Yang Club
+    ja: 陰陽部
 
 characters:
   airi:
@@ -217,7 +302,7 @@ characters:
       zh-CN: ''
       zh-TW: ''
     tags:
-      - shitims_box
+      - shitims-box
     nickname:
       en: Arona
       ja: アロナ
@@ -664,7 +749,7 @@ characters:
       zh-CN: ''
       zh-TW: ''
     tags:
-      - helmet_dan
+      - helmet-dan
     nickname:
       en: Helmet Dan
       ja: ヘルメット団
@@ -823,7 +908,7 @@ characters:
       zh-TW: ''
     tags:
       - gehenna
-      - pandemonium_society
+      - pandemonium-society
     nickname:
       en: Iroha
       ja: イロハ
@@ -958,7 +1043,7 @@ characters:
       zh-CN: ''
       zh-TW: ''
     tags:
-      - kaiser_pmc
+      - kaiser-pmc
     nickname:
       en: Kaiser PMC Director
       ja: カイザーPMC理事
@@ -1219,7 +1304,7 @@ characters:
       zh-TW: ''
     tags:
       - gehenna
-      - onsen_development_club
+      - onsen-development-club
     nickname:
       en: Megu
       ja: メグ
@@ -1527,7 +1612,7 @@ characters:
       zh-CN: ''
       zh-TW: ''
     tags:
-      - momo_friends
+      - momo-friends
     nickname:
       en: Peroro Sama
       ja: ペロロ様
@@ -1667,7 +1752,7 @@ characters:
       - abydos
       - countermeasures-council
       - masked-swimsuit-group
-      - sibaseki_ramen
+      - sibaseki-ramen
     nickname:
       en: Serika
       ja: セリカ
@@ -1700,7 +1785,7 @@ characters:
       zh-CN: ''
       zh-TW: ''
     tags:
-      - sibaseki_ramen
+      - sibaseki-ramen
     nickname:
       en: Shibaseki Master
       ja: 柴大将
@@ -1735,7 +1820,7 @@ characters:
       zh-TW: 円堂 志美子
     tags:
       - trinity
-      - library_committee
+      - library-committee
     nickname:
       en: Shimiko
       ja: シミコ
@@ -1839,14 +1924,14 @@ characters:
       zh-CN: ''
       zh-TW: ''
     tags:
-      - angel_24
+      - angel-24
     nickname:
       en: Sora
       ja: ソラ
       zh-CN: ''
       zh-TW: ''
 
-  sudama_ichiza:
+  sudama-ichiza:
     avatars:
       - StreetGhoste_RL_Yukata
       - Yukata_StreetGhostes
@@ -1856,7 +1941,7 @@ characters:
       zh-CN: ''
       zh-TW: ''
     tags:
-      - sudama_ichiza
+      - sudama-ichiza
     nickname:
       en: Sudama Ichiza
       ja: 魑魅一座
@@ -1977,7 +2062,7 @@ characters:
       zh-TW: ''
     tags:
       - trinity
-      - library_committee
+      - library-committee
     nickname:
       en: Ui
       ja: ウイ
