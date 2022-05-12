@@ -117,7 +117,8 @@ tags:
     ja: パンデモニウム・ソサエティー
   plum-blossom-garden:
     en: Plum Blossom Garden
-    ja: 訓育支援部「梅花園」
+    ja: 梅花園
+    zh-CN: 梅花园
   prime-student-council:
     en: Prime Student Council
     ja: 連邦生徒会
@@ -192,7 +193,7 @@ tags:
 characters:
   airi:
     avatars:
-      - Airi
+      - Airi.webp
     name:
       en: Kurimura Airi
       ja: 栗村 アイリ
@@ -209,8 +210,8 @@ characters:
 
   akane:
     avatars:
-      - Akane
-      - Akane_BunnyGirl
+      - Akane.webp
+      - Akane_BunnyGirl.webp
     name:
       en: Murokasa Akane
       ja: 室笠 アカネ
@@ -227,7 +228,7 @@ characters:
 
   akari:
     avatars:
-      - Akari
+      - Akari.webp
     name:
       en: Wanibuchi Akari
       ja: 鰐渕 アカリ
@@ -244,7 +245,7 @@ characters:
 
   ako:
     avatars:
-      - Ako
+      - Ako.webp
     name:
       en: Amau Ako
       ja: 天雨 アコ
@@ -261,7 +262,7 @@ characters:
 
   alice:
     avatars:
-      - Alice
+      - Alice.webp
     name:
       en: Tendou Alice
       ja: 天童 アリス
@@ -278,8 +279,8 @@ characters:
 
   android:
     avatars:
-      - Citizen_Borot_1
-      - Citizen_Borot_2
+      - Citizen_Borot_1.webp
+      - Citizen_Borot_2.webp
     name:
       en: Android
       ja: アンドロイド
@@ -295,7 +296,7 @@ characters:
 
   arona:
     avatars:
-      - Arona
+      - Arona.webp
     name:
       en: Arona
       ja: アロナ
@@ -311,8 +312,8 @@ characters:
 
   aru:
     avatars:
-      - Aru
-      - Aru_Newyear
+      - Aru.webp
+      - Aru_Newyear.webp
     name:
       en: Rikuhachima Aru
       ja: 陸八魔 アル
@@ -329,8 +330,8 @@ characters:
 
   asuna:
     avatars:
-      - Asuna
-      - Asuna_BunnyGirl
+      - Asuna.webp
+      - Asuna_BunnyGirl.webp
     name:
       en: Ichinose Asuna
       ja: 一之瀬 アスナ
@@ -347,8 +348,8 @@ characters:
 
   ayane:
     avatars:
-      - Ayane
-      - Ayane_Robber
+      - Ayane.webp
+      - Ayane_Robber.webp
     name:
       en: Okusora Ayane
       ja: 奥空 アヤネ
@@ -366,7 +367,7 @@ characters:
 
   ayumu:
     avatars:
-      - Ayumu
+      - Ayumu.webp
     name:
       en: Iwabitsu Ayumu
       ja: 岩櫃 アユム
@@ -382,8 +383,8 @@ characters:
 
   azusa:
     avatars:
-      - Azusa
-      - Azusa_Swimsuit
+      - Azusa.webp
+      - Azusa_Swimsuit.webp
     name:
       en: Shirasu Azusa
       ja: 白洲 アズサ
@@ -400,7 +401,7 @@ characters:
 
   binah:
     avatars:
-      - Binah
+      - Binah.webp
     name:
       en: Binah
       ja: ビナー
@@ -416,7 +417,7 @@ characters:
 
   black-suit:
     avatars:
-      - Black_Suit
+      - Black_Suit.webp
     name:
       en: Black Suit
       ja: 黒服
@@ -432,8 +433,8 @@ characters:
 
   cherino:
     avatars:
-      - Cherino
-      - Cherino_Hotspring
+      - Cherino.webp
+      - Cherino_Hotspring.webp
     name:
       en: Renkawa Cherino
       ja: 連河 チェリノ
@@ -450,7 +451,7 @@ characters:
 
   chesed:
     avatars:
-      - Chesed
+      - Chesed.webp
     name:
       en: Chesed
       ja: ケセド
@@ -466,7 +467,7 @@ characters:
 
   chihiro:
     avatars:
-      - Chihiro
+      - Chihiro.webp
     name:
       en: Kagami Chihiro
       ja: 各務 チヒロ
@@ -483,11 +484,11 @@ characters:
 
   sukeban:
     avatars:
-      - Sukeban_HMG
-      - Sukeban_SMG
-      - Sukeban_SR
-      - Sukeban_SMG_Swimsuit
-      - Sukeban_MG_Swimsuit
+      - Sukeban_HMG.webp
+      - Sukeban_SMG.webp
+      - Sukeban_SR.webp
+      - Sukeban_SMG_Swimsuit.webp
+      - Sukeban_MG_Swimsuit.webp
     name:
       en: Chimpira
       ja: チンピラ
@@ -503,8 +504,8 @@ characters:
 
   chinatsu:
     avatars:
-      - Chinatsu
-      - Chinatsu_Hotspring
+      - Chinatsu.webp
+      - Chinatsu_Hotspring.webp
     name:
       en: Hinomiya Chinatsu
       ja: 火宮 チナツ
@@ -521,7 +522,7 @@ characters:
 
   chise:
     avatars:
-      - Chise
+      - Chise.webp
     name:
       en: Waraku Chise
       ja: 和楽 チセ
@@ -538,7 +539,7 @@ characters:
 
   disciplinary-committee-member:
     avatars:
-      - Fuuki_Normal_1
+      - Fuuki_Normal_1.webp
     name:
       en: Disciplinary Committee Member
       ja: 風紀委員
@@ -555,7 +556,7 @@ characters:
 
   decalcomanie:
     avatars:
-      - Décalcomanie
+      - Décalcomanie.webp
     name:
       en: Décalcomanie
       ja: デカルコマニー
@@ -571,7 +572,7 @@ characters:
 
   eimi:
     avatars:
-      - Eimi
+      - Eimi.webp
     name:
       en: Izumimoto Eimi
       ja: 和泉元 エイミ
@@ -588,7 +589,7 @@ characters:
 
   fubuki:
     avatars:
-      - Fubuki
+      - Fubuki.webp
     name:
       en: Nemugaki Fubuki
       ja: 合歓垣 フブキ
@@ -605,7 +606,7 @@ characters:
 
   fuuka:
     avatars:
-      - Fuuka
+      - Fuuka.webp
     name:
       en: Aikiyo Fuuka
       ja: 愛清 フウカ
@@ -622,7 +623,7 @@ characters:
 
   golconde:
     avatars:
-      - Golconde
+      - Golconde.webp
     name:
       en: Golconde
       ja: ゴルコンダ
@@ -638,7 +639,7 @@ characters:
 
   hanae:
     avatars:
-      - Hanae
+      - Hanae.webp
     name:
       en: Asagao Hanae
       ja: 朝顔 ハナエ
@@ -655,7 +656,7 @@ characters:
 
   hanako:
     avatars:
-      - Hanako
+      - Hanako.webp
     name:
       en: Urawa Hanako
       ja: 浦和 ハナコ
@@ -672,7 +673,7 @@ characters:
 
   hare:
     avatars:
-      - Hare
+      - Hare.webp
     name:
       en: Omagari Hare
       ja: 小鈎 ハレ
@@ -689,8 +690,8 @@ characters:
 
   haruka:
     avatars:
-      - Haruka
-      - Haruka_Newyear
+      - Haruka.webp
+      - Haruka_Newyear.webp
     name:
       en: Igusa Haruka
       ja: 伊草 ハルカ
@@ -707,7 +708,7 @@ characters:
 
   haruna:
     avatars:
-      - Haruna
+      - Haruna.webp
     name:
       en: Kurodate Haruna
       ja: 黒館 ハルナ
@@ -724,7 +725,7 @@ characters:
 
   hasumi:
     avatars:
-      - Hasumi
+      - Hasumi.webp
     name:
       en: Hanekawa Hasumi
       ja: 羽川 ハスミ
@@ -741,8 +742,8 @@ characters:
 
   helmet-dan:
     avatars:
-      - Helmet_Dan_Black
-      - Helmet_Dan_Red
+      - Helmet_Dan_Black.webp
+      - Helmet_Dan_Red.webp
     name:
       en: Helmet Dan
       ja: ヘルメット団
@@ -758,7 +759,7 @@ characters:
 
   hibiki:
     avatars:
-      - Hibiki
+      - Hibiki.webp
     name:
       en: Nekozuka Hibiki
       ja: 猫塚 ヒビキ
@@ -775,7 +776,7 @@ characters:
 
   hieronymus:
     avatars:
-      - Hieronymus
+      - Hieronymus.webp
     name:
       en: Hieronymus
       ja: ヒエロニムス
@@ -791,9 +792,9 @@ characters:
 
   hifumi:
     avatars:
-      - Hifumi
-      - Hifumi_Robber
-      - Hifumi_Swimsuit
+      - Hifumi.webp
+      - Hifumi_Robber.webp
+      - Hifumi_Swimsuit.webp
     name:
       en: Ajitani Hifumi
       ja: 阿慈谷 ヒフミ
@@ -811,9 +812,9 @@ characters:
 
   hina:
     avatars:
-      - Hina
-      - Hina_Swimsuit
-      - Hina_Nightware
+      - Hina.webp
+      - Hina_Swimsuit.webp
+      - Hina_Nightware.webp
     name:
       en: Sorasaki Hina
       ja: 空崎 ヒナ
@@ -830,7 +831,7 @@ characters:
 
   hinata:
     avatars:
-      - Hinata
+      - Hinata.webp
     name:
       en: Wakaba Hinata
       ja: 若葉 ヒナタ
@@ -847,7 +848,7 @@ characters:
 
   hod:
     avatars:
-      - Hod
+      - Hod.webp
     name:
       en: Hod
       ja: ホド
@@ -863,8 +864,8 @@ characters:
 
   hoshino:
     avatars:
-      - Hoshino
-      - Hoshino_Robber
+      - Hoshino.webp
+      - Hoshino_Robber.webp
     name:
       en: Takanashi Hoshino
       ja: 小鳥遊 ホシノ
@@ -882,8 +883,8 @@ characters:
 
   iori:
     avatars:
-      - Iori
-      - Iori_Swimsuit
+      - Iori.webp
+      - Iori_Swimsuit.webp
     name:
       en: Shiromi Iori
       ja: 銀鏡 イオリ
@@ -900,7 +901,7 @@ characters:
 
   iroha:
     avatars:
-      - Iroha
+      - Iroha.webp
     name:
       en: Natsume Iroha
       ja: 棗 イロハ
@@ -917,8 +918,8 @@ characters:
 
   izumi:
     avatars:
-      - Izumi
-      - Izumi_Swimsuit
+      - Izumi.webp
+      - Izumi_Swimsuit.webp
     name:
       en: Shishidou Izumi
       ja: 獅子堂 イズミ
@@ -935,7 +936,7 @@ characters:
 
   izuna:
     avatars:
-      - Izuna
+      - Izuna.webp
     name:
       en: Kuda Izuna
       ja: 久田 イズナ
@@ -952,7 +953,7 @@ characters:
 
   junko:
     avatars:
-      - Junko
+      - Junko.webp
     name:
       en: Akashi Junko
       ja: 赤司 ジュンコ
@@ -969,7 +970,7 @@ characters:
 
   juri:
     avatars:
-      - Juri
+      - Juri.webp
     name:
       en: Ushimaki Juri
       ja: 牛牧 ジュリ
@@ -986,7 +987,7 @@ characters:
 
   justice-task-force-member:
     avatars:
-      - Justice_Normal_1
+      - Justice_Normal_1.webp
     name:
       en: Justice Task Force Member
       ja: 正義実現委員会部員
@@ -1003,7 +1004,7 @@ characters:
 
   kaiten-fx-mk-0:
     avatars:
-      - KaitenFxMk0
+      - KaitenFxMk0.webp
     name:
       en: KAITEN FX Mk.0
       ja: KAITEN FX Mk.0
@@ -1019,7 +1020,7 @@ characters:
 
   kaede:
     avatars:
-      - Kaede
+      - Kaede.webp
     name:
       en: Isami Kaede
       ja: 勇美 カエデ
@@ -1036,7 +1037,7 @@ characters:
 
   kaiser-pmc-director:
     avatars:
-      - Kaiser_PMC_Director
+      - Kaiser_PMC_Director.webp
     name:
       en: Kaiser PMC Director
       ja: カイザーPMC理事
@@ -1052,11 +1053,11 @@ characters:
 
   kaitenger:
     avatars:
-      - Kaitenger_Red
-      - Kaitenger_Black
-      - Kaitenger_Green
-      - Kaitenger_Yellow
-      - Kaitenger_Pink
+      - Kaitenger_Red.webp
+      - Kaitenger_Black.webp
+      - Kaitenger_Green.webp
+      - Kaitenger_Yellow.webp
+      - Kaitenger_Pink.webp
     name:
       en: Kaitenger
       ja: カイテンジャー
@@ -1072,8 +1073,8 @@ characters:
 
   karin:
     avatars:
-      - Karin
-      - Karin_BunnyGirl
+      - Karin.webp
+      - Karin_BunnyGirl.webp
     name:
       en: Kakudate Karin
       ja: 角楯 カリン
@@ -1090,8 +1091,8 @@ characters:
 
   kayoko:
     avatars:
-      - Kayoko
-      - Kayoko_Newyear
+      - Kayoko.webp
+      - Kayoko_Newyear.webp
     name:
       en: Onikata Kayoko
       ja: 鬼方 カヨコ
@@ -1108,7 +1109,7 @@ characters:
 
   kirino:
     avatars:
-      - Kirino
+      - Kirino.webp
     name:
       en: Nakatsukasa Kirino
       ja: 中務 キリノ
@@ -1125,10 +1126,10 @@ characters:
 
   citizen:
     avatars:
-      - Citizen_Animal_1
-      - Citizen_Animal_6
-      - Market_Animal_2
-      - Citizen_animal7
+      - Citizen_Animal_1.webp
+      - Citizen_Animal_6.webp
+      - Market_Animal_2.webp
+      - Citizen_animal7.webp
     name:
       en: Kivotos Citizen
       ja: キヴォトス市民
@@ -1144,7 +1145,7 @@ characters:
 
   koharu:
     avatars:
-      - Koharu
+      - Koharu.webp
     name:
       en: Shimoe Koharu
       ja: 下江 コハル
@@ -1161,7 +1162,7 @@ characters:
 
   kotama:
     avatars:
-      - Kotama
+      - Kotama.webp
     name:
       en: Otose Kotama
       ja: 音瀬 コタマ
@@ -1178,7 +1179,7 @@ characters:
 
   kotori:
     avatars:
-      - Kotori
+      - Kotori.webp
     name:
       en: Toyomi Kotori
       ja: 豊見 コトリ
@@ -1195,7 +1196,7 @@ characters:
 
   kuro:
     avatars:
-      - Kuro
+      - Kuro.webp
     name:
       en: Kuro
       ja: クロ
@@ -1211,7 +1212,7 @@ characters:
 
   maestro:
     avatars:
-      - Maestro
+      - Maestro.webp
     name:
       en: Maestro
       ja: マエストロ
@@ -1227,7 +1228,7 @@ characters:
 
   maki:
     avatars:
-      - Maki
+      - Maki.webp
     name:
       en: Konuri Maki
       ja: 小塗 マキ
@@ -1244,7 +1245,7 @@ characters:
 
   mari:
     avatars:
-      - Mari
+      - Mari.webp
     name:
       en: Iochi Mari
       ja: 伊落 マリー
@@ -1261,7 +1262,7 @@ characters:
 
   marina:
     avatars:
-      - Marina
+      - Marina.webp
     name:
       en: Ikekura Marina
       ja: 池倉 マリナ
@@ -1278,8 +1279,8 @@ characters:
 
   mashiro:
     avatars:
-      - Mashiro
-      - Mashiro_Swimsuit
+      - Mashiro.webp
+      - Mashiro_Swimsuit.webp
     name:
       en: Shizuyama Mashiro
       ja: 静山 マシロ
@@ -1296,7 +1297,7 @@ characters:
 
   megu:
     avatars:
-      - Megu
+      - Megu.webp
     name:
       en: Shimokura Megu
       ja: 下倉 メグ
@@ -1313,7 +1314,7 @@ characters:
 
   michiru:
     avatars:
-      - Michiru
+      - Michiru.webp
     name:
       en: Chidori Michiru
       ja: 千鳥 ミチル
@@ -1330,7 +1331,7 @@ characters:
 
   midori:
     avatars:
-      - Midori
+      - Midori.webp
     name:
       en: Saiba Midori
       ja: 才羽 ミドリ
@@ -1347,7 +1348,7 @@ characters:
 
   mika:
     avatars:
-      - Mika
+      - Mika.webp
     name:
       en: Misono Mika
       ja: 聖園 ミカ
@@ -1364,7 +1365,7 @@ characters:
 
   mimori:
     avatars:
-      - Mimori
+      - Mimori.webp
     name:
       en: Mizuha Mimori
       ja: 水羽 ミモリ
@@ -1381,7 +1382,7 @@ characters:
 
   minori:
     avatars:
-      - Minori
+      - Minori.webp
     name:
       en: Yasumori Minori
       ja: 安守 ミノリ
@@ -1398,7 +1399,7 @@ characters:
 
   miyako:
     avatars:
-      - Miyako
+      - Miyako.webp
     name:
       en: Tsukiyuki Miyako
       ja: 月雪 ミヤコ
@@ -1415,7 +1416,7 @@ characters:
 
   miyu:
     avatars:
-      - Miyu
+      - Miyu.webp
     name:
       en: Kasumizawa Miyu
       ja: 霞沢 ミユ
@@ -1432,7 +1433,7 @@ characters:
 
   moe:
     avatars:
-      - Moe
+      - Moe.webp
     name:
       en: Kazekura Moe
       ja: 風倉 モエ
@@ -1449,7 +1450,7 @@ characters:
 
   momoi:
     avatars:
-      - Momoi
+      - Momoi.webp
     name:
       en: Saiba Momoi
       ja: 才羽 モモイ
@@ -1466,7 +1467,7 @@ characters:
 
   momoka:
     avatars:
-      - Momoka
+      - Momoka.webp
     name:
       en: Yuragi Momoka
       ja: 由良木 モモカ
@@ -1482,8 +1483,8 @@ characters:
 
   mutsuki:
     avatars:
-      - Mutsuki
-      - Mutsuki_Newyear
+      - Mutsuki.webp
+      - Mutsuki_Newyear.webp
     name:
       en: Asagi Mutsuki
       ja: 浅黄 ムツキ
@@ -1500,7 +1501,7 @@ characters:
 
   nagisa:
     avatars:
-      - Nagisa
+      - Nagisa.webp
     name:
       en: Kirifuji Nagisa
       ja: 桐藤 ナギサ
@@ -1517,7 +1518,7 @@ characters:
 
   natsu:
     avatars:
-      - Natsu
+      - Natsu.webp
     name:
       en: Yutori Natsu
       ja: 柚鳥 ナツ
@@ -1534,8 +1535,8 @@ characters:
 
   neru:
     avatars:
-      - Neru
-      - Neru_BunnyGirl
+      - Neru.webp
+      - Neru_BunnyGirl.webp
     name:
       en: Mikamo Neru
       ja: 美甘 ネル
@@ -1552,8 +1553,8 @@ characters:
 
   nodoka:
     avatars:
-      - Nodoka
-      - Nodoka_Hotspring
+      - Nodoka.webp
+      - Nodoka_Hotspring.webp
     name:
       en: Amami Nodoka
       ja: 天見 ノドカ
@@ -1570,8 +1571,8 @@ characters:
 
   nonomi:
     avatars:
-      - Nonomi
-      - Nonomi_Robber
+      - Nonomi.webp
+      - Nonomi_Robber.webp
     name:
       en: Izayoi Nonomi
       ja: 十六夜 ノノミ
@@ -1589,7 +1590,7 @@ characters:
 
   nyantenmaru:
     avatars:
-      - Nyantenmaru
+      - Nyantenmaru.webp
     name:
       en: Nyantenmaru
       ja: ニャン天丸
@@ -1605,7 +1606,7 @@ characters:
 
   peroro-sama:
     avatars:
-      - Peroro_Sama
+      - Peroro_Sama.webp
     name:
       en: Peroro Sama
       ja: ペロロ様
@@ -1621,7 +1622,7 @@ characters:
 
   perorozilla:
     avatars:
-      - Perorozilla
+      - Perorozilla.webp
     name:
       en: Perorozilla
       ja: ペロロジラ
@@ -1637,7 +1638,7 @@ characters:
 
   pina:
     avatars:
-      - Pina
+      - Pina.webp
     name:
       en: Asahina Pina
       ja: 朝比奈 フィーナ
@@ -1654,7 +1655,7 @@ characters:
 
   rin:
     avatars:
-      - Rin
+      - Rin.webp
     name:
       en: Nanagami Rin
       ja: 七神 リン
@@ -1670,7 +1671,7 @@ characters:
 
   saki:
     avatars:
-      - Saki
+      - Saki.webp
     name:
       en: Sorai Saki
       ja: 空井 サキ
@@ -1687,8 +1688,8 @@ characters:
 
   saya:
     avatars:
-      - Saya
-      - Saya_Casual
+      - Saya.webp
+      - Saya_Casual.webp
     name:
       en: Yakushi Saya
       ja: 薬子 サヤ
@@ -1705,7 +1706,7 @@ characters:
 
   seia:
     avatars:
-      - Seia
+      - Seia.webp
     name:
       en: Yurizono Seia
       ja: 百合園 セイア
@@ -1722,7 +1723,7 @@ characters:
 
   sena:
     avatars:
-      - Sena
+      - Sena.webp
     name:
       en: Himuro Sena
       ja: 氷室 セナ
@@ -1739,10 +1740,10 @@ characters:
 
   serika:
     avatars:
-      - Serika
-      - Serika_Robber
-      - Serika_Shibaseki
-      - Serika_Newyear
+      - Serika.webp
+      - Serika_Robber.webp
+      - Serika_Shibaseki.webp
+      - Serika_Newyear.webp
     name:
       en: Kuromi Serika
       ja: 黒見 セリカ
@@ -1761,7 +1762,7 @@ characters:
 
   serina:
     avatars:
-      - Serina
+      - Serina.webp
     name:
       en: Sumi Serina
       ja: 鷲見 セリナ
@@ -1778,7 +1779,7 @@ characters:
 
   shibaseki-master:
     avatars:
-      - Shibaseki_Master
+      - Shibaseki_Master.webp
     name:
       en: Shibaseki Master
       ja: 柴大将
@@ -1794,8 +1795,8 @@ characters:
 
   shigure:
     avatars:
-      - Shigure
-      - Shigure_Hotspring
+      - Shigure.webp
+      - Shigure_Hotspring.webp
     name:
       en: Mayoi Shigure
       ja: 間宵 シグレ
@@ -1812,7 +1813,7 @@ characters:
 
   shimiko:
     avatars:
-      - Shimiko
+      - Shimiko.webp
     name:
       en: Endou Shimiko
       ja: 円堂 シミコ
@@ -1829,7 +1830,7 @@ characters:
 
   shiro:
     avatars:
-      - Shiro
+      - Shiro.webp
     name:
       en: Shiro
       ja: シロ
@@ -1845,9 +1846,9 @@ characters:
 
   shiroko:
     avatars:
-      - Shiroko
-      - Shiroko_Robber
-      - Shiroko_Ridingsuit
+      - Shiroko.webp
+      - Shiroko_Robber.webp
+      - Shiroko_Ridingsuit.webp
     name:
       en: Sunaookami Shiroko
       ja: 砂狼 シロコ
@@ -1865,7 +1866,7 @@ characters:
 
   shizuko:
     avatars:
-      - Shizuko
+      - Shizuko.webp
     name:
       en: Kawawa Shizuko
       ja: 河和 シズコ
@@ -1882,8 +1883,8 @@ characters:
 
   shun:
     avatars:
-      - Shun
-      - Shun_Little_Girl
+      - Shun.webp
+      - Shun_Little_Girl.webp
     name:
       en: Sunohara Shun
       ja: 春原 シュン
@@ -1900,7 +1901,7 @@ characters:
 
   sisterhood:
     avatars:
-      - Sisterhood_Executive
+      - Sisterhood_Executive.webp
     name:
       en: Sisterhood
       ja: シスターフッド
@@ -1917,7 +1918,7 @@ characters:
 
   sora:
     avatars:
-      - Sora
+      - Sora.webp
     name:
       en: Sora
       ja: ソラ
@@ -1933,8 +1934,8 @@ characters:
 
   sudama-ichiza:
     avatars:
-      - StreetGhoste_RL_Yukata
-      - Yukata_StreetGhostes
+      - StreetGhoste_RL_Yukata.webp
+      - Yukata_StreetGhostes.webp
     name:
       en: Sudama Ichiza
       ja: 魑魅一座
@@ -1950,7 +1951,7 @@ characters:
 
   sumire:
     avatars:
-      - Sumire
+      - Sumire.webp
     name:
       en: Otohana Sumire
       ja: 乙花 スミレ
@@ -1967,7 +1968,7 @@ characters:
 
   suzumi:
     avatars:
-      - Suzumi
+      - Suzumi.webp
     name:
       en: Morizuki Suzumi
       ja: 守月 スズミ
@@ -1984,8 +1985,8 @@ characters:
 
   tea-party:
     avatars:
-      - Teaparty_Escort
-      - Teaparty_Administrator
+      - Teaparty_Escort.webp
+      - Teaparty_Administrator.webp
     name:
       en: Tea Party
       ja: ティーパーティー
@@ -2002,7 +2003,7 @@ characters:
 
   tomoe:
     avatars:
-      - Tomoe
+      - Tomoe.webp
     name:
       en: Sashiro Tomoe
       ja: 佐城 トモエ
@@ -2019,7 +2020,7 @@ characters:
 
   tsubaki:
     avatars:
-      - Tsubaki
+      - Tsubaki.webp
     name:
       en: Kasuga Tsubaki
       ja: 春日 ツバキ
@@ -2036,8 +2037,8 @@ characters:
 
   tsurugi:
     avatars:
-      - Tsurugi
-      - Tsurugi_Swimsuit
+      - Tsurugi.webp
+      - Tsurugi_Swimsuit.webp
     name:
       en: Kenzaki Tsurugi
       ja: 剣先 ツルギ
@@ -2054,7 +2055,7 @@ characters:
 
   ui:
     avatars:
-      - Ui
+      - Ui.webp
     name:
       en: Kozeki Ui
       ja: 古関 ウイ
@@ -2071,7 +2072,7 @@ characters:
 
   utaha:
     avatars:
-      - Utaha
+      - Utaha.webp
     name:
       en: Shiraishi Utaha
       ja: 白石 ウタハ
@@ -2088,7 +2089,7 @@ characters:
 
   wakamo:
     avatars:
-      - Wakamo
+      - Wakamo.webp
     name:
       en: Kosaka Wakamo
       ja: 狐坂 ワカモ
@@ -2104,7 +2105,7 @@ characters:
 
   yoshimi:
     avatars:
-      - Yoshimi
+      - Yoshimi.webp
     name:
       en: Ibaragi Yoshimi
       ja: 伊原木 ヨシミ
@@ -2121,7 +2122,7 @@ characters:
 
   yuuka:
     avatars:
-      - Yuuka
+      - Yuuka.webp
     name:
       en: Hayase Yuuka
       ja: 早瀬 ユウカ
@@ -2138,7 +2139,7 @@ characters:
 
   yuzu:
     avatars:
-      - Yuzu
+      - Yuzu.webp
     name:
       en: Hanaoka Yuzu
       ja: 花岡 ユズ
