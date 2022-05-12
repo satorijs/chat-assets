@@ -191,7 +191,7 @@ tags:
     ja: 陰陽部
 
 characters:
-  airi:
+  - id: airi
     avatars:
       - Airi.webp
     name:
@@ -208,7 +208,7 @@ characters:
       zh-CN: 爱莉
       zh-TW: 愛莉
 
-  akane:
+  - id: akane
     avatars:
       - Akane.webp
       - Akane_BunnyGirl.webp
@@ -226,7 +226,7 @@ characters:
       zh-CN: 茜
       zh-TW: 朱音
 
-  akari:
+  - id: akari
     avatars:
       - Akari.webp
     name:
@@ -243,7 +243,7 @@ characters:
       zh-CN: 茜里
       zh-TW: 亞伽里
 
-  ako:
+  - id: ako
     avatars:
       - Ako.webp
     name:
@@ -260,7 +260,7 @@ characters:
       zh-CN: 亚子
       zh-TW: ''
 
-  alice:
+  - id: alice
     avatars:
       - Alice.webp
     name:
@@ -277,7 +277,7 @@ characters:
       zh-CN: 爱丽丝
       zh-TW: 愛麗絲
 
-  android:
+  - id: android
     avatars:
       - Citizen_Borot_1.webp
       - Citizen_Borot_2.webp
@@ -294,23 +294,23 @@ characters:
       zh-CN: ''
       zh-TW: ''
 
-  arona:
+  - id: arona
     avatars:
       - Arona.webp
     name:
       en: Arona
       ja: アロナ
-      zh-CN: ''
-      zh-TW: ''
+      zh-CN: 阿罗娜
+      zh-TW: 彩奈
     tags:
       - shitims-box
     nickname:
       en: Arona
       ja: アロナ
-      zh-CN: ''
-      zh-TW: ''
+      zh-CN: 阿罗娜
+      zh-TW: 彩奈
 
-  aru:
+  - id: aru
     avatars:
       - Aru.webp
       - Aru_Newyear.webp
@@ -328,7 +328,7 @@ characters:
       zh-CN: 阿露
       zh-TW: 亞瑠
 
-  asuna:
+  - id: asuna
     avatars:
       - Asuna.webp
       - Asuna_BunnyGirl.webp
@@ -346,7 +346,7 @@ characters:
       zh-CN: 明日奈
       zh-TW: 明日奈
 
-  ayane:
+  - id: ayane
     avatars:
       - Ayane.webp
       - Ayane_Robber.webp
@@ -365,7 +365,7 @@ characters:
       zh-CN: 绫音
       zh-TW: 綾音
 
-  ayumu:
+  - id: ayumu
     avatars:
       - Ayumu.webp
     name:
@@ -381,7 +381,7 @@ characters:
       zh-CN: ''
       zh-TW: ''
 
-  azusa:
+  - id: azusa
     avatars:
       - Azusa.webp
       - Azusa_Swimsuit.webp
@@ -399,7 +399,7 @@ characters:
       zh-CN: 梓
       zh-TW: 梓
 
-  binah:
+  - id: binah
     avatars:
       - Binah.webp
     name:
@@ -421,8 +421,8 @@ characters:
     name:
       en: Black Suit
       ja: 黒服
-      zh-CN: ''
-      zh-TW: ''
+      zh-CN: 黑服
+      zh-TW: 黑服
     tags:
       - gematria
     nickname:
@@ -431,7 +431,7 @@ characters:
       zh-CN: ''
       zh-TW: ''
 
-  cherino:
+  - id: cherino
     avatars:
       - Cherino.webp
       - Cherino_Hotspring.webp
@@ -449,7 +449,7 @@ characters:
       zh-CN: 切里诺
       zh-TW: 潔莉諾
 
-  chesed:
+  - id: chesed
     avatars:
       - Chesed.webp
     name:
@@ -465,7 +465,7 @@ characters:
       zh-CN: ''
       zh-TW: ''
 
-  chihiro:
+  - id: chihiro
     avatars:
       - Chihiro.webp
     name:
@@ -482,7 +482,7 @@ characters:
       zh-CN: 千寻
       zh-TW: ''
 
-  sukeban:
+  - id: sukeban
     avatars:
       - Sukeban_HMG.webp
       - Sukeban_SMG.webp
@@ -502,7 +502,7 @@ characters:
       zh-CN: ''
       zh-TW: ''
 
-  chinatsu:
+  - id: chinatsu
     avatars:
       - Chinatsu.webp
       - Chinatsu_Hotspring.webp
@@ -520,7 +520,7 @@ characters:
       zh-CN: 千夏
       zh-TW: 千夏
 
-  chise:
+  - id: chise
     avatars:
       - Chise.webp
     name:
@@ -554,7 +554,7 @@ characters:
       zh-CN: ''
       zh-TW: ''
 
-  decalcomanie:
+  - id: decalcomanie
     avatars:
       - Décalcomanie.webp
     name:
@@ -570,7 +570,7 @@ characters:
       zh-CN: ''
       zh-TW: ''
 
-  eimi:
+  - id: eimi
     avatars:
       - Eimi.webp
     name:
@@ -587,7 +587,7 @@ characters:
       zh-CN: 艾米
       zh-TW: 英美
 
-  fubuki:
+  - id: fubuki
     avatars:
       - Fubuki.webp
     name:
@@ -604,7 +604,7 @@ characters:
       zh-CN: 吹雪
       zh-TW: ''
 
-  fuuka:
+  - id: fuuka
     avatars:
       - Fuuka.webp
     name:
@@ -621,7 +621,7 @@ characters:
       zh-CN: 风香
       zh-TW: 風華
 
-  golconde:
+  - id: golconde
     avatars:
       - Golconde.webp
     name:
@@ -637,7 +637,7 @@ characters:
       zh-CN: ''
       zh-TW: ''
 
-  hanae:
+  - id: hanae
     avatars:
       - Hanae.webp
     name:
@@ -654,7 +654,7 @@ characters:
       zh-CN: 花江
       zh-TW: 花繪
 
-  hanako:
+  - id: hanako
     avatars:
       - Hanako.webp
     name:
@@ -671,7 +671,7 @@ characters:
       zh-CN: 花子
       zh-TW: 花子
 
-  hare:
+  - id: hare
     avatars:
       - Hare.webp
     name:
@@ -688,7 +688,7 @@ characters:
       zh-CN: 晴
       zh-TW: 晴
 
-  haruka:
+  - id: haruka
     avatars:
       - Haruka.webp
       - Haruka_Newyear.webp
@@ -706,7 +706,7 @@ characters:
       zh-CN: 春香
       zh-TW: 遙香
 
-  haruna:
+  - id: haruna
     avatars:
       - Haruna.webp
     name:
@@ -723,7 +723,7 @@ characters:
       zh-CN: 晴奈
       zh-TW: 羽留奈
 
-  hasumi:
+  - id: hasumi
     avatars:
       - Hasumi.webp
     name:
@@ -757,7 +757,7 @@ characters:
       zh-CN: ''
       zh-TW: ''
 
-  hibiki:
+  - id: hibiki
     avatars:
       - Hibiki.webp
     name:
@@ -774,7 +774,7 @@ characters:
       zh-CN: 响
       zh-TW: 響
 
-  hieronymus:
+  - id: hieronymus
     avatars:
       - Hieronymus.webp
     name:
@@ -790,7 +790,7 @@ characters:
       zh-CN: ''
       zh-TW: ''
 
-  hifumi:
+  - id: hifumi
     avatars:
       - Hifumi.webp
       - Hifumi_Robber.webp
@@ -810,7 +810,7 @@ characters:
       zh-CN: 日富美
       zh-TW: 日步美
 
-  hina:
+  - id: hina
     avatars:
       - Hina.webp
       - Hina_Swimsuit.webp
@@ -829,7 +829,7 @@ characters:
       zh-CN: 日奈
       zh-TW: 陽奈
 
-  hinata:
+  - id: hinata
     avatars:
       - Hinata.webp
     name:
@@ -846,7 +846,7 @@ characters:
       zh-CN: 日向
       zh-TW: ''
 
-  hod:
+  - id: hod
     avatars:
       - Hod.webp
     name:
@@ -862,7 +862,7 @@ characters:
       zh-CN: ''
       zh-TW: ''
 
-  hoshino:
+  - id: hoshino
     avatars:
       - Hoshino.webp
       - Hoshino_Robber.webp
@@ -881,7 +881,7 @@ characters:
       zh-CN: 星野
       zh-TW: 星野
 
-  iori:
+  - id: iori
     avatars:
       - Iori.webp
       - Iori_Swimsuit.webp
@@ -899,7 +899,7 @@ characters:
       zh-CN: 伊织
       zh-TW: 伊織
 
-  iroha:
+  - id: iroha
     avatars:
       - Iroha.webp
     name:
@@ -916,7 +916,7 @@ characters:
       zh-CN: 伊吕波
       zh-TW: ''
 
-  izumi:
+  - id: izumi
     avatars:
       - Izumi.webp
       - Izumi_Swimsuit.webp
@@ -934,7 +934,7 @@ characters:
       zh-CN: 泉
       zh-TW: 泉
 
-  izuna:
+  - id: izuna
     avatars:
       - Izuna.webp
     name:
@@ -951,7 +951,7 @@ characters:
       zh-CN: 泉奈
       zh-TW: 伊樹菜
 
-  junko:
+  - id: junko
     avatars:
       - Junko.webp
     name:
@@ -968,7 +968,7 @@ characters:
       zh-CN: 纯子
       zh-TW: 淳子
 
-  juri:
+  - id: juri
     avatars:
       - Juri.webp
     name:
@@ -1018,7 +1018,7 @@ characters:
       zh-CN: ''
       zh-TW: ''
 
-  kaede:
+  - id: kaede
     avatars:
       - Kaede.webp
     name:
@@ -1051,7 +1051,7 @@ characters:
       zh-CN: ''
       zh-TW: ''
 
-  kaitenger:
+  - id: kaitenger
     avatars:
       - Kaitenger_Red.webp
       - Kaitenger_Black.webp
@@ -1071,7 +1071,7 @@ characters:
       zh-CN: ''
       zh-TW: ''
 
-  karin:
+  - id: karin
     avatars:
       - Karin.webp
       - Karin_BunnyGirl.webp
@@ -1089,7 +1089,7 @@ characters:
       zh-CN: 花凛
       zh-TW: 花凛
 
-  kayoko:
+  - id: kayoko
     avatars:
       - Kayoko.webp
       - Kayoko_Newyear.webp
@@ -1107,7 +1107,7 @@ characters:
       zh-CN: 佳代子
       zh-TW: 佳世子
 
-  kirino:
+  - id: kirino
     avatars:
       - Kirino.webp
     name:
@@ -1124,7 +1124,7 @@ characters:
       zh-CN: 桐乃
       zh-TW: 桐乃
 
-  citizen:
+  - id: citizen
     avatars:
       - Citizen_Animal_1.webp
       - Citizen_Animal_6.webp
@@ -1143,7 +1143,7 @@ characters:
       zh-CN: ''
       zh-TW: ''
 
-  koharu:
+  - id: koharu
     avatars:
       - Koharu.webp
     name:
@@ -1160,7 +1160,7 @@ characters:
       zh-CN: 小春
       zh-TW: 小春
 
-  kotama:
+  - id: kotama
     avatars:
       - Kotama.webp
     name:
@@ -1177,7 +1177,7 @@ characters:
       zh-CN: 小玉
       zh-TW: 小玉
 
-  kotori:
+  - id: kotori
     avatars:
       - Kotori.webp
     name:
@@ -1194,7 +1194,7 @@ characters:
       zh-CN: 琴里
       zh-TW: 亞都梨
 
-  kuro:
+  - id: kuro
     avatars:
       - Kuro.webp
     name:
@@ -1210,7 +1210,7 @@ characters:
       zh-CN: ''
       zh-TW: ''
 
-  maestro:
+  - id: maestro
     avatars:
       - Maestro.webp
     name:
@@ -1226,7 +1226,7 @@ characters:
       zh-CN: ''
       zh-TW: ''
 
-  maki:
+  - id: maki
     avatars:
       - Maki.webp
     name:
@@ -1243,7 +1243,7 @@ characters:
       zh-CN: 真纪
       zh-TW: 真紀
 
-  mari:
+  - id: mari
     avatars:
       - Mari.webp
     name:
@@ -1260,7 +1260,7 @@ characters:
       zh-CN: ''
       zh-TW: ''
 
-  marina:
+  - id: marina
     avatars:
       - Marina.webp
     name:
@@ -1277,7 +1277,7 @@ characters:
       zh-CN: 玛丽娜
       zh-TW: ''
 
-  mashiro:
+  - id: mashiro
     avatars:
       - Mashiro.webp
       - Mashiro_Swimsuit.webp
@@ -1295,7 +1295,7 @@ characters:
       zh-CN: 真白
       zh-TW: 麻白
 
-  megu:
+  - id: megu
     avatars:
       - Megu.webp
     name:
@@ -1312,7 +1312,7 @@ characters:
       zh-CN: ''
       zh-TW: ''
 
-  michiru:
+  - id: michiru
     avatars:
       - Michiru.webp
     name:
@@ -1329,7 +1329,7 @@ characters:
       zh-CN: 满
       zh-TW: ''
 
-  midori:
+  - id: midori
     avatars:
       - Midori.webp
     name:
@@ -1346,7 +1346,7 @@ characters:
       zh-CN: 绿
       zh-TW: 綠
 
-  mika:
+  - id: mika
     avatars:
       - Mika.webp
     name:
@@ -1363,7 +1363,7 @@ characters:
       zh-CN: ''
       zh-TW: ''
 
-  mimori:
+  - id: mimori
     avatars:
       - Mimori.webp
     name:
@@ -1380,7 +1380,7 @@ characters:
       zh-CN: 三森
       zh-TW: ''
 
-  minori:
+  - id: minori
     avatars:
       - Minori.webp
     name:
@@ -1397,7 +1397,7 @@ characters:
       zh-CN: ''
       zh-TW: ''
 
-  miyako:
+  - id: miyako
     avatars:
       - Miyako.webp
     name:
@@ -1414,7 +1414,7 @@ characters:
       zh-CN: 宫子
       zh-TW: ''
 
-  miyu:
+  - id: miyu
     avatars:
       - Miyu.webp
     name:
@@ -1431,7 +1431,7 @@ characters:
       zh-CN: 美游
       zh-TW: ''
 
-  moe:
+  - id: moe
     avatars:
       - Moe.webp
     name:
@@ -1448,7 +1448,7 @@ characters:
       zh-CN: ''
       zh-TW: ''
 
-  momoi:
+  - id: momoi
     avatars:
       - Momoi.webp
     name:
@@ -1465,7 +1465,7 @@ characters:
       zh-CN: 桃衣
       zh-TW: 桃井
 
-  momoka:
+  - id: momoka
     avatars:
       - Momoka.webp
     name:
@@ -1481,7 +1481,7 @@ characters:
       zh-CN: ''
       zh-TW: ''
 
-  mutsuki:
+  - id: mutsuki
     avatars:
       - Mutsuki.webp
       - Mutsuki_Newyear.webp
@@ -1499,7 +1499,7 @@ characters:
       zh-CN: 睦月
       zh-TW: 無月
 
-  nagisa:
+  - id: nagisa
     avatars:
       - Nagisa.webp
     name:
@@ -1516,7 +1516,7 @@ characters:
       zh-CN: ''
       zh-TW: ''
 
-  natsu:
+  - id: natsu
     avatars:
       - Natsu.webp
     name:
@@ -1533,7 +1533,7 @@ characters:
       zh-CN: 夏
       zh-TW: ''
 
-  neru:
+  - id: neru
     avatars:
       - Neru.webp
       - Neru_BunnyGirl.webp
@@ -1551,7 +1551,7 @@ characters:
       zh-CN: 尼禄
       zh-TW: 寧瑠
 
-  nodoka:
+  - id: nodoka
     avatars:
       - Nodoka.webp
       - Nodoka_Hotspring.webp
@@ -1569,7 +1569,7 @@ characters:
       zh-CN: 和香
       zh-TW: 和香
 
-  nonomi:
+  - id: nonomi
     avatars:
       - Nonomi.webp
       - Nonomi_Robber.webp
@@ -1588,7 +1588,7 @@ characters:
       zh-CN: 野宫
       zh-TW: 野乃美
 
-  nyantenmaru:
+  - id: nyantenmaru
     avatars:
       - Nyantenmaru.webp
     name:
@@ -1620,7 +1620,7 @@ characters:
       zh-CN: ''
       zh-TW: ''
 
-  perorozilla:
+  - id: perorozilla
     avatars:
       - Perorozilla.webp
     name:
@@ -1636,7 +1636,7 @@ characters:
       zh-CN: ''
       zh-TW: ''
 
-  pina:
+  - id: pina
     avatars:
       - Pina.webp
     name:
@@ -1653,7 +1653,7 @@ characters:
       zh-CN: 菲娜
       zh-TW: 菲娜
 
-  rin:
+  - id: rin
     avatars:
       - Rin.webp
     name:
@@ -1669,7 +1669,7 @@ characters:
       zh-CN: ''
       zh-TW: ''
 
-  saki:
+  - id: saki
     avatars:
       - Saki.webp
     name:
@@ -1686,7 +1686,7 @@ characters:
       zh-CN: 咲
       zh-TW: ''
 
-  saya:
+  - id: saya
     avatars:
       - Saya.webp
       - Saya_Casual.webp
@@ -1704,7 +1704,7 @@ characters:
       zh-CN: 沙绫
       zh-TW: 沙耶
 
-  seia:
+  - id: seia
     avatars:
       - Seia.webp
     name:
@@ -1721,7 +1721,7 @@ characters:
       zh-CN: ''
       zh-TW: ''
 
-  sena:
+  - id: sena
     avatars:
       - Sena.webp
     name:
@@ -1738,7 +1738,7 @@ characters:
       zh-CN: 濑名
       zh-TW: ''
 
-  serika:
+  - id: serika
     avatars:
       - Serika.webp
       - Serika_Robber.webp
@@ -1760,7 +1760,7 @@ characters:
       zh-CN: 芹香
       zh-TW: 茜香
 
-  serina:
+  - id: serina
     avatars:
       - Serina.webp
     name:
@@ -1793,7 +1793,7 @@ characters:
       zh-CN: ''
       zh-TW: ''
 
-  shigure:
+  - id: shigure
     avatars:
       - Shigure.webp
       - Shigure_Hotspring.webp
@@ -1811,7 +1811,7 @@ characters:
       zh-CN: ''
       zh-TW: ''
 
-  shimiko:
+  - id: shimiko
     avatars:
       - Shimiko.webp
     name:
@@ -1828,7 +1828,7 @@ characters:
       zh-CN: 志美子
       zh-TW: 志美子
 
-  shiro:
+  - id: shiro
     avatars:
       - Shiro.webp
     name:
@@ -1844,7 +1844,7 @@ characters:
       zh-CN: ''
       zh-TW: ''
 
-  shiroko:
+  - id: shiroko
     avatars:
       - Shiroko.webp
       - Shiroko_Robber.webp
@@ -1864,7 +1864,7 @@ characters:
       zh-CN: 白子
       zh-TW: 白子
 
-  shizuko:
+  - id: shizuko
     avatars:
       - Shizuko.webp
     name:
@@ -1881,7 +1881,7 @@ characters:
       zh-CN: 静子
       zh-TW: 靜子
 
-  shun:
+  - id: shun
     avatars:
       - Shun.webp
       - Shun_Little_Girl.webp
@@ -1899,7 +1899,7 @@ characters:
       zh-CN: 瞬
       zh-TW: 旬
 
-  sisterhood:
+  - id: sisterhood
     avatars:
       - Sisterhood_Executive.webp
     name:
@@ -1916,7 +1916,7 @@ characters:
       zh-CN: ''
       zh-TW: ''
 
-  sora:
+  - id: sora
     avatars:
       - Sora.webp
     name:
@@ -1949,7 +1949,7 @@ characters:
       zh-CN: ''
       zh-TW: ''
 
-  sumire:
+  - id: sumire
     avatars:
       - Sumire.webp
     name:
@@ -1966,7 +1966,7 @@ characters:
       zh-CN: 菫
       zh-TW: 堇
 
-  suzumi:
+  - id: suzumi
     avatars:
       - Suzumi.webp
     name:
@@ -2001,7 +2001,7 @@ characters:
       zh-CN: ''
       zh-TW: ''
 
-  tomoe:
+  - id: tomoe
     avatars:
       - Tomoe.webp
     name:
@@ -2018,7 +2018,7 @@ characters:
       zh-CN: 巴
       zh-TW: ''
 
-  tsubaki:
+  - id: tsubaki
     avatars:
       - Tsubaki.webp
     name:
@@ -2035,7 +2035,7 @@ characters:
       zh-CN: 椿
       zh-TW: 椿
 
-  tsurugi:
+  - id: tsurugi
     avatars:
       - Tsurugi.webp
       - Tsurugi_Swimsuit.webp
@@ -2053,7 +2053,7 @@ characters:
       zh-CN: 鹤城
       zh-TW: 弦生
 
-  ui:
+  - id: ui
     avatars:
       - Ui.webp
     name:
@@ -2070,7 +2070,7 @@ characters:
       zh-CN: 忧
       zh-TW: ''
 
-  utaha:
+  - id: utaha
     avatars:
       - Utaha.webp
     name:
@@ -2087,7 +2087,7 @@ characters:
       zh-CN: 歌原
       zh-TW: 詠葉
 
-  wakamo:
+  - id: wakamo
     avatars:
       - Wakamo.webp
     name:
@@ -2103,7 +2103,7 @@ characters:
       zh-CN: 若藻
       zh-TW: ''
 
-  yoshimi:
+  - id: yoshimi
     avatars:
       - Yoshimi.webp
     name:
@@ -2120,7 +2120,7 @@ characters:
       zh-CN: 好美
       zh-TW: 喜美
 
-  yuuka:
+  - id: yuuka
     avatars:
       - Yuuka.webp
     name:
@@ -2137,7 +2137,7 @@ characters:
       zh-CN: 优香
       zh-TW: 優香
 
-  yuzu:
+  - id: yuzu
     avatars:
       - Yuzu.webp
     name:
