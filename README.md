@@ -2,6 +2,11 @@
 
 This is a collection of extensions for [Satori Chat](https://satori.js.org/chat/).
 
+- [x] [Blue Archive](https://bluearchive.jp/)
+- [x] [Princess Connect! Re:Dive](https://priconne-redive.jp/)
+- [ ] Arknights
+- [ ] Genshin Impact
+
 ## Credits
 
 - [YuzuTalk/translation](https://github.com/YuzuTalk/translation)

@@ -1,5 +1,10 @@
 base: https://redive.estertion.win/icon/unit/
 
+name:
+  ja: プリンセスコネクト！Re:Dive
+  en: Princess Connect! Re:Dive
+  zh-CN: 公主连结Re:Dive
+
 characters:
   - id: hiyori
     avatars:
