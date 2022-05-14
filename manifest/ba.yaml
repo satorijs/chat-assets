@@ -64,6 +64,7 @@ tags:
   gematria:
     en: Gematria
     ja: ゲマトリア
+    zh-CN: 数秘术
   gourmet-research-society:
     en: Gourmet Research Society
     ja: 美食研究会
@@ -428,8 +429,8 @@ characters:
     nickname:
       en: Black Suit
       ja: 黒服
-      zh-CN: ''
-      zh-TW: ''
+      zh-CN: 黑服
+      zh-TW: 黑服
 
   - id: cherino
     avatars:

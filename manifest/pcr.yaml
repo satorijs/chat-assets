@@ -991,32 +991,32 @@ characters:
     nickname:
       ja: カリン
 
-  - id: hatsune＆shiori
-    avatars:
-      - 180711.webp
-      - 180731.webp
-    name:
-      ja: ハツネ＆シオリ
-    nickname:
-      ja: ハツネ＆シオリ
+  # - id: hatsune＆shiori
+  #   avatars:
+  #     - 180711.webp
+  #     - 180731.webp
+  #   name:
+  #     ja: ハツネ＆シオリ
+  #   nickname:
+  #     ja: ハツネ＆シオリ
 
-  - id: misogi＆mimi＆kyouka
-    avatars:
-      - 180811.webp
-      - 180831.webp
-    name:
-      ja: ミソギ＆ミミ＆キョウカ
-    nickname:
-      ja: ミソギ＆ミミ＆キョウカ
+  # - id: misogi＆mimi＆kyouka
+  #   avatars:
+  #     - 180811.webp
+  #     - 180831.webp
+  #   name:
+  #     ja: ミソギ＆ミミ＆キョウカ
+  #   nickname:
+  #     ja: ミソギ＆ミミ＆キョウカ
 
-  - id: akino＆saren
-    avatars:
-      - 180911.webp
-      - 180931.webp
-    name:
-      ja: アキノ＆サレン
-    nickname:
-      ja: アキノ＆サレン
+  # - id: akino＆saren
+  #   avatars:
+  #     - 180911.webp
+  #     - 180931.webp
+  #   name:
+  #     ja: アキノ＆サレン
+  #   nickname:
+  #     ja: アキノ＆サレン
 
   - id: kazumasa
     avatars:
