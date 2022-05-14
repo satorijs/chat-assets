@@ -406,15 +406,15 @@ characters:
     name:
       en: Binah
       ja: ビナー
-      zh-CN: ''
-      zh-TW: ''
+      zh-CN: 比纳
+      zh-TW: 薇娜
     tags:
       - decagrammaton
     nickname:
       en: Binah
       ja: ビナー
-      zh-CN: ''
-      zh-TW: ''
+      zh-CN: 比纳
+      zh-TW: 薇娜
 
   - id: black-suit
     avatars:
@@ -456,15 +456,15 @@ characters:
     name:
       en: Chesed
       ja: ケセド
-      zh-CN: ''
-      zh-TW: ''
+      zh-CN: 凯塞德
+      zh-TW: 赫賽德
     tags:
       - decagrammaton
     nickname:
       en: Chesed
       ja: ケセド
-      zh-CN: ''
-      zh-TW: ''
+      zh-CN: 凯塞德
+      zh-TW: 赫賽德
 
   - id: chihiro
     avatars:
@@ -544,7 +544,7 @@ characters:
     name:
       en: Disciplinary Committee Member
       ja: 風紀委員
-      zh-CN: ''
+      zh-CN: 风纪委员
       zh-TW: ''
     tags:
       - gehenna
@@ -552,7 +552,7 @@ characters:
     nickname:
       en: Disciplinary Committee Member
       ja: 風紀委員
-      zh-CN: ''
+      zh-CN: 风纪委员
       zh-TW: ''
 
   - id: decalcomanie
@@ -748,14 +748,14 @@ characters:
     name:
       en: Helmet Dan
       ja: ヘルメット団
-      zh-CN: ''
+      zh-CN: 钢盔团
       zh-TW: ''
     tags:
       - helmet-dan
     nickname:
       en: Helmet Dan
       ja: ヘルメット団
-      zh-CN: ''
+      zh-CN: 钢盔团
       zh-TW: ''
 
   - id: hibiki
@@ -781,15 +781,15 @@ characters:
     name:
       en: Hieronymus
       ja: ヒエロニムス
-      zh-CN: ''
-      zh-TW: ''
+      zh-CN: 耶罗尼米斯
+      zh-TW: 耶羅尼姆斯
     tags:
       - communio-sanctorum
     nickname:
       en: Hieronymus
       ja: ヒエロニムス
-      zh-CN: ''
-      zh-TW: ''
+      zh-CN: 耶罗尼米斯
+      zh-TW: 耶羅尼姆斯
 
   - id: hifumi
     avatars:
@@ -853,14 +853,14 @@ characters:
     name:
       en: Hod
       ja: ホド
-      zh-CN: ''
+      zh-CN: 霍德
       zh-TW: ''
     tags:
       - decagrammaton
     nickname:
       en: Hod
       ja: ホド
-      zh-CN: ''
+      zh-CN: 霍德
       zh-TW: ''
 
   - id: hoshino
@@ -992,7 +992,7 @@ characters:
     name:
       en: Justice Task Force Member
       ja: 正義実現委員会部員
-      zh-CN: ''
+      zh-CN: 正义实现委员会成员
       zh-TW: ''
     tags:
       - trinity
@@ -1000,7 +1000,7 @@ characters:
     nickname:
       en: Justice Task Force Member
       ja: 正義実現委員会部員
-      zh-CN: ''
+      zh-CN: 正义实现委员会成员
       zh-TW: ''
 
   - id: kaiten-fx-mk-0
@@ -1009,15 +1009,15 @@ characters:
     name:
       en: KAITEN FX Mk.0
       ja: KAITEN FX Mk.0
-      zh-CN: ''
-      zh-TW: ''
+      zh-CN: KAITEN FX Mk.0
+      zh-TW: KAITEN FX Mk.0
     tags:
       - kaitenger
     nickname:
       en: KAITEN FX Mk.0
       ja: KAITEN FX Mk.0
-      zh-CN: ''
-      zh-TW: ''
+      zh-CN: KAITEN FX Mk.0
+      zh-TW: KAITEN FX Mk.0
 
   - id: kaede
     avatars:
@@ -1041,15 +1041,15 @@ characters:
       - Kaiser_PMC_Director.webp
     name:
       en: Kaiser PMC Director
-      ja: カイザーPMC理事
-      zh-CN: ''
+      ja: カイザー PMC 理事
+      zh-CN: 凯撒 PMC 理事
       zh-TW: ''
     tags:
       - kaiser-pmc
     nickname:
       en: Kaiser PMC Director
-      ja: カイザーPMC理事
-      zh-CN: ''
+      ja: カイザー PMC 理事
+      zh-CN: 凯撒 PMC 理事
       zh-TW: ''
 
   - id: kaitenger
@@ -1134,14 +1134,14 @@ characters:
     name:
       en: Kivotos Citizen
       ja: キヴォトス市民
-      zh-CN: ''
+      zh-CN: 基沃托斯市民
       zh-TW: ''
     tags:
       - citizen
     nickname:
       en: Kivotos Citizen
       ja: キヴォトス市民
-      zh-CN: ''
+      zh-CN: 基沃托斯市民
       zh-TW: ''
 
   - id: koharu
@@ -1201,15 +1201,15 @@ characters:
     name:
       en: Kuro
       ja: クロ
-      zh-CN: ''
-      zh-TW: ''
+      zh-CN: 黑
+      zh-TW: 黑
     tags:
       - mimesis
     nickname:
       en: Kuro
       ja: クロ
-      zh-CN: ''
-      zh-TW: ''
+      zh-CN: 黑
+      zh-TW: 黑
 
   - id: maestro
     avatars:
@@ -1353,7 +1353,7 @@ characters:
     name:
       en: Misono Mika
       ja: 聖園 ミカ
-      zh-CN: ''
+      zh-CN: 圣园 未花
       zh-TW: ''
     tags:
       - trinity
@@ -1361,7 +1361,7 @@ characters:
     nickname:
       en: Mika
       ja: ミカ
-      zh-CN: ''
+      zh-CN: 未花
       zh-TW: ''
 
   - id: mimori
@@ -1438,7 +1438,7 @@ characters:
     name:
       en: Kazekura Moe
       ja: 風倉 モエ
-      zh-CN: ''
+      zh-CN: 风仓 萌惠
       zh-TW: ''
     tags:
       - srt
@@ -1446,7 +1446,7 @@ characters:
     nickname:
       en: Moe
       ja: モエ
-      zh-CN: ''
+      zh-CN: 萌惠
       zh-TW: ''
 
   - id: momoi
@@ -1506,7 +1506,7 @@ characters:
     name:
       en: Kirifuji Nagisa
       ja: 桐藤 ナギサ
-      zh-CN: ''
+      zh-CN: 桐藤 渚
       zh-TW: ''
     tags:
       - trinity
@@ -1514,7 +1514,7 @@ characters:
     nickname:
       en: Nagisa
       ja: ナギサ
-      zh-CN: ''
+      zh-CN: 渚
       zh-TW: ''
 
   - id: natsu
@@ -1611,14 +1611,14 @@ characters:
     name:
       en: Peroro Sama
       ja: ペロロ様
-      zh-CN: ''
+      zh-CN: 佩洛洛大人
       zh-TW: ''
     tags:
       - momo-friends
     nickname:
       en: Peroro Sama
       ja: ペロロ様
-      zh-CN: ''
+      zh-CN: 佩洛洛大人
       zh-TW: ''
 
   - id: perorozilla
@@ -1627,14 +1627,14 @@ characters:
     name:
       en: Perorozilla
       ja: ペロロジラ
-      zh-CN: ''
+      zh-CN: 佩洛洛斯拉
       zh-TW: ''
     tags:
       - the-library-of-lore
     nickname:
       en: Perorozilla
       ja: ペロロジラ
-      zh-CN: ''
+      zh-CN: 佩洛洛斯拉
       zh-TW: ''
 
   - id: pina
@@ -1660,14 +1660,14 @@ characters:
     name:
       en: Nanagami Rin
       ja: 七神 リン
-      zh-CN: ''
+      zh-CN: 七神 凛
       zh-TW: ''
     tags:
       - prime-student-council
     nickname:
       en: Rin
       ja: リン
-      zh-CN: ''
+      zh-CN: 凛
       zh-TW: ''
 
   - id: saki
@@ -1711,7 +1711,7 @@ characters:
     name:
       en: Yurizono Seia
       ja: 百合園 セイア
-      zh-CN: ''
+      zh-CN: 百合园 圣娅
       zh-TW: ''
     tags:
       - trinity
@@ -1719,7 +1719,7 @@ characters:
     nickname:
       en: Seia
       ja: セイア
-      zh-CN: ''
+      zh-CN: 圣娅
       zh-TW: ''
 
   - id: sena
@@ -1784,14 +1784,14 @@ characters:
     name:
       en: Shibaseki Master
       ja: 柴大将
-      zh-CN: ''
+      zh-CN: 柴大将
       zh-TW: ''
     tags:
       - sibaseki-ramen
     nickname:
       en: Shibaseki Master
       ja: 柴大将
-      zh-CN: ''
+      zh-CN: 柴大将
       zh-TW: ''
 
   - id: shigure
@@ -1801,7 +1801,7 @@ characters:
     name:
       en: Mayoi Shigure
       ja: 間宵 シグレ
-      zh-CN: ''
+      zh-CN: 间宵 时雨
       zh-TW: ''
     tags:
       - red-winter
@@ -1809,7 +1809,7 @@ characters:
     nickname:
       en: Shigure
       ja: シグレ
-      zh-CN: ''
+      zh-CN: 时雨
       zh-TW: ''
 
   - id: shimiko
@@ -1835,15 +1835,15 @@ characters:
     name:
       en: Shiro
       ja: シロ
-      zh-CN: ''
-      zh-TW: ''
+      zh-CN: 白
+      zh-TW: 白
     tags:
       - mimesis
     nickname:
       en: Shiro
       ja: シロ
-      zh-CN: ''
-      zh-TW: ''
+      zh-CN: 白
+      zh-TW: 白
 
   - id: shiroko
     avatars:
@@ -1940,15 +1940,15 @@ characters:
     name:
       en: Sudama Ichiza
       ja: 魑魅一座
-      zh-CN: ''
-      zh-TW: ''
+      zh-CN: 魑魅一座
+      zh-TW: 魑魅一座
     tags:
       - sudama-ichiza
     nickname:
       en: Sudama Ichiza
       ja: 魑魅一座
-      zh-CN: ''
-      zh-TW: ''
+      zh-CN: 魑魅一座
+      zh-TW: 魑魅一座
 
   - id: sumire
     avatars:
