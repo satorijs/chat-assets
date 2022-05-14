@@ -5,6 +5,65 @@ name:
   en: Princess Connect! Re:Dive
   zh-CN: 公主连结Re:Dive
 
+tags:
+  bishokuten:
+    ja: 美食殿
+    zh-CN: 美食殿堂
+  twinkle-wish:
+    ja: トゥインクルウィッシュ
+    zh-CN: 破晓之星
+  labyrinth:
+    ja: ラビリンス
+    zh-CN: 拉比林斯
+  karumina:
+    ja: カルミナ
+    zh-CN: 慈乐之音
+  ritoruririkaru:
+    ja: リトルリリカル
+    zh-CN: 小小甜心
+  foresutie:
+    ja: フォレスティエ
+    zh-CN: 森林守卫
+  diabolos:
+    ja: 悪魔偽王国軍
+    zh-CN: 恶魔伪王国军
+  nightmare:
+    ja: 王宮騎士団
+    zh-CN: 王宫骑士团
+  sarendia-kyugoin:
+    ja: サレンディア救護院
+    zh-CN: 咲恋救济院
+  dobutsuen:
+    ja: 動物苑
+    zh-CN: 动物苑
+  kaon:
+    ja: 自警団
+    zh-CN: 自卫团
+  elizabeth-park:
+    ja: 牧場
+    zh-CN: 伊丽莎白牧场
+  mercury-zaidan:
+    ja: メルクリウス財団
+    zh-CN: 墨丘利财团
+  twilight-caravan:
+    ja: トワイライトキャラバン
+    zh-CN: 暮光流星群
+  ruusento-gakuin:
+    ja: ルーセント学院
+    zh-CN: 月光学院
+  vaisufuryuugeru-randosoru-shibu:
+    ja: ヴァイスフリューゲル ランドソル支部
+    zh-CN: 纯白之翼 兰德索尔支部
+  seiteresa-jogakuin:
+    ja: 聖テレサ女学院
+    zh-CN: 圣特雷莎女子学院
+  nakayoshi-bu:
+    ja: なかよし部
+    zh-CN: 好朋友部
+  dragon-nest:
+    ja: ドラゴンズネスト
+    zh-CN: 龙族巢穴
+
 characters:
   - id: hiyori
     avatars:
