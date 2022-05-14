@@ -8,59 +8,79 @@ tags:
   abydos:
     en: Abydos
     ja: アビドス高等学校
+    zh-CN: 阿比多斯高等学校
   after-school-sweets-club:
     en: After-School Sweets Club
     ja: 放課後スイーツ部
+    zh-CN: 放学后甜点部
   angel-24:
     en: Angel 24
     ja: エンジェル 24
+    zh-CN: 天使 24
   athletics-training-club:
     en: Athletics Training Club
     ja: トレーニング部
+    zh-CN: 训练俱乐部
   citizen:
     en: Citizen
     ja: 市民
+    zh-CN: 市民
   city-chimpira:
     en: City Chimpira
     ja: 街のチンピラ
+    zh-CN: ''
   cleaning-and-clearing:
     en: Cleaning & Clearing
+    ja: Cleaning & Clearing
+    zh-CN: Cleaning & Clearing
   communio-sanctorum:
     en: Communio Sanctorum
     ja: コムニオ・サンクトラム
+    zh-CN: ''
   community-safety-bureau:
     en: Community Safety Bureau
     ja: 生活安全局
+    zh-CN: 生活安全局
   construction-department:
     en: Construction Department
     ja: 工務部
+    zh-CN: 工务部
   countermeasures-council:
     en: Countermeasures Council
     ja: 対策委員会
+    zh-CN: 对策委员会
   decagrammaton:
     en: Decagrammaton
     ja: デカグラマトン
+    zh-CN: 十字神明
   disciplinary-committee:
     en: Disciplinary Committee
     ja: 風紀委員会
+    zh-CN: 风纪委员会
   eastern-alchemy-society:
     en: Eastern Alchemy Society
     ja: 錬丹術研究会
+    zh-CN: 炼丹术研究会
   emergency-medicine-club:
     en: Emergency Medicine Club
     ja: 救急医学部
+    zh-CN: 救急医学部
   engineering-club:
     en: Engineering Club
     ja: エンジニア部
+    zh-CN: 工程师部
   festival-operations-department:
     en: Festival Operations Department
     ja: お祭り運営委員会
+    zh-CN: 庆典运营委员会
   game-development-department:
     en: Game Development Department
     ja: ゲーム開発部
+    zh-CN: 游戏开发部
   gehenna:
     en: Gehenna Academy
     ja: ゲヘナ学園
+    zh-CN: 格赫纳
   gematria:
     en: Gematria
     ja: ゲマトリア
@@ -68,54 +88,71 @@ tags:
   gourmet-research-society:
     en: Gourmet Research Society
     ja: 美食研究会
+    zh-CN: 美食研究会
   helmet-dan:
     en: Katakata Helmet Dan
     ja: カタカタヘルメット団
+    zh-CN: ''
   hyakkiyako:
     en: Allied Hyakkiyako Academy
     ja: 百鬼夜行連合学院
+    zh-CN: 百鬼夜行联合学院
   hyakkiyako-commercial-district:
     en: Hyakkiyako Commercial District
     ja: 百鬼夜行商店街
+    zh-CN: 百鬼夜行商店街
   inner-discipline-club:
     en: Inner Discipline Club
     ja: 修行部
+    zh-CN: 修行部
   justice-task-force:
     en: Justice Task Force
     ja: 正義実現委員会
+    zh-CN: 正义实现委员会
   kaiser-pmc:
     en: Kaiser PMC
     ja: カイザー PMC
+    zh-CN: 凯撒 PMC
   kaitenger:
     en: Kaitenger
     ja: カイテンジャー
+    zh-CN: ''
   library-committee:
     en: Library Committee
     ja: 図書委員会
+    zh-CN: 图书委员会
   makeup-work-club:
     en: Makeup Work Club
     ja: 補習授業部
+    zh-CN: 补习授业部
   masked-swimsuit-group:
     en: Masked Swimsuit Group
     ja: 覆面水着団
+    zh-CN: 蒙面泳装团
   millennium:
     en: Millennium Science Academy
     ja: ミレニアムサイエンススクール
+    zh-CN: ''
   mimesis:
     en: Mimesis
     ja: ミメシス
+    zh-CN: ''
   momo-friends:
     en: Momo Friends
     ja: モモフレンズ
+    zh-CN: ''
   ninjutsu-research-department:
     en: Ninjutsu Research Department
     ja: 忍術研究部
+    zh-CN: 忍术研究部
   onsen-development-club:
     en: Onsen Development Club
     ja: 温泉開発部
+    zh-CN: 温泉开发部
   pandemonium-society:
     en: Pandemonium Society
     ja: パンデモニウム・ソサエティー
+    zh-CN: ''
   plum-blossom-garden:
     en: Plum Blossom Garden
     ja: 梅花園
@@ -123,24 +160,31 @@ tags:
   prime-student-council:
     en: Prime Student Council
     ja: 連邦生徒会
+    zh-CN: 联邦学生会
   problem-solver-68:
     en: Problem Solver 68
     ja: 便利屋 68
+    zh-CN: 便利屋 68
   rabbit-platoon:
     en: Rabbit Platoon
-    ja: RABBIT小隊
+    ja: RABBIT 小隊
+    zh-CN: RABBIT 小队
   red-winter:
     en: Red Winter Federal Academy
     ja: レッドウィンター連邦学園
+    zh-CN: 红冬联邦学园
   red-winter-secretariat:
     en: Red Winter Secretariat
     ja: レッドウィンター事務局
+    zh-CN: 红冬事务局
   remedial-knights:
     en: Remedial Knights
     ja: 救護騎士団
+    zh-CN: 救护骑士团
   school-lunch-club:
     en: School Lunch Club
     ja: 給食部
+    zh-CN: ''
   seminar:
     en: Seminar
     ja: セミナー
@@ -148,38 +192,51 @@ tags:
   sibaseki-ramen:
     en: Sibaseki Ramen
     ja: 柴関ラーメン
+    zh-CN: 柴关拉面
   sisterhood:
     en: Sisterhood
     ja: シスターフッド
+    zh-CN: 修女会
   shanhaijing:
     en: Shanhaijing Senior Secondary School
     ja: 山海経高級中学校
+    zh-CN: ''
   shitims-box:
     en: Shittim Chests
     ja: シッテムの箱
+    zh-CN: ''
   special-class-no-227:
     en: Special Class No.227
-    ja: 227号特別クラス
+    ja: 227 号特別クラス
+    zh-CN: 227 号特别班
   srt:
     en: SRT Special Academy
-    ja: SRT特殊学園
+    ja: SRT 特殊学園
+    zh-CN: SRT 特殊学园
   sudama-ichiza:
     en: Sudama Ichiza
     ja: 魑魅一座
+    zh-CN: 魑魅一座
   super-phenomenon-task-force:
     en: Super Phenomenon Task Force
     ja: 特異現象特務部
+    zh-CN: ''
   tea-party:
     en: Tea Party
     ja: ティーパーティー
+    zh-CN: ''
   the-library-of-lore:
     en: The Library of Lore
+    ja: ''
+    zh-CN: ''
   trinity:
     en: Trinity General School
     ja: トリニティ総合学園
+    zh-CN: ''
   valkyrie:
     en: Valkyrie Police Academy
     ja: ヴァルキューレ警察学校
+    zh-CN: 瓦尔基里警察学校
   veritas:
     en: Veritas
     ja: ヴェリタス
@@ -187,9 +244,11 @@ tags:
   vigilante-crew:
     en: Vigilante Crew
     ja: トリニティ自警団
+    zh-CN: ''
   yin-yang-club:
     en: Yin-Yang Club
     ja: 陰陽部
+    zh-CN: 阴阳部
 
 characters:
   - id: airi
