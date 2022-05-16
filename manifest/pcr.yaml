@@ -6,13 +6,16 @@ name:
   zh-CN: 公主连结Re:Dive
 
 tags:
-  bishokuten:
+  gourmet-edifice:
+    en: Gourmet Edifice
     ja: 美食殿
     zh-CN: 美食殿堂
   twinkle-wish:
+    en: Twinkle Wish
     ja: トゥインクルウィッシュ
     zh-CN: 破晓之星
   labyrinth:
+    en: Labyrinth
     ja: ラビリンス
     zh-CN: 拉比林斯
   karumina:
@@ -74,10 +77,16 @@ characters:
       - 108731.webp
       - 180111.webp
       - 180131.webp
+    tags:
+      - twinkle-wish
     name:
-      ja: ヒヨリ
+      en: Harusaki Hiyori
+      ja: 春咲 ひより
+      zh-CN: 春咲 日和莉
     nickname:
+      en: Hiyori
       ja: ヒヨリ
+      zh-CN: 日和莉
 
   - id: yui
     avatars:
@@ -90,10 +99,16 @@ characters:
       - 115631.webp
       - 180211.webp
       - 180231.webp
+    tags:
+      - twinkle-wish
     name:
-      ja: ユイ
+      en: Yui Kusano
+      ja: 草野 優衣
+      zh-CN: 草野 优衣
     nickname:
+      en: Yui
       ja: ユイ
+      zh-CN: 优衣
 
   - id: rei
     avatars:
@@ -106,10 +121,16 @@ characters:
       - 114031.webp
       - 180311.webp
       - 180331.webp
+    tags:
+      - twinkle-wish
     name:
-      ja: レイ
+      en: Shijo Rei
+      ja: 士条 怜
+      zh-CN: 士条 怜
     nickname:
+      en: Rei
       ja: レイ
+      zh-CN: 怜
 
   - id: misogi
     avatars:
@@ -754,7 +775,7 @@ characters:
     nickname:
       ja: ジータ
 
-  - id: pekoriinu
+  - id: pecorine
     avatars:
       - 105811.webp
       - 105831.webp
@@ -768,10 +789,16 @@ characters:
       - 121031.webp
       - 180411.webp
       - 180431.webp
+    tags:
+      - gourmet-edifice
     name:
-      ja: ペコリーヌ
+      en: Eustiana von Astraea
+      ja: ユースティアナ・フォン・アストライア
+      zh-CN: 尤丝蒂亚娜·冯·阿斯特莱亚
     nickname:
+      en: Pecorine
       ja: ペコリーヌ
+      zh-CN: 佩可莉姆
 
   - id: kokkoro
     avatars:
@@ -787,12 +814,18 @@ characters:
       - 115531.webp
       - 180511.webp
       - 180531.webp
+    tags:
+      - gourmet-edifice
     name:
-      ja: コッコロ
+      en: Natsume Kokoro
+      ja: 棗 こころ
+      zh: 棗 可萝
     nickname:
+      en: Kokkoro
       ja: コッコロ
+      zh-CN: 可可萝
 
-  - id: kyaru
+  - id: karyl
     avatars:
       - 106011.webp
       - 106031.webp
@@ -806,10 +839,16 @@ characters:
       - 121131.webp
       - 180611.webp
       - 180631.webp
+    tags:
+      - gourmet-edifice
     name:
-      ja: キャル
+      en: Momochi Kiruya
+      ja: 百地 希留耶
+      zh-CN: 百地 希留耶
     nickname:
+      en: Karyl
       ja: キャル
+      zh-CN: 凯露
 
   - id: muimi
     avatars:
@@ -838,10 +877,16 @@ characters:
       - 106431.webp
       - 120711.webp
       - 120731.webp
+    tags:
+      - gourmet-edifice
     name:
-      ja: シェフィ
+      en: Agato Shifuna
+      ja: 阿賀斗 紫布菜
+      zh-CN: 阿賀斗 紫布菜
     nickname:
+      en: Sheffy
       ja: シェフィ
+      zh-CN: 雪菲
 
   - id: kaya
     avatars:
@@ -1086,12 +1131,19 @@ characters:
     nickname:
       ja: カズマサ
 
-  - id: shujinko
+  - id: yuuki
     avatars:
       - 191511.webp
       - 191611.webp
       - 191711.webp
+    tags:
+      - gourmet-edifice
+      - twinkle-wish
     name:
-      ja: 主人公
+      en: Sakai Naoto
+      ja: 坂井 直人
+      zh-CN: 坂井 直人
     nickname:
-      ja: 主人公
+      en: Yuuki
+      ja: 佑树
+      zh-CN: 佑树
