@@ -18,13 +18,15 @@ tags:
     en: Labyrinth
     ja: ラビリンス
     zh-CN: 拉比林斯
-  karumina:
+  carmina:
+    en: Carmina
     ja: カルミナ
     zh-CN: 慈乐之音
-  ritoruririkaru:
+  little-lyrical:
+    en: Little Lyrical
     ja: リトルリリカル
     zh-CN: 小小甜心
-  foresutie:
+  forestier:
     ja: フォレスティエ
     zh-CN: 森林守卫
   diabolos:
@@ -66,6 +68,14 @@ tags:
   dragon-nest:
     ja: ドラゴンズネスト
     zh-CN: 龙族巢穴
+  seven-crowns:
+    en: Seven Crowns
+    ja: シーズン クラウンズ
+    zh-CN: 七冠
+  princess-knight:
+    en: Princess Knight
+    ja: プリンセス ナイト
+    zh-CN: 公主骑士
 
 characters:
   - id: hiyori
@@ -141,10 +151,16 @@ characters:
       - 111231.webp
       - 120511.webp
       - 120531.webp
+    tags:
+      - little-lyrical
     name:
-      ja: ミソギ
+      en: Hodaka Misogi
+      ja: 穂高 みそぎ
+      zh-CN: 穂高 未奏希
     nickname:
+      en: Misogi
       ja: ミソギ
+      zh-CN: 未奏希
 
   - id: matsuri
     avatars:
@@ -227,10 +243,16 @@ characters:
       - 112931.webp
       - 119311.webp
       - 119331.webp
+    tags:
+      - labyrinth
     name:
-      ja: リノ
+      en: Inosaki Rino
+      ja: 衣之咲 璃乃
+      zh-CN: 衣之咲 璃乃
     nickname:
+      en: Rino
       ja: リノ
+      zh-CN: 璃乃
 
   - id: hatsune
     avatars:
@@ -333,10 +355,16 @@ characters:
       - 111331.webp
       - 120411.webp
       - 120431.webp
+    tags:
+      - little-lyrical
     name:
-      ja: ミミ
+      en: Akane Mimi
+      ja: 茜 ミミ
+      zh-CN: 茜 美美
     nickname:
+      en: Mimi
       ja: ミミ
+      zh-CN: 美美
 
   - id: kurumi
     avatars:
@@ -442,10 +470,16 @@ characters:
       - 111631.webp
       - 117211.webp
       - 117231.webp
+    tags:
+      - carmina
     name:
-      ja: ノゾミ
+      en: Sakurai Nozomi
+      ja: 桜井 望
+      zh-CN: 樱井 望
     nickname:
+      en: Nozomi
       ja: ノゾミ
+      zh-CN: 望
 
   - id: ninon
     avatars:
@@ -523,10 +557,16 @@ characters:
       - 111131.webp
       - 120611.webp
       - 120631.webp
+    tags:
+      - little-lyrical
     name:
-      ja: キョウカ
+      en: Hikawa Kyouka
+      ja: 氷川 鏡華
+      zh-CN: 冰川 镜华
     nickname:
+      en: Kyouka
       ja: キョウカ
+      zh-CN: 镜华
 
   - id: tomo
     avatars:
@@ -575,10 +615,16 @@ characters:
       - 108431.webp
       - 117311.webp
       - 117331.webp
+    tags:
+      - carmina
     name:
-      ja: チカ
+      en: Misumi Chika
+      ja: 三角 千歌
+      zh-CN: 三角 千歌
     nickname:
+      en: Chika
       ja: チカ
+      zh-CN: 千歌
 
   - id: makoto
     avatars:
@@ -669,10 +715,16 @@ characters:
       - 109131.webp
       - 117111.webp
       - 117131.webp
+    tags:
+      - labyrinth
     name:
-      ja: シズル
+      en: Hoshino Shizuru
+      ja: 星野 静流
+      zh-CN: 星野 静流
     nickname:
+      en: Shizuru
       ja: シズル
+      zh-CN: 静流
 
   - id: misaki
     avatars:
@@ -731,10 +783,16 @@ characters:
       - 113931.webp
       - 117411.webp
       - 117431.webp
+    tags:
+      - carmina
     name:
-      ja: ツムギ
+      en: Mayumiya Tsumugi
+      ja: 繭宮 つむぎ
+      zh-CN: 茧宫 纺希
     nickname:
+      en: Tsumugi
       ja: ツムギ
+      zh-CN: 纺希
 
   - id: ayumi
     avatars:
@@ -927,10 +985,17 @@ characters:
       - 106831.webp
       - 121211.webp
       - 121231.webp
+    tags:
+      - labyrinth
+      - seven-crowns
     name:
-      ja: ラビリスタ
+      en: Mosakuji Akira
+      ja: 模索路 晶
+      zh-CN: 模索路 晶
     nickname:
+      en: Labyrista
       ja: ラビリスタ
+      zh-CN: 菈比莉斯塔
 
   - id: neneka
     avatars:
@@ -1139,6 +1204,7 @@ characters:
     tags:
       - gourmet-edifice
       - twinkle-wish
+      - princess-knight
     name:
       en: Sakai Naoto
       ja: 坂井 直人
