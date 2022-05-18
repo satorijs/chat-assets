@@ -27,9 +27,11 @@ tags:
     ja: リトルリリカル
     zh-CN: 小小甜心
   forestier:
+    en: Forestier
     ja: フォレスティエ
     zh-CN: 森林守卫
   diabolos:
+    en: Diabolos
     ja: 悪魔偽王国軍
     zh-CN: 恶魔伪王国军
   nightmare:
@@ -51,6 +53,7 @@ tags:
     ja: メルクリウス財団
     zh-CN: 墨丘利财团
   twilight-caravan:
+    en: Twilight Caravan
     ja: トワイライトキャラバン
     zh-CN: 暮光流星群
   ruusento-gakuin:
@@ -180,10 +183,16 @@ characters:
       - 100661.webp
       - 113711.webp
       - 113731.webp
+    tags:
+      - diabolos
     name:
-      ja: アカリ
+      en: Kazemiya Akari
+      ja: 風宮 あかり
+      zh-CN: 风宫 茜里
     nickname:
+      en: Akari
       ja: アカリ
+      zh-CN: 茜里
 
   - id: miyako
     avatars:
@@ -193,10 +202,16 @@ characters:
       - 108231.webp
       - 119911.webp
       - 119931.webp
+    tags:
+      - diabolos
     name:
-      ja: ミヤコ
+      en: Izumo Miyako
+      ja: 出雲 宮子
+      zh-CN: 出云 宫子
     nickname:
+      en: Miyako
       ja: ミヤコ
+      zh-CN: 宫子
 
   - id: yuki
     avatars:
@@ -215,10 +230,16 @@ characters:
       - 100931.webp
       - 113211.webp
       - 113231.webp
+    tags:
+      - twilight-caravan
     name:
-      ja: アンナ
+      en: Hiiragi Anna
+      ja: 柊 杏奈
+      zh-CN: 柊 杏奈
     nickname:
+      en: Anna
       ja: アンナ
+      zh-CN: 杏奈
 
   - id: maho
     avatars:
@@ -263,10 +284,16 @@ characters:
       - 113431.webp
       - 118311.webp
       - 118331.webp
+    tags:
+      - forestier
     name:
-      ja: ハツネ
+      en: Kashiwazaki Hatsune
+      ja: 柏崎 初音
+      zh-CN: 柏崎 初音
     nickname:
+      en: Hatsune
       ja: ハツネ
+      zh-CN: 初音
 
   - id: nanaka
     avatars:
@@ -275,10 +302,16 @@ characters:
       - 101361.webp
       - 113311.webp
       - 113331.webp
+    tags:
+      - twilight-caravan
     name:
-      ja: ナナカ
+      en: Tanno Nanaka
+      ja: 丹野 七々香
+      zh-CN: 丹野 七七香
     nickname:
+      en: Nanaka
       ja: ナナカ
+      zh-CN: 七七香
 
   - id: kasumi
     avatars:
@@ -299,10 +332,16 @@ characters:
       - 101531.webp
       - 113511.webp
       - 113531.webp
+    tags:
+      - forestier
     name:
-      ja: ミサト
+      en: Aikawa Misato
+      ja: 愛川 美里
+      zh-CN: 爱川 美里
     nickname:
+      en: Misato
       ja: ミサト
+      zh-CN: 美里
 
   - id: suzuna
     avatars:
@@ -387,10 +426,16 @@ characters:
       - 102261.webp
       - 113811.webp
       - 113831.webp
+    tags:
+      - diabolos
     name:
-      ja: ヨリ
+      en: Kazemiya Yori
+      ja: 風宮 より
+      zh-CN: 风宫 依里
     nickname:
+      en: Yori
       ja: ヨリ
+      zh-CN: 依里
 
   - id: ayane
     avatars:
@@ -440,10 +485,16 @@ characters:
       - 109031.webp
       - 117011.webp
       - 117031.webp
+    tags:
+      - twilight-caravan
     name:
-      ja: エリコ
+      en: Kuraishi Eriko
+      ja: 倉石 恵理子
+      zh-CN: 仓石 恵理子
     nickname:
+      en: Eriko
       ja: エリコ
+      zh-CN: 恵理子
 
   - id: saren
     avatars:
@@ -503,10 +554,16 @@ characters:
       - 108131.webp
       - 122011.webp
       - 122031.webp
+    tags:
+      - diabolos
     name:
-      ja: シノブ
+      en: Kamiki Shinobu
+      ja: 上喜 しのぶ
+      zh-CN: 上喜 忍
     nickname:
+      en: Shinobu
       ja: シノブ
+      zh-CN: 忍
 
   - id: akino
     avatars:
@@ -601,10 +658,16 @@ characters:
       - 110731.webp
       - 116711.webp
       - 116731.webp
+    tags:
+      - forestier
     name:
-      ja: アオイ
+      en: Futaba Aoi
+      ja: 双葉 碧
+      zh-CN: 双叶 碧
     nickname:
+      en: Aoi
       ja: アオイ
+      zh-CN: 碧
 
   - id: chika
     avatars:
@@ -648,10 +711,16 @@ characters:
       - 120911.webp
       - 120912.webp
       - 120931.webp
+    tags:
+      - diabolos
     name:
-      ja: イリヤ
+      en: Iriya Oonsutain
+      ja: イリヤ・オーンスタイン
+      zh-CN: 伊莉亚·奥恩斯坦
     nickname:
+      en: Iriya
       ja: イリヤ
+      zh-CN: 伊莉亚
 
   - id: kuuka
     avatars:
@@ -746,10 +815,16 @@ characters:
       - 105131.webp
       - 117511.webp
       - 117531.webp
+    tags:
+      - twilight-caravan
     name:
-      ja: ミツキ
+      en: Yoigahama Mitsuki
+      ja: 宵ヶ浜 深月
+      zh-CN: 宵滨 深月
     nickname:
+      en: Mitsuki
       ja: ミツキ
+      zh-CN: 深月
 
   - id: rima
     avatars:
@@ -815,10 +890,16 @@ characters:
       - 113131.webp
       - 120811.webp
       - 120831.webp
+    tags:
+      - twilight-caravan
     name:
-      ja: ルカ
+      en: Tachiarai Ruka
+      ja: 太刀洗 流夏
+      zh-CN: 太刀洗 流夏
     nickname:
+      en: Ruka
       ja: ルカ
+      zh-CN: 流夏
 
   - id: jiita
     avatars:
