@@ -35,6 +35,7 @@ tags:
     ja: 悪魔偽王国軍
     zh-CN: 恶魔伪王国军
   nightmare:
+    en: Nightmare
     ja: 王宮騎士団
     zh-CN: 王宫骑士团
   sarendia-kyugoin:
@@ -56,7 +57,8 @@ tags:
     en: Twilight Caravan
     ja: トワイライトキャラバン
     zh-CN: 暮光流星群
-  ruusento-gakuin:
+  lucent-academy:
+    en: Lucent Academy
     ja: ルーセント学院
     zh-CN: 月光学院
   vaisufuryuugeru-randosoru-shibu:
@@ -65,7 +67,8 @@ tags:
   seiteresa-jogakuin:
     ja: 聖テレサ女学院
     zh-CN: 圣特雷莎女子学院
-  nakayoshi-bu:
+  friendship-club:
+    en: Friendship Club
     ja: なかよし部
     zh-CN: 好朋友部
   dragon-nest:
@@ -171,10 +174,29 @@ characters:
       - 100531.webp
       - 114111.webp
       - 114131.webp
+    tags:
+      - nightmare
     name:
-      ja: マツリ
+      en: Orihara Matsuri
+      ja: 織原 茉莉
+      zh-CN: 织原 茉莉
     nickname:
+      en: Matsuri
       ja: マツリ
+      zh-CN: 茉莉
+
+  # - id: okutou
+  #   avatars: []
+  #   tags:
+  #     - nightmare
+  #   name:
+  #     en: Okutou Eito
+  #     ja: 尾狗刀 詠斗
+  #     zh-CN: 尾狗刀 咏斗
+  #   nickname:
+  #     en: Eito
+  #     ja: 詠斗
+  #     zh-CN: 咏斗
 
   - id: akari
     avatars:
@@ -352,10 +374,16 @@ characters:
       - 110031.webp
       - 117911.webp
       - 117931.webp
+    tags:
+      - lucent-academy
     name:
-      ja: スズナ
+      en: Minami Suzuna
+      ja: 美波 鈴奈
+      zh-CN: 美波 铃奈
     nickname:
+      en: Suzuna
       ja: スズナ
+      zh-CN: 铃奈
 
   - id: kaori
     avatars:
@@ -380,10 +408,16 @@ characters:
       - 110131.webp
       - 119011.webp
       - 119031.webp
+    tags:
+      - lucent-academy
     name:
-      ja: イオ
+      en: Hasekura Io
+      ja: 支倉 伊緒
+      zh-CN: 支仓 伊绪
     nickname:
+      en: Io
       ja: イオ
+      zh-CN: 伊绪
 
   - id: mimi
     avatars:
@@ -631,10 +665,16 @@ characters:
       - 103731.webp
       - 114311.webp
       - 114331.webp
+    tags:
+      - nightmare
     name:
-      ja: トモ
+      en: Mikuma Tomo
+      ja: 御久間 智
+      zh-CN: 御久间 智
     nickname:
+      en: Tomo
       ja: トモ
+      zh-CN: 智
 
   - id: shiori
     avatars:
@@ -750,16 +790,22 @@ characters:
     nickname:
       ja: タマキ
 
-  - id: jyun
+  - id: jun
     avatars:
       - 104711.webp
       - 104731.webp
       - 113611.webp
       - 113631.webp
+    tags:
+      - nightmare
     name:
-      ja: ジュン
+      en: Shirogane Jun
+      ja: 白銀 純
+      zh-CN: 白银 纯
     nickname:
+      en: Jun
       ja: ジュン
+      zh-CN: 纯
 
   - id: mifuyu
     avatars:
@@ -804,10 +850,16 @@ characters:
       - 108331.webp
       - 121411.webp
       - 121431.webp
+    tags:
+      - lucent-academy
     name:
-      ja: ミサキ
+      en: Tamaizumi Misaki
+      ja: 玉泉 美咲
+      zh-CN: 玉泉 美咲
     nickname:
+      en: Misaki
       ja: ミサキ
+      zh-CN: 美咲
 
   - id: mitsuki
     avatars:
@@ -1089,16 +1141,22 @@ characters:
     nickname:
       ja: ネネカ
 
-  - id: kurisuthiina
+  - id: christina
     avatars:
       - 107111.webp
       - 107131.webp
       - 111511.webp
       - 111531.webp
+    tags:
+      - nightmare
     name:
-      ja: クリスティーナ
+      en: Christina Morgan
+      ja: クリスティーナ・モーガン
+      zh-CN: 克莉丝提娜·摩根
     nickname:
+      en: Christina
       ja: クリスティーナ
+      zh-CN: 克莉丝提娜
 
   - id: an
     avatars:
@@ -1160,10 +1218,16 @@ characters:
       - 110831.webp
       - 116211.webp
       - 116231.webp
+    tags:
+      - friendship-club
     name:
-      ja: クロエ
+      en: Kuroe Hanako
+      ja: 黒江 花子
+      zh-CN: 黑江 花子
     nickname:
+      en: Kuroe
       ja: クロエ
+      zh-CN: 克罗依
 
   - id: chieru
     avatars:
@@ -1171,10 +1235,16 @@ characters:
       - 110931.webp
       - 116311.webp
       - 116331.webp
+    tags:
+      - friendship-club
     name:
-      ja: チエル
+      en: Kazama Chieru
+      ja: 風間 ちえる
+      zh-CN: 风间 千爱瑠
     nickname:
+      en: Chieru
       ja: チエル
+      zh-CN: 千爱瑠
 
   - id: yuni
     avatars:
@@ -1182,10 +1252,16 @@ characters:
       - 111031.webp
       - 116411.webp
       - 116431.webp
+    tags:
+      - friendship-club
     name:
-      ja: ユニ
+      en: Shingyouji Yuni
+      ja: 真行寺 由仁
+      zh-CN: 真行寺 由仁
     nickname:
+      en: Yuni
       ja: ユニ
+      zh-CN: 优妮
 
   - id: runa
     avatars:
