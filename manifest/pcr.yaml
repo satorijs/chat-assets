@@ -3,7 +3,7 @@ base: https://redive.estertion.win/icon/unit/
 name:
   ja: プリンセスコネクト！Re:Dive
   en: Princess Connect! Re:Dive
-  zh-CN: 公主连结Re:Dive
+  zh-CN: 公主连结 Re:Dive
 
 tags:
   gourmet-edifice:
@@ -84,120 +84,6 @@ tags:
     zh-CN: 公主骑士
 
 characters:
-  - id: hiyori
-    avatars:
-      - 100111.webp
-      - 100131.webp
-      - 100161.webp
-      - 108711.webp
-      - 108731.webp
-      - 180111.webp
-      - 180131.webp
-    tags:
-      - twinkle-wish
-    name:
-      en: Harusaki Hiyori
-      ja: 春咲 ひより
-      zh-CN: 春咲 日和莉
-    nickname:
-      en: Hiyori
-      ja: ヒヨリ
-      zh-CN: 日和莉
-
-  - id: yui
-    avatars:
-      - 100211.webp
-      - 100231.webp
-      - 100261.webp
-      - 108811.webp
-      - 108831.webp
-      - 115611.webp
-      - 115631.webp
-      - 180211.webp
-      - 180231.webp
-    tags:
-      - twinkle-wish
-    name:
-      en: Yui Kusano
-      ja: 草野 優衣
-      zh-CN: 草野 优衣
-    nickname:
-      en: Yui
-      ja: ユイ
-      zh-CN: 优衣
-
-  - id: rei
-    avatars:
-      - 100311.webp
-      - 100331.webp
-      - 100361.webp
-      - 108911.webp
-      - 108931.webp
-      - 114011.webp
-      - 114031.webp
-      - 180311.webp
-      - 180331.webp
-    tags:
-      - twinkle-wish
-    name:
-      en: Shijo Rei
-      ja: 士条 怜
-      zh-CN: 士条 怜
-    nickname:
-      en: Rei
-      ja: レイ
-      zh-CN: 怜
-
-  - id: misogi
-    avatars:
-      - 100411.webp
-      - 100431.webp
-      - 100461.webp
-      - 111211.webp
-      - 111231.webp
-      - 120511.webp
-      - 120531.webp
-    tags:
-      - little-lyrical
-    name:
-      en: Hodaka Misogi
-      ja: 穂高 みそぎ
-      zh-CN: 穂高 未奏希
-    nickname:
-      en: Misogi
-      ja: ミソギ
-      zh-CN: 未奏希
-
-  - id: matsuri
-    avatars:
-      - 100511.webp
-      - 100531.webp
-      - 114111.webp
-      - 114131.webp
-    tags:
-      - nightmare
-    name:
-      en: Orihara Matsuri
-      ja: 織原 茉莉
-      zh-CN: 织原 茉莉
-    nickname:
-      en: Matsuri
-      ja: マツリ
-      zh-CN: 茉莉
-
-  # - id: okutou
-  #   avatars: []
-  #   tags:
-  #     - nightmare
-  #   name:
-  #     en: Okutou Eito
-  #     ja: 尾狗刀 詠斗
-  #     zh-CN: 尾狗刀 咏斗
-  #   nickname:
-  #     en: Eito
-  #     ja: 詠斗
-  #     zh-CN: 咏斗
-
   - id: akari
     avatars:
       - 100611.webp
@@ -216,35 +102,28 @@ characters:
       ja: アカリ
       zh-CN: 茜里
 
-  - id: miyako
+  - id: akino
     avatars:
-      - 100711.webp
-      - 100731.webp
-      - 108211.webp
-      - 108231.webp
-      - 119911.webp
-      - 119931.webp
-    tags:
-      - diabolos
+      - 103211.webp
+      - 103231.webp
+      - 103261.webp
+      - 114411.webp
+      - 114431.webp
+      - 121711.webp
+      - 121731.webp
     name:
-      en: Izumo Miyako
-      ja: 出雲 宮子
-      zh-CN: 出云 宫子
+      ja: アキノ
     nickname:
-      en: Miyako
-      ja: ミヤコ
-      zh-CN: 宫子
+      ja: アキノ
 
-  - id: yuki
+  - id: an
     avatars:
-      - 100811.webp
-      - 100831.webp
-      - 117611.webp
-      - 117631.webp
+      - 109211.webp
+      - 109231.webp
     name:
-      ja: ユキ
+      ja: アン
     nickname:
-      ja: ユキ
+      ja: アン
 
   - id: anna
     avatars:
@@ -262,432 +141,6 @@ characters:
       en: Anna
       ja: アンナ
       zh-CN: 杏奈
-
-  - id: maho
-    avatars:
-      - 101011.webp
-      - 101031.webp
-      - 101061.webp
-      - 110611.webp
-      - 110631.webp
-      - 116011.webp
-      - 116031.webp
-    name:
-      ja: マホ
-    nickname:
-      ja: マホ
-
-  - id: rino
-    avatars:
-      - 101111.webp
-      - 101131.webp
-      - 101161.webp
-      - 112911.webp
-      - 112931.webp
-      - 119311.webp
-      - 119331.webp
-    tags:
-      - labyrinth
-    name:
-      en: Inosaki Rino
-      ja: 衣之咲 璃乃
-      zh-CN: 衣之咲 璃乃
-    nickname:
-      en: Rino
-      ja: リノ
-      zh-CN: 璃乃
-
-  - id: hatsune
-    avatars:
-      - 101211.webp
-      - 101231.webp
-      - 101261.webp
-      - 113411.webp
-      - 113431.webp
-      - 118311.webp
-      - 118331.webp
-    tags:
-      - forestier
-    name:
-      en: Kashiwazaki Hatsune
-      ja: 柏崎 初音
-      zh-CN: 柏崎 初音
-    nickname:
-      en: Hatsune
-      ja: ハツネ
-      zh-CN: 初音
-
-  - id: nanaka
-    avatars:
-      - 101311.webp
-      - 101331.webp
-      - 101361.webp
-      - 113311.webp
-      - 113331.webp
-    tags:
-      - twilight-caravan
-    name:
-      en: Tanno Nanaka
-      ja: 丹野 七々香
-      zh-CN: 丹野 七七香
-    nickname:
-      en: Nanaka
-      ja: ナナカ
-      zh-CN: 七七香
-
-  - id: kasumi
-    avatars:
-      - 101411.webp
-      - 101431.webp
-      - 112211.webp
-      - 112231.webp
-      - 115711.webp
-      - 115731.webp
-    name:
-      ja: カスミ
-    nickname:
-      ja: カスミ
-
-  - id: misato
-    avatars:
-      - 101511.webp
-      - 101531.webp
-      - 113511.webp
-      - 113531.webp
-    tags:
-      - forestier
-    name:
-      en: Aikawa Misato
-      ja: 愛川 美里
-      zh-CN: 爱川 美里
-    nickname:
-      en: Misato
-      ja: ミサト
-      zh-CN: 美里
-
-  - id: suzuna
-    avatars:
-      - 101611.webp
-      - 101631.webp
-      - 101661.webp
-      - 110011.webp
-      - 110031.webp
-      - 117911.webp
-      - 117931.webp
-    tags:
-      - lucent-academy
-    name:
-      en: Minami Suzuna
-      ja: 美波 鈴奈
-      zh-CN: 美波 铃奈
-    nickname:
-      en: Suzuna
-      ja: スズナ
-      zh-CN: 铃奈
-
-  - id: kaori
-    avatars:
-      - 101711.webp
-      - 101731.webp
-      - 101761.webp
-      - 110511.webp
-      - 110531.webp
-      - 117711.webp
-      - 117731.webp
-    name:
-      ja: カオリ
-    nickname:
-      ja: カオリ
-
-  - id: io
-    avatars:
-      - 101811.webp
-      - 101831.webp
-      - 101861.webp
-      - 110111.webp
-      - 110131.webp
-      - 119011.webp
-      - 119031.webp
-    tags:
-      - lucent-academy
-    name:
-      en: Hasekura Io
-      ja: 支倉 伊緒
-      zh-CN: 支仓 伊绪
-    nickname:
-      en: Io
-      ja: イオ
-      zh-CN: 伊绪
-
-  - id: mimi
-    avatars:
-      - 102011.webp
-      - 102031.webp
-      - 102061.webp
-      - 111311.webp
-      - 111331.webp
-      - 120411.webp
-      - 120431.webp
-    tags:
-      - little-lyrical
-    name:
-      en: Akane Mimi
-      ja: 茜 ミミ
-      zh-CN: 茜 美美
-    nickname:
-      en: Mimi
-      ja: ミミ
-      zh-CN: 美美
-
-  - id: kurumi
-    avatars:
-      - 102111.webp
-      - 102131.webp
-      - 102161.webp
-      - 108511.webp
-      - 108531.webp
-      - 121311.webp
-      - 121331.webp
-    name:
-      ja: クルミ
-    nickname:
-      ja: クルミ
-
-  - id: yori
-    avatars:
-      - 102211.webp
-      - 102231.webp
-      - 102261.webp
-      - 113811.webp
-      - 113831.webp
-    tags:
-      - diabolos
-    name:
-      en: Kazemiya Yori
-      ja: 風宮 より
-      zh-CN: 风宫 依里
-    nickname:
-      en: Yori
-      ja: ヨリ
-      zh-CN: 依里
-
-  - id: ayane
-    avatars:
-      - 102311.webp
-      - 102331.webp
-      - 102361.webp
-      - 108611.webp
-      - 108631.webp
-    name:
-      ja: アヤネ
-    nickname:
-      ja: アヤネ
-
-  - id: suzume
-    avatars:
-      - 102511.webp
-      - 102531.webp
-      - 102561.webp
-      - 107711.webp
-      - 107731.webp
-      - 112111.webp
-      - 112131.webp
-    name:
-      ja: スズメ
-    nickname:
-      ja: スズメ
-
-  - id: rin
-    avatars:
-      - 102611.webp
-      - 102631.webp
-      - 102661.webp
-      - 112511.webp
-      - 112531.webp
-      - 112711.webp
-      - 112731.webp
-    name:
-      ja: リン
-    nickname:
-      ja: リン
-
-  - id: eriko
-    avatars:
-      - 102711.webp
-      - 102731.webp
-      - 109011.webp
-      - 109031.webp
-      - 117011.webp
-      - 117031.webp
-    tags:
-      - twilight-caravan
-    name:
-      en: Kuraishi Eriko
-      ja: 倉石 恵理子
-      zh-CN: 仓石 恵理子
-    nickname:
-      en: Eriko
-      ja: エリコ
-      zh-CN: 恵理子
-
-  - id: saren
-    avatars:
-      - 102811.webp
-      - 102831.webp
-      - 102861.webp
-      - 110311.webp
-      - 110331.webp
-      - 114511.webp
-      - 114531.webp
-      - 121811.webp
-      - 121831.webp
-    name:
-      ja: サレン
-    nickname:
-      ja: サレン
-
-  - id: nozomi
-    avatars:
-      - 102911.webp
-      - 102931.webp
-      - 102961.webp
-      - 111611.webp
-      - 111631.webp
-      - 117211.webp
-      - 117231.webp
-    tags:
-      - carmina
-    name:
-      en: Sakurai Nozomi
-      ja: 桜井 望
-      zh-CN: 樱井 望
-    nickname:
-      en: Nozomi
-      ja: ノゾミ
-      zh-CN: 望
-
-  - id: ninon
-    avatars:
-      - 103011.webp
-      - 103031.webp
-      - 103061.webp
-      - 109611.webp
-      - 109631.webp
-      - 117811.webp
-      - 117831.webp
-    name:
-      ja: ニノン
-    nickname:
-      ja: ニノン
-
-  - id: shinobu
-    avatars:
-      - 103111.webp
-      - 103131.webp
-      - 108111.webp
-      - 108131.webp
-      - 122011.webp
-      - 122031.webp
-    tags:
-      - diabolos
-    name:
-      en: Kamiki Shinobu
-      ja: 上喜 しのぶ
-      zh-CN: 上喜 忍
-    nickname:
-      en: Shinobu
-      ja: シノブ
-      zh-CN: 忍
-
-  - id: akino
-    avatars:
-      - 103211.webp
-      - 103231.webp
-      - 103261.webp
-      - 114411.webp
-      - 114431.webp
-      - 121711.webp
-      - 121731.webp
-    name:
-      ja: アキノ
-    nickname:
-      ja: アキノ
-
-  - id: mahiru
-    avatars:
-      - 103311.webp
-      - 103331.webp
-      - 103361.webp
-      - 112811.webp
-      - 112831.webp
-      - 119211.webp
-      - 119231.webp
-    name:
-      ja: マヒル
-    nickname:
-      ja: マヒル
-
-  - id: yukari
-    avatars:
-      - 103411.webp
-      - 103431.webp
-      - 103461.webp
-      - 114611.webp
-      - 114631.webp
-    name:
-      ja: ユカリ
-    nickname:
-      ja: ユカリ
-
-  - id: kyouka
-    avatars:
-      - 103611.webp
-      - 103631.webp
-      - 103661.webp
-      - 111111.webp
-      - 111131.webp
-      - 120611.webp
-      - 120631.webp
-    tags:
-      - little-lyrical
-    name:
-      en: Hikawa Kyouka
-      ja: 氷川 鏡華
-      zh-CN: 冰川 镜华
-    nickname:
-      en: Kyouka
-      ja: キョウカ
-      zh-CN: 镜华
-
-  - id: tomo
-    avatars:
-      - 103711.webp
-      - 103731.webp
-      - 114311.webp
-      - 114331.webp
-    tags:
-      - nightmare
-    name:
-      en: Mikuma Tomo
-      ja: 御久間 智
-      zh-CN: 御久间 智
-    nickname:
-      en: Tomo
-      ja: トモ
-      zh-CN: 智
-
-  - id: shiori
-    avatars:
-      - 103811.webp
-      - 103831.webp
-      - 112311.webp
-      - 112331.webp
-      - 118411.webp
-      - 118431.webp
-    name:
-      ja: シオリ
-    nickname:
-      ja: シオリ
 
   - id: aoi
     avatars:
@@ -709,6 +162,58 @@ characters:
       ja: アオイ
       zh-CN: 碧
 
+  - id: arisa
+    avatars:
+      - 106311.webp
+      - 106331.webp
+      - 106361.webp
+    name:
+      ja: アリサ
+    nickname:
+      ja: アリサ
+
+  - id: ayane
+    avatars:
+      - 102311.webp
+      - 102331.webp
+      - 102361.webp
+      - 108611.webp
+      - 108631.webp
+    name:
+      ja: アヤネ
+    nickname:
+      ja: アヤネ
+
+  - id: ayumi
+    avatars:
+      - 105511.webp
+      - 105531.webp
+      - 113011.webp
+      - 113031.webp
+      - 121511.webp
+      - 121531.webp
+    name:
+      ja: アユミ
+    nickname:
+      ja: アユミ
+
+  - id: chieru
+    avatars:
+      - 110911.webp
+      - 110931.webp
+      - 116311.webp
+      - 116331.webp
+    tags:
+      - friendship-club
+    name:
+      en: Kazama Chieru
+      ja: 風間 ちえる
+      zh-CN: 风间 千爱瑠
+    nickname:
+      en: Chieru
+      ja: チエル
+      zh-CN: 千爱瑠
+
   - id: chika
     avatars:
       - 104211.webp
@@ -729,18 +234,141 @@ characters:
       ja: チカ
       zh-CN: 千歌
 
-  - id: makoto
+  - id: christina
     avatars:
-      - 104311.webp
-      - 104331.webp
-      - 110411.webp
-      - 110431.webp
-      - 115911.webp
-      - 115931.webp
+      - 107111.webp
+      - 107131.webp
+      - 111511.webp
+      - 111531.webp
+    tags:
+      - nightmare
     name:
-      ja: マコト
+      en: Christina Morgan
+      ja: クリスティーナ・モーガン
+      zh-CN: 克莉丝提娜·摩根
     nickname:
-      ja: マコト
+      en: Christina
+      ja: クリスティーナ
+      zh-CN: 克莉丝提娜
+
+  - id: emiria
+    avatars:
+      - 109911.webp
+      - 109931.webp
+    name:
+      ja: エミリア
+    nickname:
+      ja: エミリア
+
+  - id: eriko
+    avatars:
+      - 102711.webp
+      - 102731.webp
+      - 109011.webp
+      - 109031.webp
+      - 117011.webp
+      - 117031.webp
+    tags:
+      - twilight-caravan
+    name:
+      en: Kuraishi Eriko
+      ja: 倉石 恵理子
+      zh-CN: 仓石 恵理子
+    nickname:
+      en: Eriko
+      ja: エリコ
+      zh-CN: 恵理子
+
+  - id: gurea
+    avatars:
+      - 109411.webp
+      - 109431.webp
+    name:
+      ja: グレア
+    nickname:
+      ja: グレア
+
+  - id: hatsune
+    avatars:
+      - 101211.webp
+      - 101231.webp
+      - 101261.webp
+      - 113411.webp
+      - 113431.webp
+      - 118311.webp
+      - 118331.webp
+    tags:
+      - forestier
+    name:
+      en: Kashiwazaki Hatsune
+      ja: 柏崎 初音
+      zh-CN: 柏崎 初音
+    nickname:
+      en: Hatsune
+      ja: ハツネ
+      zh-CN: 初音
+
+  - id: hiyori
+    avatars:
+      - 100111.webp
+      - 100131.webp
+      - 100161.webp
+      - 108711.webp
+      - 108731.webp
+      - 180111.webp
+      - 180131.webp
+    tags:
+      - twinkle-wish
+    name:
+      en: Harusaki Hiyori
+      ja: 春咲 ひより
+      zh-CN: 春咲 日和莉
+    nickname:
+      en: Hiyori
+      ja: ヒヨリ
+      zh-CN: 日和莉
+
+  - id: homare
+    avatars:
+      - 106711.webp
+      - 106731.webp
+    name:
+      ja: ホマレ
+    nickname:
+      ja: ホマレ
+
+  - id: inori
+    avatars:
+      - 106611.webp
+      - 106631.webp
+      - 116511.webp
+      - 116531.webp
+      - 121611.webp
+      - 121631.webp
+    name:
+      ja: イノリ
+    nickname:
+      ja: イノリ
+
+  - id: io
+    avatars:
+      - 101811.webp
+      - 101831.webp
+      - 101861.webp
+      - 110111.webp
+      - 110131.webp
+      - 119011.webp
+      - 119031.webp
+    tags:
+      - lucent-academy
+    name:
+      en: Hasekura Io
+      ja: 支倉 伊緒
+      zh-CN: 支仓 伊绪
+    nickname:
+      en: Io
+      ja: イオ
+      zh-CN: 伊绪
 
   - id: iriya
     avatars:
@@ -762,33 +390,18 @@ characters:
       ja: イリヤ
       zh-CN: 伊莉亚
 
-  - id: kuuka
+  - id: jiita
     avatars:
-      - 104511.webp
-      - 104531.webp
-      - 104561.webp
-      - 109511.webp
-      - 109531.webp
-      - 119111.webp
-      - 119131.webp
+      - 105711.webp
+      - 105731.webp
+      - 105761.webp
+      - 170111.webp
+      - 170131.webp
+      - 170161.webp
     name:
-      ja: クウカ
+      ja: ジータ
     nickname:
-      ja: クウカ
-
-  - id: tamaki
-    avatars:
-      - 104611.webp
-      - 104631.webp
-      - 104661.webp
-      - 107911.webp
-      - 107931.webp
-      - 116811.webp
-      - 116831.webp
-    name:
-      ja: タマキ
-    nickname:
-      ja: タマキ
+      ja: ジータ
 
   - id: jun
     avatars:
@@ -807,214 +420,28 @@ characters:
       ja: ジュン
       zh-CN: 纯
 
-  - id: mifuyu
+  - id: kaori
     avatars:
-      - 104811.webp
-      - 104831.webp
-      - 104861.webp
-      - 108011.webp
-      - 108031.webp
-      - 116911.webp
-      - 116931.webp
+      - 101711.webp
+      - 101731.webp
+      - 101761.webp
+      - 110511.webp
+      - 110531.webp
+      - 117711.webp
+      - 117731.webp
     name:
-      ja: ミフユ
+      ja: カオリ
     nickname:
-      ja: ミフユ
+      ja: カオリ
 
-  - id: shizuru
+  - id: karin
     avatars:
-      - 104911.webp
-      - 104931.webp
-      - 104961.webp
-      - 109111.webp
-      - 109131.webp
-      - 117111.webp
-      - 117131.webp
-    tags:
-      - labyrinth
+      - 118511.webp
+      - 118531.webp
     name:
-      en: Hoshino Shizuru
-      ja: 星野 静流
-      zh-CN: 星野 静流
+      ja: カリン
     nickname:
-      en: Shizuru
-      ja: シズル
-      zh-CN: 静流
-
-  - id: misaki
-    avatars:
-      - 105011.webp
-      - 105031.webp
-      - 105061.webp
-      - 108311.webp
-      - 108331.webp
-      - 121411.webp
-      - 121431.webp
-    tags:
-      - lucent-academy
-    name:
-      en: Tamaizumi Misaki
-      ja: 玉泉 美咲
-      zh-CN: 玉泉 美咲
-    nickname:
-      en: Misaki
-      ja: ミサキ
-      zh-CN: 美咲
-
-  - id: mitsuki
-    avatars:
-      - 105111.webp
-      - 105131.webp
-      - 117511.webp
-      - 117531.webp
-    tags:
-      - twilight-caravan
-    name:
-      en: Yoigahama Mitsuki
-      ja: 宵ヶ浜 深月
-      zh-CN: 宵滨 深月
-    nickname:
-      en: Mitsuki
-      ja: ミツキ
-      zh-CN: 深月
-
-  - id: rima
-    avatars:
-      - 105211.webp
-      - 105231.webp
-      - 105261.webp
-      - 115811.webp
-      - 115831.webp
-    name:
-      ja: リマ
-    nickname:
-      ja: リマ
-
-  - id: monika
-    avatars:
-      - 105311.webp
-      - 105331.webp
-      - 105361.webp
-      - 114211.webp
-      - 114231.webp
-    name:
-      ja: モニカ
-    nickname:
-      ja: モニカ
-
-  - id: tsumugi
-    avatars:
-      - 105411.webp
-      - 105431.webp
-      - 113911.webp
-      - 113931.webp
-      - 117411.webp
-      - 117431.webp
-    tags:
-      - carmina
-    name:
-      en: Mayumiya Tsumugi
-      ja: 繭宮 つむぎ
-      zh-CN: 茧宫 纺希
-    nickname:
-      en: Tsumugi
-      ja: ツムギ
-      zh-CN: 纺希
-
-  - id: ayumi
-    avatars:
-      - 105511.webp
-      - 105531.webp
-      - 113011.webp
-      - 113031.webp
-      - 121511.webp
-      - 121531.webp
-    name:
-      ja: アユミ
-    nickname:
-      ja: アユミ
-
-  - id: ruka
-    avatars:
-      - 105611.webp
-      - 105631.webp
-      - 113111.webp
-      - 113131.webp
-      - 120811.webp
-      - 120831.webp
-    tags:
-      - twilight-caravan
-    name:
-      en: Tachiarai Ruka
-      ja: 太刀洗 流夏
-      zh-CN: 太刀洗 流夏
-    nickname:
-      en: Ruka
-      ja: ルカ
-      zh-CN: 流夏
-
-  - id: jiita
-    avatars:
-      - 105711.webp
-      - 105731.webp
-      - 105761.webp
-      - 170111.webp
-      - 170131.webp
-      - 170161.webp
-    name:
-      ja: ジータ
-    nickname:
-      ja: ジータ
-
-  - id: pecorine
-    avatars:
-      - 105811.webp
-      - 105831.webp
-      - 105861.webp
-      - 107511.webp
-      - 107531.webp
-      - 107561.webp
-      - 111811.webp
-      - 111831.webp
-      - 121011.webp
-      - 121031.webp
-      - 180411.webp
-      - 180431.webp
-    tags:
-      - gourmet-edifice
-    name:
-      en: Eustiana von Astraea
-      ja: ユースティアナ・フォン・アストライア
-      zh-CN: 尤丝蒂亚娜·冯·阿斯特莱亚
-    nickname:
-      en: Pecorine
-      ja: ペコリーヌ
-      zh-CN: 佩可莉姆
-
-  - id: kokkoro
-    avatars:
-      - 105911.webp
-      - 105931.webp
-      - 105961.webp
-      - 107611.webp
-      - 107631.webp
-      - 107661.webp
-      - 111911.webp
-      - 111931.webp
-      - 115511.webp
-      - 115531.webp
-      - 180511.webp
-      - 180531.webp
-    tags:
-      - gourmet-edifice
-    name:
-      en: Natsume Kokoro
-      ja: 棗 こころ
-      zh: 棗 可萝
-    nickname:
-      en: Kokkoro
-      ja: コッコロ
-      zh-CN: 可可萝
+      ja: カリン
 
   - id: karyl
     avatars:
@@ -1041,43 +468,18 @@ characters:
       ja: キャル
       zh-CN: 凯露
 
-  - id: muimi
+  - id: kasumi
     avatars:
-      - 106111.webp
-      - 106131.webp
-      - 114711.webp
-      - 114731.webp
+      - 101411.webp
+      - 101431.webp
+      - 112211.webp
+      - 112231.webp
+      - 115711.webp
+      - 115731.webp
     name:
-      ja: ムイミ
+      ja: カスミ
     nickname:
-      ja: ムイミ
-
-  - id: arisa
-    avatars:
-      - 106311.webp
-      - 106331.webp
-      - 106361.webp
-    name:
-      ja: アリサ
-    nickname:
-      ja: アリサ
-
-  - id: shefi
-    avatars:
-      - 106411.webp
-      - 106431.webp
-      - 120711.webp
-      - 120731.webp
-    tags:
-      - gourmet-edifice
-    name:
-      en: Agato Shifuna
-      ja: 阿賀斗 紫布菜
-      zh-CN: 阿賀斗 紫布菜
-    nickname:
-      en: Sheffy
-      ja: シェフィ
-      zh-CN: 雪菲
+      ja: カスミ
 
   - id: kaya
     avatars:
@@ -1090,27 +492,418 @@ characters:
     nickname:
       ja: カヤ
 
-  - id: inori
+  - id: kazumasa
     avatars:
-      - 106611.webp
-      - 106631.webp
-      - 116511.webp
-      - 116531.webp
-      - 121611.webp
-      - 121631.webp
+      - 191301.webp
+      - 191311.webp
     name:
-      ja: イノリ
+      ja: カズマサ
     nickname:
-      ja: イノリ
+      ja: カズマサ
 
-  - id: homare
+  - id: kokkoro
     avatars:
-      - 106711.webp
-      - 106731.webp
+      - 105911.webp
+      - 105931.webp
+      - 105961.webp
+      - 107611.webp
+      - 107631.webp
+      - 107661.webp
+      - 111911.webp
+      - 111931.webp
+      - 115511.webp
+      - 115531.webp
+      - 180511.webp
+      - 180531.webp
+    tags:
+      - gourmet-edifice
     name:
-      ja: ホマレ
+      en: Natsume Kokoro
+      ja: 棗 こころ
+      zh: 棗 可萝
     nickname:
-      ja: ホマレ
+      en: Kokkoro
+      ja: コッコロ
+      zh-CN: 可可萝
+
+  - id: kurejitta
+    avatars:
+      - 118011.webp
+      - 118031.webp
+    name:
+      ja: クレジッタ
+    nickname:
+      ja: クレジッタ
+
+  - id: kuroe
+    avatars:
+      - 110811.webp
+      - 110831.webp
+      - 116211.webp
+      - 116231.webp
+    tags:
+      - friendship-club
+    name:
+      en: Kuroe Hanako
+      ja: 黒江 花子
+      zh-CN: 黑江 花子
+    nickname:
+      en: Kuroe
+      ja: クロエ
+      zh-CN: 克罗依
+
+  - id: kurumi
+    avatars:
+      - 102111.webp
+      - 102131.webp
+      - 102161.webp
+      - 108511.webp
+      - 108531.webp
+      - 121311.webp
+      - 121331.webp
+    name:
+      ja: クルミ
+    nickname:
+      ja: クルミ
+
+  - id: kuuka
+    avatars:
+      - 104511.webp
+      - 104531.webp
+      - 104561.webp
+      - 109511.webp
+      - 109531.webp
+      - 119111.webp
+      - 119131.webp
+    name:
+      ja: クウカ
+    nickname:
+      ja: クウカ
+
+  - id: kyouka
+    avatars:
+      - 103611.webp
+      - 103631.webp
+      - 103661.webp
+      - 111111.webp
+      - 111131.webp
+      - 120611.webp
+      - 120631.webp
+    tags:
+      - little-lyrical
+    name:
+      en: Hikawa Kyouka
+      ja: 氷川 鏡華
+      zh-CN: 冰川 镜华
+    nickname:
+      en: Kyouka
+      ja: キョウカ
+      zh-CN: 镜华
+
+  - id: mahiru
+    avatars:
+      - 103311.webp
+      - 103331.webp
+      - 103361.webp
+      - 112811.webp
+      - 112831.webp
+      - 119211.webp
+      - 119231.webp
+    name:
+      ja: マヒル
+    nickname:
+      ja: マヒル
+
+  - id: maho
+    avatars:
+      - 101011.webp
+      - 101031.webp
+      - 101061.webp
+      - 110611.webp
+      - 110631.webp
+      - 116011.webp
+      - 116031.webp
+    name:
+      ja: マホ
+    nickname:
+      ja: マホ
+
+  - id: makoto
+    avatars:
+      - 104311.webp
+      - 104331.webp
+      - 110411.webp
+      - 110431.webp
+      - 115911.webp
+      - 115931.webp
+    name:
+      ja: マコト
+    nickname:
+      ja: マコト
+
+  - id: matsuri
+    avatars:
+      - 100511.webp
+      - 100531.webp
+      - 114111.webp
+      - 114131.webp
+    tags:
+      - nightmare
+    name:
+      en: Orihara Matsuri
+      ja: 織原 茉莉
+      zh-CN: 织原 茉莉
+    nickname:
+      en: Matsuri
+      ja: マツリ
+      zh-CN: 茉莉
+
+  - id: mifuyu
+    avatars:
+      - 104811.webp
+      - 104831.webp
+      - 104861.webp
+      - 108011.webp
+      - 108031.webp
+      - 116911.webp
+      - 116931.webp
+    name:
+      ja: ミフユ
+    nickname:
+      ja: ミフユ
+
+  - id: mimi
+    avatars:
+      - 102011.webp
+      - 102031.webp
+      - 102061.webp
+      - 111311.webp
+      - 111331.webp
+      - 120411.webp
+      - 120431.webp
+    tags:
+      - little-lyrical
+    name:
+      en: Akane Mimi
+      ja: 茜 ミミ
+      zh-CN: 茜 美美
+    nickname:
+      en: Mimi
+      ja: ミミ
+      zh-CN: 美美
+
+  - id: mio
+    avatars:
+      - 112611.webp
+      - 112631.webp
+    name:
+      ja: ミオ
+    nickname:
+      ja: ミオ
+
+  - id: misaki
+    avatars:
+      - 105011.webp
+      - 105031.webp
+      - 105061.webp
+      - 108311.webp
+      - 108331.webp
+      - 121411.webp
+      - 121431.webp
+    tags:
+      - lucent-academy
+    name:
+      en: Tamaizumi Misaki
+      ja: 玉泉 美咲
+      zh-CN: 玉泉 美咲
+    nickname:
+      en: Misaki
+      ja: ミサキ
+      zh-CN: 美咲
+
+  - id: misato
+    avatars:
+      - 101511.webp
+      - 101531.webp
+      - 113511.webp
+      - 113531.webp
+    tags:
+      - forestier
+    name:
+      en: Aikawa Misato
+      ja: 愛川 美里
+      zh-CN: 爱川 美里
+    nickname:
+      en: Misato
+      ja: ミサト
+      zh-CN: 美里
+
+  - id: misogi
+    avatars:
+      - 100411.webp
+      - 100431.webp
+      - 100461.webp
+      - 111211.webp
+      - 111231.webp
+      - 120511.webp
+      - 120531.webp
+    tags:
+      - little-lyrical
+    name:
+      en: Hodaka Misogi
+      ja: 穂高 みそぎ
+      zh-CN: 穂高 未奏希
+    nickname:
+      en: Misogi
+      ja: ミソギ
+      zh-CN: 未奏希
+
+  - id: mitsuki
+    avatars:
+      - 105111.webp
+      - 105131.webp
+      - 117511.webp
+      - 117531.webp
+    tags:
+      - twilight-caravan
+    name:
+      en: Yoigahama Mitsuki
+      ja: 宵ヶ浜 深月
+      zh-CN: 宵滨 深月
+    nickname:
+      en: Mitsuki
+      ja: ミツキ
+      zh-CN: 深月
+
+  - id: miyako
+    avatars:
+      - 100711.webp
+      - 100731.webp
+      - 108211.webp
+      - 108231.webp
+      - 119911.webp
+      - 119931.webp
+    tags:
+      - diabolos
+    name:
+      en: Izumo Miyako
+      ja: 出雲 宮子
+      zh-CN: 出云 宫子
+    nickname:
+      en: Miyako
+      ja: ミヤコ
+      zh-CN: 宫子
+
+  - id: monika
+    avatars:
+      - 105311.webp
+      - 105331.webp
+      - 105361.webp
+      - 114211.webp
+      - 114231.webp
+    name:
+      ja: モニカ
+    nickname:
+      ja: モニカ
+
+  - id: muimi
+    avatars:
+      - 106111.webp
+      - 106131.webp
+      - 114711.webp
+      - 114731.webp
+    name:
+      ja: ムイミ
+    nickname:
+      ja: ムイミ
+
+  - id: nanaka
+    avatars:
+      - 101311.webp
+      - 101331.webp
+      - 101361.webp
+      - 113311.webp
+      - 113331.webp
+    tags:
+      - twilight-caravan
+    name:
+      en: Tanno Nanaka
+      ja: 丹野 七々香
+      zh-CN: 丹野 七七香
+    nickname:
+      en: Nanaka
+      ja: ナナカ
+      zh-CN: 七七香
+
+  - id: neneka
+    avatars:
+      - 107011.webp
+      - 107031.webp
+      - 115011.webp
+      - 115031.webp
+    name:
+      ja: ネネカ
+    nickname:
+      ja: ネネカ
+
+  - id: ninon
+    avatars:
+      - 103011.webp
+      - 103031.webp
+      - 103061.webp
+      - 109611.webp
+      - 109631.webp
+      - 117811.webp
+      - 117831.webp
+    name:
+      ja: ニノン
+    nickname:
+      ja: ニノン
+
+  - id: nozomi
+    avatars:
+      - 102911.webp
+      - 102931.webp
+      - 102961.webp
+      - 111611.webp
+      - 111631.webp
+      - 117211.webp
+      - 117231.webp
+    tags:
+      - carmina
+    name:
+      en: Sakurai Nozomi
+      ja: 桜井 望
+      zh-CN: 樱井 望
+    nickname:
+      en: Nozomi
+      ja: ノゾミ
+      zh-CN: 望
+
+  - id: pecorine
+    avatars:
+      - 105811.webp
+      - 105831.webp
+      - 105861.webp
+      - 107511.webp
+      - 107531.webp
+      - 107561.webp
+      - 111811.webp
+      - 111831.webp
+      - 121011.webp
+      - 121031.webp
+      - 180411.webp
+      - 180431.webp
+    tags:
+      - gourmet-edifice
+    name:
+      en: Eustiana von Astraea
+      ja: ユースティアナ・フォン・アストライア
+      zh-CN: 尤丝蒂亚娜·冯·阿斯特莱亚
+    nickname:
+      en: Pecorine
+      ja: ペコリーヌ
+      zh-CN: 佩可莉姆
 
   - id: rabirisuta
     avatars:
@@ -1130,60 +923,45 @@ characters:
       ja: ラビリスタ
       zh-CN: 菈比莉斯塔
 
-  - id: neneka
+  - id: ramu
     avatars:
-      - 107011.webp
-      - 107031.webp
-      - 115011.webp
-      - 115031.webp
+      - 109811.webp
+      - 109831.webp
     name:
-      ja: ネネカ
+      ja: ラム
     nickname:
-      ja: ネネカ
+      ja: ラム
 
-  - id: christina
+  - id: ranfa
     avatars:
-      - 107111.webp
-      - 107131.webp
-      - 111511.webp
-      - 111531.webp
+      - 118111.webp
+      - 118131.webp
+    name:
+      ja: ランファ
+    nickname:
+      ja: ランファ
+
+  - id: rei
+    avatars:
+      - 100311.webp
+      - 100331.webp
+      - 100361.webp
+      - 108911.webp
+      - 108931.webp
+      - 114011.webp
+      - 114031.webp
+      - 180311.webp
+      - 180331.webp
     tags:
-      - nightmare
+      - twinkle-wish
     name:
-      en: Christina Morgan
-      ja: クリスティーナ・モーガン
-      zh-CN: 克莉丝提娜·摩根
+      en: Shijo Rei
+      ja: 士条 怜
+      zh-CN: 士条 怜
     nickname:
-      en: Christina
-      ja: クリスティーナ
-      zh-CN: 克莉丝提娜
-
-  - id: an
-    avatars:
-      - 109211.webp
-      - 109231.webp
-    name:
-      ja: アン
-    nickname:
-      ja: アン
-
-  - id: rwu
-    avatars:
-      - 109311.webp
-      - 109331.webp
-    name:
-      ja: ルゥ
-    nickname:
-      ja: ルゥ
-
-  - id: gurea
-    avatars:
-      - 109411.webp
-      - 109431.webp
-    name:
-      ja: グレア
-    nickname:
-      ja: グレア
+      en: Rei
+      ja: レイ
+      zh-CN: 怜
 
   - id: remu
     avatars:
@@ -1194,57 +972,329 @@ characters:
     nickname:
       ja: レム
 
-  - id: ramu
+  - id: rima
     avatars:
-      - 109811.webp
-      - 109831.webp
+      - 105211.webp
+      - 105231.webp
+      - 105261.webp
+      - 115811.webp
+      - 115831.webp
     name:
-      ja: ラム
+      ja: リマ
     nickname:
-      ja: ラム
+      ja: リマ
 
-  - id: emiria
+  - id: rino
     avatars:
-      - 109911.webp
-      - 109931.webp
-    name:
-      ja: エミリア
-    nickname:
-      ja: エミリア
-
-  - id: kuroe
-    avatars:
-      - 110811.webp
-      - 110831.webp
-      - 116211.webp
-      - 116231.webp
+      - 101111.webp
+      - 101131.webp
+      - 101161.webp
+      - 112911.webp
+      - 112931.webp
+      - 119311.webp
+      - 119331.webp
     tags:
-      - friendship-club
+      - labyrinth
     name:
-      en: Kuroe Hanako
-      ja: 黒江 花子
-      zh-CN: 黑江 花子
+      en: Inosaki Rino
+      ja: 衣之咲 璃乃
+      zh-CN: 衣之咲 璃乃
     nickname:
-      en: Kuroe
-      ja: クロエ
-      zh-CN: 克罗依
+      en: Rino
+      ja: リノ
+      zh-CN: 璃乃
 
-  - id: chieru
+  - id: rin
     avatars:
-      - 110911.webp
-      - 110931.webp
-      - 116311.webp
-      - 116331.webp
-    tags:
-      - friendship-club
+      - 102611.webp
+      - 102631.webp
+      - 102661.webp
+      - 112511.webp
+      - 112531.webp
+      - 112711.webp
+      - 112731.webp
     name:
-      en: Kazama Chieru
-      ja: 風間 ちえる
-      zh-CN: 风间 千爱瑠
+      ja: リン
     nickname:
-      en: Chieru
-      ja: チエル
-      zh-CN: 千爱瑠
+      ja: リン
+
+  - id: ruka
+    avatars:
+      - 105611.webp
+      - 105631.webp
+      - 113111.webp
+      - 113131.webp
+      - 120811.webp
+      - 120831.webp
+    tags:
+      - twilight-caravan
+    name:
+      en: Tachiarai Ruka
+      ja: 太刀洗 流夏
+      zh-CN: 太刀洗 流夏
+    nickname:
+      en: Ruka
+      ja: ルカ
+      zh-CN: 流夏
+
+  - id: runa
+    avatars:
+      - 111411.webp
+      - 111431.webp
+    name:
+      ja: ルナ
+    nickname:
+      ja: ルナ
+
+  - id: rwu
+    avatars:
+      - 109311.webp
+      - 109331.webp
+    name:
+      ja: ルゥ
+    nickname:
+      ja: ルゥ
+
+  - id: saren
+    avatars:
+      - 102811.webp
+      - 102831.webp
+      - 102861.webp
+      - 110311.webp
+      - 110331.webp
+      - 114511.webp
+      - 114531.webp
+      - 121811.webp
+      - 121831.webp
+    name:
+      ja: サレン
+    nickname:
+      ja: サレン
+
+  - id: shefi
+    avatars:
+      - 106411.webp
+      - 106431.webp
+      - 120711.webp
+      - 120731.webp
+    tags:
+      - gourmet-edifice
+    name:
+      en: Agato Shifuna
+      ja: 阿賀斗 紫布菜
+      zh-CN: 阿賀斗 紫布菜
+    nickname:
+      en: Sheffy
+      ja: シェフィ
+      zh-CN: 雪菲
+
+  - id: shinobu
+    avatars:
+      - 103111.webp
+      - 103131.webp
+      - 108111.webp
+      - 108131.webp
+      - 122011.webp
+      - 122031.webp
+    tags:
+      - diabolos
+    name:
+      en: Kamiki Shinobu
+      ja: 上喜 しのぶ
+      zh-CN: 上喜 忍
+    nickname:
+      en: Shinobu
+      ja: シノブ
+      zh-CN: 忍
+
+  - id: shiori
+    avatars:
+      - 103811.webp
+      - 103831.webp
+      - 112311.webp
+      - 112331.webp
+      - 118411.webp
+      - 118431.webp
+    name:
+      ja: シオリ
+    nickname:
+      ja: シオリ
+
+  - id: shizuru
+    avatars:
+      - 104911.webp
+      - 104931.webp
+      - 104961.webp
+      - 109111.webp
+      - 109131.webp
+      - 117111.webp
+      - 117131.webp
+    tags:
+      - labyrinth
+    name:
+      en: Hoshino Shizuru
+      ja: 星野 静流
+      zh-CN: 星野 静流
+    nickname:
+      en: Shizuru
+      ja: シズル
+      zh-CN: 静流
+
+  - id: suzume
+    avatars:
+      - 102511.webp
+      - 102531.webp
+      - 102561.webp
+      - 107711.webp
+      - 107731.webp
+      - 112111.webp
+      - 112131.webp
+    name:
+      ja: スズメ
+    nickname:
+      ja: スズメ
+
+  - id: suzuna
+    avatars:
+      - 101611.webp
+      - 101631.webp
+      - 101661.webp
+      - 110011.webp
+      - 110031.webp
+      - 117911.webp
+      - 117931.webp
+    tags:
+      - lucent-academy
+    name:
+      en: Minami Suzuna
+      ja: 美波 鈴奈
+      zh-CN: 美波 铃奈
+    nickname:
+      en: Suzuna
+      ja: スズナ
+      zh-CN: 铃奈
+
+  - id: tamaki
+    avatars:
+      - 104611.webp
+      - 104631.webp
+      - 104661.webp
+      - 107911.webp
+      - 107931.webp
+      - 116811.webp
+      - 116831.webp
+    name:
+      ja: タマキ
+    nickname:
+      ja: タマキ
+
+  - id: tomo
+    avatars:
+      - 103711.webp
+      - 103731.webp
+      - 114311.webp
+      - 114331.webp
+    tags:
+      - nightmare
+    name:
+      en: Mikuma Tomo
+      ja: 御久間 智
+      zh-CN: 御久间 智
+    nickname:
+      en: Tomo
+      ja: トモ
+      zh-CN: 智
+
+  - id: tsumugi
+    avatars:
+      - 105411.webp
+      - 105431.webp
+      - 113911.webp
+      - 113931.webp
+      - 117411.webp
+      - 117431.webp
+    tags:
+      - carmina
+    name:
+      en: Mayumiya Tsumugi
+      ja: 繭宮 つむぎ
+      zh-CN: 茧宫 纺希
+    nickname:
+      en: Tsumugi
+      ja: ツムギ
+      zh-CN: 纺希
+
+  - id: uzuki
+    avatars:
+      - 112411.webp
+      - 112431.webp
+    name:
+      ja: ウヅキ
+    nickname:
+      ja: ウヅキ
+
+  - id: yori
+    avatars:
+      - 102211.webp
+      - 102231.webp
+      - 102261.webp
+      - 113811.webp
+      - 113831.webp
+    tags:
+      - diabolos
+    name:
+      en: Kazemiya Yori
+      ja: 風宮 より
+      zh-CN: 风宫 依里
+    nickname:
+      en: Yori
+      ja: ヨリ
+      zh-CN: 依里
+
+  - id: yui
+    avatars:
+      - 100211.webp
+      - 100231.webp
+      - 100261.webp
+      - 108811.webp
+      - 108831.webp
+      - 115611.webp
+      - 115631.webp
+      - 180211.webp
+      - 180231.webp
+    tags:
+      - twinkle-wish
+    name:
+      en: Yui Kusano
+      ja: 草野 優衣
+      zh-CN: 草野 优衣
+    nickname:
+      en: Yui
+      ja: ユイ
+      zh-CN: 优衣
+
+  - id: yukari
+    avatars:
+      - 103411.webp
+      - 103431.webp
+      - 103461.webp
+      - 114611.webp
+      - 114631.webp
+    name:
+      ja: ユカリ
+    nickname:
+      ja: ユカリ
+
+  - id: yuki
+    avatars:
+      - 100811.webp
+      - 100831.webp
+      - 117611.webp
+      - 117631.webp
+    name:
+      ja: ユキ
+    nickname:
+      ja: ユキ
 
   - id: yuni
     avatars:
@@ -1263,59 +1313,23 @@ characters:
       ja: ユニ
       zh-CN: 优妮
 
-  - id: runa
+  - id: yuuki
     avatars:
-      - 111411.webp
-      - 111431.webp
+      - 191511.webp
+      - 191611.webp
+      - 191711.webp
+    tags:
+      - gourmet-edifice
+      - twinkle-wish
+      - princess-knight
     name:
-      ja: ルナ
+      en: Sakai Naoto
+      ja: 坂井 直人
+      zh-CN: 坂井 直人
     nickname:
-      ja: ルナ
-
-  - id: uzuki
-    avatars:
-      - 112411.webp
-      - 112431.webp
-    name:
-      ja: ウヅキ
-    nickname:
-      ja: ウヅキ
-
-  - id: mio
-    avatars:
-      - 112611.webp
-      - 112631.webp
-    name:
-      ja: ミオ
-    nickname:
-      ja: ミオ
-
-  - id: kurejitta
-    avatars:
-      - 118011.webp
-      - 118031.webp
-    name:
-      ja: クレジッタ
-    nickname:
-      ja: クレジッタ
-
-  - id: ranfa
-    avatars:
-      - 118111.webp
-      - 118131.webp
-    name:
-      ja: ランファ
-    nickname:
-      ja: ランファ
-
-  - id: karin
-    avatars:
-      - 118511.webp
-      - 118531.webp
-    name:
-      ja: カリン
-    nickname:
-      ja: カリン
+      en: Yuuki
+      ja: 佑树
+      zh-CN: 佑树
 
   # - id: hatsune＆shiori
   #   avatars:
@@ -1344,29 +1358,15 @@ characters:
   #   nickname:
   #     ja: アキノ＆サレン
 
-  - id: kazumasa
-    avatars:
-      - 191301.webp
-      - 191311.webp
-    name:
-      ja: カズマサ
-    nickname:
-      ja: カズマサ
-
-  - id: yuuki
-    avatars:
-      - 191511.webp
-      - 191611.webp
-      - 191711.webp
-    tags:
-      - gourmet-edifice
-      - twinkle-wish
-      - princess-knight
-    name:
-      en: Sakai Naoto
-      ja: 坂井 直人
-      zh-CN: 坂井 直人
-    nickname:
-      en: Yuuki
-      ja: 佑树
-      zh-CN: 佑树
+  # - id: okutou
+  #   avatars: []
+  #   tags:
+  #     - nightmare
+  #   name:
+  #     en: Okutou Eito
+  #     ja: 尾狗刀 詠斗
+  #     zh-CN: 尾狗刀 咏斗
+  #   nickname:
+  #     en: Eito
+  #     ja: 詠斗
+  #     zh-CN: 咏斗
