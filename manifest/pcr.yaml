@@ -41,13 +41,16 @@ tags:
   sarendia-kyugoin:
     ja: サレンディア救護院
     zh-CN: 咲恋救济院
-  dobutsuen:
+  animal-garden:
+    en: Animal Garden
     ja: 動物苑
     zh-CN: 动物苑
-  kaon:
+  caon:
+    en: Caon
     ja: 自警団
     zh-CN: 自卫团
   elizabeth-park:
+    en: Elizabeth Park
     ja: 牧場
     zh-CN: 伊丽莎白牧场
   mercury-zaidan:
@@ -71,7 +74,8 @@ tags:
     en: Friendship Club
     ja: なかよし部
     zh-CN: 好朋友部
-  dragon-nest:
+  dragons-nest:
+    en: Dragon's Nest
     ja: ドラゴンズネスト
     zh-CN: 龙族巢穴
   seven-crowns:
@@ -332,10 +336,16 @@ characters:
     avatars:
       - 106711.webp
       - 106731.webp
+    tags:
+      - dragons-nest
     name:
-      ja: ホマレ
+      en: Touno Homare
+      ja: 遠野 帆稀
+      zh-CN: 远野 帆稀
     nickname:
+      en: Homare
       ja: ホマレ
+      zh-CN: 帆稀
 
   - id: inori
     avatars:
@@ -345,10 +355,16 @@ characters:
       - 116531.webp
       - 121611.webp
       - 121631.webp
+    tags:
+      - dragons-nest
     name:
-      ja: イノリ
+      en: Ichinose Inori
+      ja: 一ノ瀬 祈梨
+      zh-CN: 一之濑 祈梨
     nickname:
+      en: Inori
       ja: イノリ
+      zh-CN: 祈梨
 
   - id: io
     avatars:
@@ -429,10 +445,17 @@ characters:
       - 110531.webp
       - 117711.webp
       - 117731.webp
+    tags:
+      - animal-garden
+      - caon
     name:
-      ja: カオリ
+      en: Kyan Kaori
+      ja: 喜屋武 香織
+      zh-CN: 喜屋武 香织
     nickname:
+      en: Kaori
       ja: カオリ
+      zh-CN: 香织
 
   - id: karin
     avatars:
@@ -476,10 +499,17 @@ characters:
       - 112231.webp
       - 115711.webp
       - 115731.webp
+    tags:
+      - animal-garden
+      - caon
     name:
-      ja: カスミ
+      en: Kirihara Kasumi
+      ja: 霧原 かすみ
+      zh-CN: 雾原 香澄
     nickname:
+      en: Kasumi
       ja: カスミ
+      zh-CN: 香澄
 
   - id: kaya
     avatars:
@@ -487,10 +517,16 @@ characters:
       - 106531.webp
       - 116611.webp
       - 116631.webp
+    tags:
+      - dragons-nest
     name:
-      ja: カヤ
+      en: Kidou Kaya
+      ja: 鬼道 嘉夜
+      zh-CN: 鬼道 嘉夜
     nickname:
+      en: Kaya
       ja: カヤ
+      zh-CN: 嘉夜
 
   - id: kazumasa
     avatars:
@@ -609,10 +645,17 @@ characters:
       - 112831.webp
       - 119211.webp
       - 119231.webp
+    tags:
+      - animal-garden
+      - elizabeth-park
     name:
-      ja: マヒル
+      en: Noto Mahiru
+      ja: 野戸 まひる
+      zh-CN: 野户 真阳
     nickname:
+      en: Mahiru
       ja: マヒル
+      zh-CN: 真阳
 
   - id: maho
     avatars:
@@ -623,10 +666,17 @@ characters:
       - 110631.webp
       - 116011.webp
       - 116031.webp
+    tags:
+      - animal-garden
+      - caon
     name:
-      ja: マホ
+      en: Himemiya Maho
+      ja: 姫宮 真歩
+      zh-CN: 姬宫 真步
     nickname:
+      en: Maho
       ja: マホ
+      zh-CN: 真步
 
   - id: makoto
     avatars:
@@ -636,10 +686,17 @@ characters:
       - 110431.webp
       - 115911.webp
       - 115931.webp
+    tags:
+      - animal-garden
+      - caon
     name:
-      ja: マコト
+      en: Aki Makoto
+      ja: 安芸 真琴
+      zh-CN: 安艺 真琴
     nickname:
+      en: Makoto
       ja: マコト
+      zh-CN: 真琴
 
   - id: matsuri
     avatars:
@@ -979,10 +1036,17 @@ characters:
       - 105261.webp
       - 115811.webp
       - 115831.webp
+    tags:
+      - animal-garden
+      - elizabeth-park
     name:
+      en: Rima
       ja: リマ
+      zh-CN: 莉玛
     nickname:
+      en: Rima
       ja: リマ
+      zh-CN: 莉玛
 
   - id: rino
     avatars:
@@ -1013,10 +1077,17 @@ characters:
       - 112531.webp
       - 112711.webp
       - 112731.webp
+    tags:
+      - animal-garden
+      - elizabeth-park
     name:
-      ja: リン
+      en: Morichika Rin
+      ja: 森近 鈴
+      zh-CN: 森近 铃
     nickname:
+      en: Rin
       ja: リン
+      zh-CN: 铃
 
   - id: ruka
     avatars:
@@ -1115,10 +1186,18 @@ characters:
       - 112331.webp
       - 118411.webp
       - 118431.webp
+    tags:
+      - animal-garden
+      - caon
+      - elizabeth-park
     name:
-      ja: シオリ
+      en: Kashiwazaki Shiori
+      ja: 柏崎 栞
+      zh-CN: 柏崎 栞
     nickname:
+      en: Shiori
       ja: シオリ
+      zh-CN: 栞
 
   - id: shizuru
     avatars:
