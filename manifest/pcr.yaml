@@ -38,7 +38,8 @@ tags:
     en: Nightmare
     ja: 王宮騎士団
     zh-CN: 王宫骑士团
-  sarendia-kyugoin:
+  sarendia:
+    en: Sarendia
     ja: サレンディア救護院
     zh-CN: 咲恋救济院
   animal-garden:
@@ -53,7 +54,8 @@ tags:
     en: Elizabeth Park
     ja: 牧場
     zh-CN: 伊丽莎白牧场
-  mercury-zaidan:
+  mercurius-foundation:
+    en: Mercurius Foundation
     ja: メルクリウス財団
     zh-CN: 墨丘利财团
   twilight-caravan:
@@ -115,10 +117,16 @@ characters:
       - 114431.webp
       - 121711.webp
       - 121731.webp
+    tags:
+      - mercurius-foundation
     name:
-      ja: アキノ
+      en: Toudou Akino
+      ja: 藤堂 秋乃
+      zh-CN: 藤堂 秋乃
     nickname:
+      en: Akino
       ja: アキノ
+      zh-CN: 秋乃
 
   - id: an
     avatars:
@@ -183,10 +191,16 @@ characters:
       - 102361.webp
       - 108611.webp
       - 108631.webp
+    tags:
+      - sarendia
     name:
-      ja: アヤネ
+      en: Houjou Ayane
+      ja: 北条 綾音
+      zh-CN: 北条 绫音
     nickname:
+      en: Ayane
       ja: アヤネ
+      zh-CN: 绫音
 
   - id: ayumi
     avatars:
@@ -597,10 +611,16 @@ characters:
       - 108531.webp
       - 121311.webp
       - 121331.webp
+    tags:
+      - sarendia
     name:
-      ja: クルミ
+      en: Kuribayashi Kurumi
+      ja: 栗林くるみ
+      zh-CN: 栗林 胡桃
     nickname:
+      en: Kurumi
       ja: クルミ
+      zh-CN: 胡桃
 
   - id: kuuka
     avatars:
@@ -724,10 +744,16 @@ characters:
       - 108031.webp
       - 116911.webp
       - 116931.webp
+    tags:
+      - mercurius-foundation
     name:
-      ja: ミフユ
+      en: Oogami Mifuyu
+      ja: 大神 美冬
+      zh-CN: 大神 美冬
     nickname:
+      en: Mifuyu
       ja: ミフユ
+      zh-CN: 美冬
 
   - id: mimi
     avatars:
@@ -1137,10 +1163,16 @@ characters:
       - 114531.webp
       - 121811.webp
       - 121831.webp
+    tags:
+      - sarendia
     name:
-      ja: サレン
+      en: Sasaki Saren
+      ja: 佐々木 咲恋
+      zh-CN: 佐佐木 咲恋
     nickname:
+      en: Saren
       ja: サレン
+      zh-CN: 咲恋
 
   - id: shefi
     avatars:
@@ -1228,10 +1260,16 @@ characters:
       - 107731.webp
       - 112111.webp
       - 112131.webp
+    tags:
+      - sarendia
     name:
-      ja: スズメ
+      en: Amano Suzume
+      ja: 天野 すずめ
+      zh-CN: 天野 铃莓
     nickname:
+      en: Suzume
       ja: スズメ
+      zh-CN: 铃莓
 
   - id: suzuna
     avatars:
@@ -1262,10 +1300,16 @@ characters:
       - 107931.webp
       - 116811.webp
       - 116831.webp
+    tags:
+      - mercurius-foundation
     name:
-      ja: タマキ
+      en: Miyasaka Tamaki
+      ja: 宮坂 たまき
+      zh-CN: 宫坂 珠希
     nickname:
+      en: Tamaki
       ja: タマキ
+      zh-CN: 珠希
 
   - id: tomo
     avatars:
@@ -1359,10 +1403,16 @@ characters:
       - 103461.webp
       - 114611.webp
       - 114631.webp
+    tags:
+      - mercurius-foundation
     name:
-      ja: ユカリ
+      en: Ayase Yukari
+      ja: 綾瀬 ゆかり
+      zh: 绫濑 由加莉
     nickname:
+      en: Yukari
       ja: ユカリ
+      zh: 由加莉
 
   - id: yuki
     avatars:
